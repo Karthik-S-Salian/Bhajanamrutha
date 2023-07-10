@@ -1,6 +1,8 @@
 
 //import { v4 as uuidv4 } from 'uuid';
-import data from "./data.json"
+import _data from "./data.json"
+
+const data :Song[] = _data as Song[]
 
 const regex = /[!"`'#%&,.:;<>=@{}~\$\(\)\*\+\/\\\?\[\]\^\|]/gi;
 

@@ -69,7 +69,7 @@ const colors = ["bg-slate-200", "bg-white"];
 
         if (event.key === "Enter") {
             clearInput();
-            window.location.href = `/search/${query}`;
+            window.location.href = `${window.origin}/search/${query}`;
             return;
         }
 
@@ -78,7 +78,7 @@ const colors = ["bg-slate-200", "bg-white"];
             return;
         }
 
-        fetch(`http://localhost:3000/api/search?query=${query}`)
+        fetch(`${window.origin}/api/search?query=${query}`)
             .then((response) => response.json())
             .then((data: SongTitle[]) => {
                 if (data) {
