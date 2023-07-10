@@ -10,6 +10,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.8.0"
+    "@astrojs/netlify": "^2.3.0",
+    "@astrojs/tailwind": "^4.0.0",
+    "@fontsource-variable/inter": "^5.0.4",
+    "@fontsource-variable/noto-sans-kannada": "^5.0.5",
+    "astro": "^2.8.0",
+    "tailwindcss": "^3.3.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.2"
   }
 }

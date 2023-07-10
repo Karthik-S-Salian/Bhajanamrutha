@@ -1,0 +1,20 @@
+---
+export const prerender = false;
+
+import Layout from "../../layouts/Layout.astro";
+import BackToHome from "../../components/BackToHome.astro";
+import BhajanList from "../../components/BhajanList.astro";
+import { matchSearch } from "../../lib/bhajan";
+
+const { query } = Astro.params;
+---
+
+<Layout title={`bhajans related to ${query}`}>
+    <main class="flex gap-8 flex-col">
+        <h2 class="text-3xl mt-4 mb-0">Results for: #{query}</h2>
+
+        {query && <BhajanList songList={matchSearch(query)} />}
+
+        <BackToHome />
+    </main>
+</Layout>

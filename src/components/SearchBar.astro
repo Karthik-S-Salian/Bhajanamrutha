@@ -1,0 +1,93 @@
+---
+import searchIcon from "../images/search-icon.png";
+const colors = ["bg-slate-200", "bg-white"];
+---
+
+<div class="w-11/12 my-4 mx-auto">
+    <div
+        class="bg-white w-full my-4 rounded-full h-9 relative flex flex-row border-solid border-1 border-black hover:border-2 px-2"
+    >
+        <input
+            class="h-full pl-4 rounded-full outline-none border-none gap-1 flex-grow"
+            type="text"
+            name="searchText"
+            id="searchInput"
+        />
+        <div class="h-full aspect-[1/1] rounded-full p-1">
+            <img src={searchIcon} alt="O-" width="64" height="64" />
+        </div>
+
+        <ul
+            class="absolute top-full left-0 w-full max-w-md list-none p-0 m-0 z-10 max-h-80 overflow-y-scroll"
+            id="matchListContainer"
+        >
+        </ul>
+    </div>
+</div>
+
+<script>
+    const cache: { [key: string]: SongTitle[] } = {};
+    const searchInput = document.getElementById(
+        "searchInput"
+    ) as HTMLInputElement;
+    const matchListContainer = document.getElementById(
+        "matchListContainer"
+    ) as HTMLUListElement;
+
+    function updateMatchList(data: SongTitle[]) {
+        matchListContainer.innerHTML = data
+            .map(
+                (song) => `
+                        <li class="p-2 font-normal text-base even:bg-slate-200 odd:bg-white">
+                            <a href="/bhajans/${song.id}">
+                                <div class="kannada-font">${song.kannada_title}</div>
+                                <div>${song.english_title}</div>
+                            </a>
+                        </li>
+                                `
+            )
+            .reduce((p, c) => p + c, "");
+    }
+
+    function clearInput() {
+        searchInput.value = "";
+        matchListContainer.innerHTML = "";
+    }
+
+    searchInput.addEventListener("keyup", (event) => {
+        const query = searchInput.value;
+
+        if (query.length < 2) {
+            matchListContainer.innerHTML = "";
+            return;
+        }
+
+        if (event.key === "Escape") {
+            clearInput();
+            return;
+        }
+
+        if (event.key === "Enter") {
+            clearInput();
+            window.location.href = `/search/${query}`;
+            return;
+        }
+
+        if (cache[query]) {
+            updateMatchList(cache[query]);
+            return;
+        }
+
+        fetch(`http://localhost:3000/api/search?query=${query}`)
+            .then((response) => response.json())
+            .then((data: SongTitle[]) => {
+                if (data) {
+                    cache[query] = data;
+                    updateMatchList(data);
+                }
+            })
+            .catch((error) => console.log(error));
+    });
+
+    searchInput.addEventListener("focusout", clearInput);
+</script>

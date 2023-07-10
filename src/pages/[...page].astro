@@ -1,0 +1,31 @@
+---
+import Layout from "../layouts/Layout.astro";
+import BhajanList from "../components/BhajanList.astro";
+import data from "../lib/data.json";
+import Hero from "../components/Hero.astro";
+
+// temperory solution to shut unkown type error for paginate😶‍🌫️
+type PaginateFunction<T> = (data: T[], options: { pageSize: number }) => T[];
+
+export async function getStaticPaths({
+    paginate,
+}: {
+    paginate: PaginateFunction<any>;
+}) {
+    return paginate(data, { pageSize: 20 });
+}
+
+const { page } = Astro.props;
+---
+
+<Layout title="Bhajanamrutha">
+    <main class="flex gap-8 flex-col mx-6">
+        <Hero />
+
+        <BhajanList
+            songList={page.data}
+            prevsUrl={page.url.prev}
+            nextUrl={page.url.next}
+        />
+    </main>
+</Layout>

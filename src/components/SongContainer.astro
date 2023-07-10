@@ -1,0 +1,86 @@
+---
+export interface Props {
+    english_title?: string;
+    kannada_title: string;
+    tags?: string[];
+    kannada: string[][] | [];
+    english?: string[][] | [];
+    media?: string;
+    meta?: string;
+}
+const { kannada_title, english_title, tags, kannada, english, media, meta } =
+    Astro.props;
+---
+
+<section>
+    <h1 class="text-2xl font-bold kannada-font">
+        {kannada_title}
+    </h1>
+    {english_title && <h1 class="text-2xl font-bold">{english_title}</h1>}
+</section>
+
+{
+    tags && (
+        <section class="w-full flex flex-row flex-wrap gap-4 text-opacity-60 text-sm text-slate-900">
+            {tags.map((tag) => (
+                <a href={`/tags/${tag}`} class="capitalize">
+                    #{tag}
+                </a>
+            ))}
+        </section>
+    )
+}
+
+{meta && <section class="w-full kannada-font text-slate-800">{meta}</section>}
+
+<section>
+    <h4 class="font-bold text-lg mb-4">Lyrics in kannada</h4>
+    <div class="flex flex-col gap-4 kannada-font">
+        {
+            kannada.map((para) => {
+                return (
+                    <ul class="list-none">
+                        {para.map((stanza) => (
+                            <li>{stanza}</li>
+                        ))}
+                    </ul>
+                );
+            })
+        }
+    </div>
+</section>
+
+{
+    english && (
+        <section>
+            <h4 class="font-bold text-lg mb-4">Lyrics in english</h4>
+            <div class="flex flex-col gap-4 font">
+                {english.map((para) => {
+                    return (
+                        <ul class="list-none">
+                            {para.map((stanza) => (
+                                <li>{stanza}</li>
+                            ))}
+                        </ul>
+                    );
+                })}
+            </div>
+        </section>
+    )
+}
+
+{
+    media && (
+        <>
+            <hr class="w-full h-px border-0 rounded my-4 bg-black" />
+            <section class="aspect-[16/9] w-full max-w-md">
+                <iframe
+                    src={`${media.replace("watch?v=", "embed/")}?autoplay=0`}
+                    title="YouTube video player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    class="w-full h-full"
+                />
+            </section>
+        </>
+    )
+}

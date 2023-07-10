@@ -1,0 +1,26 @@
+---
+import { songTags, getSongWithGivenTag } from "./../../lib/bhajan";
+import Layout from "../../layouts/Layout.astro";
+import BackToHome from "../../components/BackToHome.astro";
+import BhajanList from "../../components/BhajanList.astro";
+
+export async function getStaticPaths() {
+    console.log(songTags);
+    return songTags.map((tag) => ({
+        params: { tag },
+    }));
+}
+
+const { tag } = Astro.params;
+
+const tagSongs = getSongWithGivenTag(tag?.replaceAll("%20", " "));
+---
+
+<Layout title={`bhajans related to ${tag}`}>
+    <main class="flex gap-8 flex-col">
+        <h2 class="text-3xl mt-4 mb-0">Results for: #{tag}</h2>
+        <BhajanList songList={tagSongs} />
+
+        <BackToHome />
+    </main>
+</Layout>
