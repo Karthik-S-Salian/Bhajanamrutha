@@ -5,7 +5,6 @@ import BackToHome from "../../components/BackToHome.astro";
 import BhajanList from "../../components/BhajanList.astro";
 
 export async function getStaticPaths() {
-    console.log(songTags);
     return songTags.map((tag) => ({
         params: { tag },
     }));

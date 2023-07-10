@@ -20,7 +20,6 @@ function _getAllTags(): string[] {
         if (slug) 
             tagList.push(slug)
         }
-    console.log(tagList)
     return tagList;
 
 }
@@ -73,8 +72,6 @@ function isKannadaCharacter(character:string): boolean {
 }
 
 /*
-
-
 export function updateSongData(song: WeakSong) {
     let _data: WeakSong[] = data;
 
@@ -109,22 +106,6 @@ export function deleteSong(id: string) {
     fs.writeFileSync(path.join(process.cwd(), 'src/lib/data.json'), str_data)
     revalidatePath("/")
     return true
-}
-
-
-export function perviousNextSongTitle(currentSongId: string): [SongTitle | undefined, SongTitle | undefined] {
-    for (let i = 0; i < songsTitle.length; i++) {
-        if (songsTitle[i].id === currentSongId) {
-            let prvsSongTitle;
-            let nextSongTitle;
-            if (i != 0)
-                prvsSongTitle = songsTitle[i - 1]
-            if (i != songsTitle.length - 1)
-                nextSongTitle = songsTitle[i + 1]
-            return [prvsSongTitle, nextSongTitle]
-        }
-    }
-    return [undefined, undefined]
 }
 
 */
