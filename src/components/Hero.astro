@@ -1,5 +1,6 @@
 ---
 import hero from "../images/hero.jpg";
+import { Image } from '@astrojs/image/components';
 ---
 
 <section
@@ -12,5 +13,6 @@ import hero from "../images/hero.jpg";
             Dasara padagalu
         </div>
     </div>
-    <img class="rounded-lg" src={hero} alt="me" width="300" height="300" />
+    <Image class="rounded-lg" src={hero} alt="" width={300} height={300} aspectRatio={1} format="webp" fetchpriority="high"/>
+    
 </section>

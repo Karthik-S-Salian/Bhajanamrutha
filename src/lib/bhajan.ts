@@ -1,5 +1,3 @@
-
-//import { v4 as uuidv4 } from 'uuid';
 import _data from "./data.json"
 
 const data :Song[] = _data as Song[]
@@ -70,42 +68,3 @@ function isKannadaCharacter(character:string): boolean {
   // Check if the character falls within the Kannada Unicode block
   return character >= '\u0C80' && character <= '\u0CFF';
 }
-
-/*
-export function updateSongData(song: WeakSong) {
-    let _data: WeakSong[] = data;
-
-    console.log(song.id)
-
-    if (song.id) {
-        _data = data.filter((_song) => _song.id !== song.id);
-        if (_data.length == data.length) {
-            song.id = uuidv4();
-        }
-    }
-    else
-        song.id = uuidv4();
-
-    _data.unshift(song)
-
-    const str_data = JSON.stringify(_data)
-    fs.writeFileSync(path.join(process.cwd(), 'src/lib/data.json'), str_data)
-    revalidatePath("/")
-    return song.id
-}
-
-
-export function deleteSong(id: string) {
-
-    const _data = data.filter((song) => song.id !== id);
-
-    if (_data.length == data.length)
-        return false
-
-    const str_data = JSON.stringify(_data)
-    fs.writeFileSync(path.join(process.cwd(), 'src/lib/data.json'), str_data)
-    revalidatePath("/")
-    return true
-}
-
-*/
