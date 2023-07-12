@@ -7,7 +7,7 @@ module.exports = {
 	theme: {
 		extend: {
             fontFamily: {
-                sans: ["InterVariable", "Inter","Noto Sans Kannada Variable", ...defaultTheme.fontFamily.sans],
+                sans: ["Noto Sans Kannada Variable", ...defaultTheme.fontFamily.sans],
             },
         },
 	},
