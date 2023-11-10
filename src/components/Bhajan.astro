@@ -8,7 +8,7 @@ export interface Props {
 const { kannada_title, english_title, id } = Astro.props;
 ---
 
-<li class="p-3 rounded-md font-medium even:bg-[#fffb79] odd:bg-[#ffe59f]">
+<li class="p-3 rounded-md font-medium even:bg-[#fffb79] odd:bg-[#ffe59f] hover:scale-105 transition-all">
     <a href={`/bhajans/${id}`}>
         <div class="kannada-font">{kannada_title}</div>
         <div>{english_title}</div>

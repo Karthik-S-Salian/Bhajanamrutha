@@ -1,31 +1,41 @@
 ---
 import Bhajan from "./Bhajan.astro";
-import data from "../lib/data.json";
 import PageNavigation from "./PageNavigation.astro";
 import SearchBar from "./SearchBar.astro";
 
 export interface Props {
-    songList?: SongTitle[];
+    songList: { 
+        data: {
+            kannada_title:string,
+            english_title:string
+        }; 
+        id: string 
+    }[];
     prevsUrl?: string;
     nextUrl?: string;
 }
 
-const { songList = data, prevsUrl, nextUrl } = Astro.props;
+const { songList, prevsUrl, nextUrl } = Astro.props;
 ---
 
-<section id="bhajans" class="w-full rounded-md bg-[#ffdc69] py-6">
+<section
+    id="bhajans"
+    class="w-full rounded-md bg-[#ffdc69] py-6 flex flex-col gap-6 items-center"
+>
     <SearchBar />
-    <ul class="w-11/12 mx-auto grid grid-cols-1 gap-4">
+    <ul
+        class="w-11/12 mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4"
+    >
         {
             songList.map((element) => (
                 <Bhajan
-                    kannada_title={element.kannada_title}
-                    english_title={element.english_title}
+                    kannada_title={element.data.kannada_title}
+                    english_title={element.data.english_title}
                     id={element.id}
                 />
             ))
         }
-
-        {(prevsUrl || nextUrl) && <PageNavigation {prevsUrl} {nextUrl} />}
     </ul>
+
+    {(prevsUrl || nextUrl) && <PageNavigation {prevsUrl} {nextUrl} />}
 </section>

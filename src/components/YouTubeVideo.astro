@@ -1,0 +1,66 @@
+---
+import { Image } from "astro:assets";
+import playIcon from "../images/icon-play.png"
+
+export interface Props{
+  videoId:string
+}
+
+const {videoId} = Astro.props;
+
+async function getYouTubeVideoTitleTumbnail(url:string){
+
+  const apiUrl = `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`;
+
+  try {
+    const response = await fetch(apiUrl);
+    if (response.ok) {
+      const data = await response.json();
+      console.log(data.thumbnail_url, data.title)
+      return [data.thumbnail_url, data.title]
+    } else {
+      console.log('Error:', response.status);
+    }
+  } catch (error) {
+    console.log('Error:', error);
+  }
+  return [undefined,undefined]
+
+}
+
+let videoTitle:string|undefined
+let videoTumbnailUrl:string|undefined
+
+
+[videoTumbnailUrl,videoTitle] = await getYouTubeVideoTitleTumbnail(videoId)
+
+console.log(videoTumbnailUrl,videoTitle)
+
+---
+
+    {(videoTumbnailUrl && videoTitle) &&(
+    <section class="aspect-[16/9] w-full max-w-md relative" id="youtubeIframeContainer">
+        <Image class="rounded-lg" src={videoTumbnailUrl} alt="" width={448}  height = {448*9/16} format="webp" fetchpriority="low"/>                      
+        <button aria-label="play" class="rounded-full p-4 absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+          <Image src={playIcon} height={64} width={64} fetchpriority={"low"} alt="" format="webp"/>
+          </button>
+        <span class="text-white absolute top-4 left-2 block overflow-hidden text-ellipsis w-11/12 whitespace-nowrap">{videoTitle}</span>
+    </section>
+
+    )}
+
+    
+<script  define:vars={{videoId}}>
+    const youtubeIframeContainer = document.getElementById("youtubeIframeContainer");
+    youtubeIframeContainer?.addEventListener("click",()=>{
+          youtubeIframeContainer.innerHTML = (`<iframe
+      src='https://www.youtube.com/embed/${videoId}?autoplay=1'
+      title="YouTube video player"
+      allow="clipboard-write; encrypted-media;autoplay"
+      class="w-full h-full"
+      /> `)
+       } )
+</script>
+
+               
+

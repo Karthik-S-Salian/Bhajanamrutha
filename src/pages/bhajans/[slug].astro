@@ -1,0 +1,69 @@
+---
+import Layout from "@layouts/Layout.astro";
+import SongContainer from "@components/SongContainer.astro";
+import BackToHome from "@components/BackToHome.astro";
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+    const bhajanEntries = await getCollection('bhajan');
+    const length = bhajanEntries.length;
+    const pageList = []
+    for(let i=0;i<length;i++){
+        const bhajan = bhajanEntries[i];
+        pageList.push({
+            params: { 
+                slug: bhajan.id 
+            }, 
+            props: { 
+                song:bhajan,
+                previousSong:i!=0?bhajanEntries[i-1]:null,
+                nextSong:i<length?bhajanEntries[i+1]:null,
+            }
+        })
+    }
+    return pageList
+}
+
+const {song,previousSong,nextSong} = Astro.props;
+---
+
+<Layout title={`${song.data.kannada_title} | ${song.data.english_title}`}>
+    <main class="flex gap-6 flex-col mx-6 leading-8 tracking-wide">
+        <SongContainer {...song.data} />
+
+        <section
+            class="w-full flex flex-row justify-between gap-4 text-base font-normal border-t border-b border-black py-8"
+        >
+            {
+                previousSong ? (
+                    <div class="hover:underline hover:translate-x-1 transition-transform">
+                        <a href={`/bhajans/${previousSong.id}`}>
+                            <p class="text-sm text-gray pb-2">Previous song</p>
+                            <div class=" kannada-font">
+                                {previousSong.data.kannada_title}
+                            </div>
+                            <div>{previousSong.data.english_title}</div>
+                        </a>
+                    </div>
+                ) : (
+                    <div />
+                )
+            }
+
+            {
+                nextSong && (
+                    <div class="text-right hover:underline hover:-translate-x-1 transition-transform">
+                        <a href={`/bhajans/${nextSong.id}`}>
+                            <p class="text-sm text-gray pb-2">Next song</p>
+                            <div class="kannada-font">
+                                {nextSong.data.kannada_title}
+                            </div>
+                            <div>{nextSong.data.english_title}</div>
+                        </a>
+                    </div>
+                )
+            }
+        </section>
+        <BackToHome />
+    </main>
+</Layout>

@@ -1,6 +1,6 @@
 ---
 import hero from "../images/hero.jpg";
-import { Image } from '@astrojs/image/components';
+import { Image } from "astro:assets";
 ---
 
 <section
@@ -13,6 +13,6 @@ import { Image } from '@astrojs/image/components';
             Dasara padagalu
         </div>
     </div>
-    <Image class="rounded-lg" src={hero} alt="" width={300} height={300} aspectRatio={1} format="webp" fetchpriority="high"/>
+    <Image class="rounded-lg" src={hero} alt="" width={450} height={450} format="webp" fetchpriority="high"/>
     
 </section>

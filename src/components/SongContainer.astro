@@ -1,4 +1,6 @@
 ---
+import YouTubeVideo from './YouTubeVideo.astro';
+
 export interface Props {
     english_title?: string;
     kannada_title: string;
@@ -10,6 +12,15 @@ export interface Props {
 }
 const { kannada_title, english_title, tags, kannada, english, media, meta } =
     Astro.props;
+
+
+function getVideoId(url:string){
+    const videoUrl = new URL(url);
+    const searchParams = new URLSearchParams(videoUrl.search);
+    return searchParams.get('v');
+}
+
+const videoId =media?getVideoId(media):null
 ---
 
 <section>
@@ -70,17 +81,8 @@ const { kannada_title, english_title, tags, kannada, english, media, meta } =
 }
 
 {
-    media && (
-        <>
+    videoId && (
             <hr class="w-full h-px border-0 rounded my-4 bg-black" />
-            <section class="aspect-[16/9] w-full max-w-md">
-                <iframe
-                    src={`${media.replace("watch?v=", "embed/")}?autoplay=0`}
-                    title="YouTube video player"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    class="w-full h-full"
-                />
-            </section>
-        </>
+            <YouTubeVideo {videoId}/>
     )
 }
