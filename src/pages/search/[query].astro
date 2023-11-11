@@ -5,33 +5,9 @@ import Layout from "@layouts/Layout.astro";
 import BackToHome from "@components/BackToHome.astro";
 import BhajanList from "@components/BhajanList.astro";
 import { getCollection } from "astro:content";
-import {isKannadaCharacter} from "@lib/utils"
+import {matchSearch} from "@lib/utils"
 
 const bhajanEntries = await getCollection("bhajan");
-const maxMatchDistance = 3;
-
-function matchSearch(searchString: string | null) {
-    if (!searchString || !searchString.trim()) return [];
-
-    searchString = searchString.trim();
-    const pattern = new RegExp(
-        `.*` +
-            searchString
-                .replace(/[^A-Za-z]/g, "")
-                .split("")
-                .join(`.{0,${maxMatchDistance}}`) +
-            ".*",
-        "i",
-    );
-
-    if (isKannadaCharacter(searchString[0]))
-        return bhajanEntries.filter((song) =>
-            pattern.test(song.data.kannada_title),
-        );
-    return bhajanEntries.filter((song) =>
-        pattern.test(song.data.english_title),
-    );
-}
 
 const { query } = Astro.params;
 ---
@@ -40,7 +16,7 @@ const { query } = Astro.params;
     <main class="flex gap-8 flex-col">
         <h2 class="text-3xl mt-4 mb-0">Results for: #{query}</h2>
 
-        {query && <BhajanList songList={matchSearch(query)} />}
+        {query && <BhajanList songList={matchSearch(query,bhajanEntries)} />}
 
         <BackToHome />
     </main>

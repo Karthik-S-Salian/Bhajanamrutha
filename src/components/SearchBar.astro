@@ -24,7 +24,7 @@ import { Image } from "astro:assets";
 </div>
 
 <script >
-    const cache: { [key: string]: SongTitle[] } = {};
+    const cache: { [key: string]: SongResponse[] } = {};
     const searchInput = document.getElementById(
         "searchInput"
     ) as HTMLInputElement;
@@ -32,12 +32,12 @@ import { Image } from "astro:assets";
         "matchListContainer"
     ) as HTMLUListElement;
 
-    function updateMatchList(data: SongTitle[]) {
+    function updateMatchList(data: SongResponse[]) {
         matchListContainer.innerHTML = data
             .map(
                 (song) => `
                         <li class="p-2 font-normal text-base even:bg-slate-200 odd:bg-white">
-                            <a href="/bhajans/${song.id}">
+                            <a href="/bhajans/${song.slug}">
                                 <div class="kannada-font">${song.kannada_title}</div>
                                 <div>${song.english_title}</div>
                             </a>
@@ -78,7 +78,7 @@ import { Image } from "astro:assets";
 
         fetch(`${window.origin}/api/search?query=${query}`)
             .then((response) => response.json())
-            .then((data: SongTitle[]) => {
+            .then((data: SongResponse[]) => {
                 if (data) {
                     cache[query] = data;
                     updateMatchList(data);
