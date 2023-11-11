@@ -71,11 +71,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=VOs_Es-yFhA",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb9\u0cbe\u0cb2\u0cc1 \u0cae\u0cbe\u0cb0\u0cb2\u0cc1 \u0caa\u0ccb\u0ca6\u0cc7\u0cb5\u0cae\u0ccd\u0cae",
     "english_title": "Halu maralu podevamma",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

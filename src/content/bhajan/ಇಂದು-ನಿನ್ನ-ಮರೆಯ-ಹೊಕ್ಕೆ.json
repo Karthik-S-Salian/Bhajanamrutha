@@ -29,12 +29,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=ABqUCqOYwp8",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c87\u0c82\u0ca6\u0cc1 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0cae\u0cb0\u0cc6\u0caf \u0cb9\u0cca\u0c95\u0ccd\u0c95\u0cc6",
     "english_title": " Indu ninna moreya hokke",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

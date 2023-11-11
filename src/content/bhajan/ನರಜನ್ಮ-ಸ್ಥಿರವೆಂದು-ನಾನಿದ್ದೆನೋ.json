@@ -46,12 +46,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=VC9JQffPums",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0cb0\u0c9c\u0ca8\u0ccd\u0cae \u0cb8\u0ccd\u0ca5\u0cbf\u0cb0\u0cb5\u0cc6\u0c82\u0ca6\u0cc1 \u0ca8\u0cbe\u0ca8\u0cbf\u0ca6\u0ccd\u0ca6\u0cc6\u0ca8\u0ccb",
     "english_title": " Narajanma stiravendu naniddeno",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

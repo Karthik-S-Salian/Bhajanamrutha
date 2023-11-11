@@ -39,12 +39,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=paSm8TPc8XA",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca6\u0cbe\u0cb8\u0ca6\u0cbe\u0cb8\u0cb0 \u0cae\u0ca8\u0cc6\u0caf \u0ca6\u0cbe\u0cb8\u0cbe\u0ca8\u0cc1\u0ca6\u0cbe\u0cb8",
     "english_title": "Daasaasara maneya daasanudasa",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

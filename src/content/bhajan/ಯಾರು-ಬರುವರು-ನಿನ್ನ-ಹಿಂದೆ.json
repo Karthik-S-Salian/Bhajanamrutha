@@ -47,12 +47,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=DK-Ma8Ts9zw",
-    "tag": [
-        "kannada devotional song",
-        "kannada lyrics"
-    ],
-    "categories": [],
     "kannada_title": "\u0caf\u0cbe\u0cb0\u0cc1 \u0cac\u0cb0\u0cc1\u0cb5\u0cb0\u0cc1 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0cb9\u0cbf\u0c82\u0ca6\u0cc6",
     "english_title": "Yaru baruvaru ninna",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "kannada lyrics"
+    ]
 }

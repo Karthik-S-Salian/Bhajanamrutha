@@ -46,12 +46,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=tnua18a3vjs",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c86\u0cb0\u0cc1 \u0cb9\u0cbf\u0ca4\u0cb5\u0cb0\u0cc1 \u0c8e\u0c82\u0ca6\u0cc1 \u0ca8\u0c82\u0cac\u0cac\u0cc7\u0ca1",
     "english_title": " Aru hitavaru endu nambabeda",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -57,12 +57,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=Si4A815Fpos",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c87\u0cb7\u0ccd\u0c9f\u0cc1 \u0caa\u0cbe\u0caa\u0c97\u0cb3 \u0cae\u0cbe\u0ca1\u0cbf\u0ca6\u0ccd\u0ca6\u0cc6 \u0cb8\u0cbe\u0c95\u0cc1",
     "english_title": "Eshtu paapagala maadidde",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

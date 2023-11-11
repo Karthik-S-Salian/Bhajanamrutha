@@ -5,15 +5,15 @@ import BhajanList from "@components/BhajanList.astro";
 import { getCollection } from "astro:content";
 
 const bhajanEntries = await getCollection('bhajan');
+
 export async function getStaticPaths() {
+    const bhajanEntries = await getCollection('bhajan');
     const tags = new Set(bhajanEntries.map((song) => song.data.tags).flat());
-    return {
-        params: { tags:Array.from(tags) },
-    };
+    return Array.from(tags).filter(tag=>tag!==undefined).map(tag=>({params:{tag}}))
 }
 
 const { tag } = Astro.params;
-const tagSongs = bhajanEntries.filter(song=>song.data.tags?.findIndex(tag)!==-1)
+const tagSongs = bhajanEntries.filter(song=>tag && song.data.tags?.indexOf(tag)!==-1)
 ---
 
 <Layout title={`bhajans related to ${tag}`}>

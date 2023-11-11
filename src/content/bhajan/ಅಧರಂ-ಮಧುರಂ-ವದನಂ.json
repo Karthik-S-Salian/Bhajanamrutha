@@ -107,11 +107,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=V00tRswnayc",
-    "tag": [
-        "Madhrashtakam"
-    ],
-    "categories": [],
     "kannada_title": "\u0c85\u0ca7\u0cb0\u0c82 \u0cae\u0ca7\u0cc1\u0cb0\u0c82 \u0cb5\u0ca6\u0ca8\u0c82",
     "english_title": "Adharam Madhuram Vadanam",
-    "tags": []
+    "tags": [
+        "madhrashtakam"
+    ]
 }

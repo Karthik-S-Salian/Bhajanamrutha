@@ -193,12 +193,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=GPngD_XMMww",
-    "tag": [
-        "kannada devotional song"
-    ],
     "kannada_title": "\u0cae\u0cb9\u0cbe\u0caa\u0ccd\u0cb0\u0cbe\u0ca3 \u0ca6\u0cc0\u0caa\u0cae\u0ccd \u0cb6\u0cbf\u0cb5\u0c82",
     "english_title": " Mahaprana deepam shivam",
     "tags": [
-        "shiva"
+        "shiva",
+        "kannada devotional song"
     ]
 }

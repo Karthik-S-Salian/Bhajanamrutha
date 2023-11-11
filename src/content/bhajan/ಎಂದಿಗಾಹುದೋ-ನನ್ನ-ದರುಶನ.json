@@ -38,12 +38,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=bsjd63Mwuhc",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c8e\u0c82\u0ca6\u0cbf\u0c97\u0cbe\u0cb9\u0cc1\u0ca6\u0ccb \u0ca8\u0ca8\u0ccd\u0ca8 \u0ca6\u0cb0\u0cc1\u0cb6\u0ca8",
     "english_title": "Endigaahudo ninna",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

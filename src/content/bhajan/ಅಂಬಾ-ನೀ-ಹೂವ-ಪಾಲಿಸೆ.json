@@ -52,12 +52,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=EDqatYNyw_4",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c85\u0c82\u0cac\u0cbe \u0ca8\u0cc0 \u0cb9\u0cc2\u0cb5 \u0caa\u0cbe\u0cb2\u0cbf\u0cb8\u0cc6",
     "english_title": "Amba ni huva palise",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

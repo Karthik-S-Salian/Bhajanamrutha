@@ -113,12 +113,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=zndysAbsSn0",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0cb0\u0cb9\u0cb0\u0cbf\u0caf\u0cc6 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0ca8\u0cbe\u0cae\u0cb8\u0ccd\u0cae\u0cb0\u0ca3\u0cc6",
     "english_title": " Narahariye ninna namasmarane",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

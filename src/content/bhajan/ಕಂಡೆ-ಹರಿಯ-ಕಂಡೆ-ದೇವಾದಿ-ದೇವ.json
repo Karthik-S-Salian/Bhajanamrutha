@@ -43,11 +43,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=D2UitUgXaF0",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0c82\u0ca1\u0cc6 \u0cb9\u0cb0\u0cbf\u0caf \u0c95\u0c82\u0ca1\u0cc6 \u0ca6\u0cc7\u0cb5\u0cbe\u0ca6\u0cbf \u0ca6\u0cc7\u0cb5",
     "english_title": "Kande hariya kande devadi",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

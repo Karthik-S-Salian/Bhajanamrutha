@@ -37,12 +37,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=cgBqEooj4Sc",
-    "tag": [
-        "kannada devotional song"
-    ],
     "kannada_title": "\u0cb8\u0cbf\u0c82\u0c97\u0cbe\u0cb0 \u0cae\u0cbe\u0ca1\u0ccb\u0ca3 \u0c85\u0c82\u0cac\u0cc6\u0c97\u0cc6 \u0cb8\u0cbf\u0c82\u0c97\u0cbe\u0cb0 \u0cae\u0cbe\u0ca1\u0ccb\u0ca3",
     "english_title": " Singara madona ambege singara",
     "tags": [
-        "mookambike"
+        "mookambike",
+        "kannada devotional song"
     ]
 }

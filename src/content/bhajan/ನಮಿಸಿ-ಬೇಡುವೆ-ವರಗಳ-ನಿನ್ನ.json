@@ -50,12 +50,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=9IgMdzRSGho",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0cae\u0cbf\u0cb8\u0cbf \u0cac\u0cc7\u0ca1\u0cc1\u0cb5\u0cc6 \u0cb5\u0cb0\u0c97\u0cb3 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8",
     "english_title": " Namisi beduve varagala ninna",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

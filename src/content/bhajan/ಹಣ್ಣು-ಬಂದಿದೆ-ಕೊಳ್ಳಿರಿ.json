@@ -48,12 +48,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=dQG8mjWGNgw",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb9\u0ca3\u0ccd\u0ca3\u0cc1 \u0cac\u0c82\u0ca6\u0cbf\u0ca6\u0cc6 \u0c95\u0cca\u0cb3\u0ccd\u0cb3\u0cbf\u0cb0\u0cbf",
     "english_title": "Hannu bandide kolliri",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -46,12 +46,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=h9e-V-bh9SA",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca7\u0cb0\u0ccd\u0cae\u0c95\u0ccd\u0c95\u0cc6 \u0c95\u0cc8 \u0cac\u0cbe\u0cb0\u0ca6\u0cbf \u0c95\u0cbe\u0cb2",
     "english_title": "Dharmakke kai baradi",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

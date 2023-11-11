@@ -37,12 +37,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=8Js4QYUpF_I",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0cc6\u0ca8\u0cc6\u0cb5\u0cc6 \u0ca8\u0cbe\u0ca8\u0ca8\u0ccd\u0caf\u0cb0 \u0c95\u0cbe\u0ca3\u0cc7\u0ca8\u0ccb",
     "english_title": " Neneve naananyara kaaneno",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

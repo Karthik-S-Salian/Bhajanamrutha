@@ -77,13 +77,11 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=Xnvpg1fbpAI",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song",
-        "lyrics in Engish"
-    ],
-    "categories": [],
     "kannada_title": "\u0cac\u0cc2\u0c9a\u0cbf \u0cac\u0c82\u0ca6\u0cbf\u0ca6\u0cc6 \u0cb0\u0c82\u0c97",
     "english_title": "Buchi bandide ranga",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song",
+        "lyrics in engish"
+    ]
 }

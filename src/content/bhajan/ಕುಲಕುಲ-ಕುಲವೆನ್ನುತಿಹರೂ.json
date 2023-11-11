@@ -42,12 +42,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=7-Az4bGiYDk",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0cc1\u0cb2\u0c95\u0cc1\u0cb2 \u0c95\u0cc1\u0cb2\u0cb5\u0cc6\u0ca8\u0ccd\u0ca8\u0cc1\u0ca4\u0cbf\u0cb9\u0cb0\u0cc2",
     "english_title": " Kulakula kulavennutiharo",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -71,12 +71,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=vFPccld_dr8",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0c82\u0cac\u0cbf\u0ca6\u0cc6 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0caa\u0cbe\u0ca6 \u0ca8\u0cb0\u0cb8\u0cbf\u0c82\u0cb9",
     "english_title": " Nambide ninna paada narasimha",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

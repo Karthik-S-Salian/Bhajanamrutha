@@ -91,11 +91,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=E-rrkoMmeX4",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c87\u0ca8\u0ccd\u0ca8\u0cb7\u0ccd\u0c9f\u0cc1 \u0cac\u0cc7\u0c95\u0cc6\u0ca8\u0ccd\u0ca8 \u0cb9\u0cc3\u0ca6\u0caf\u0c95\u0ccd\u0c95\u0cc6",
     "english_title": "Innastu bekenna hrudayakke",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

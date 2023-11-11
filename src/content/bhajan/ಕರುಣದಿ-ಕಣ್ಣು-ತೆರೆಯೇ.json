@@ -47,12 +47,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=UdqSoK73qys",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0cb0\u0cc1\u0ca3\u0ca6\u0cbf \u0c95\u0ca3\u0ccd\u0ca3\u0cc1 \u0ca4\u0cc6\u0cb0\u0cc6\u0caf\u0cc7",
     "english_title": "Karunadi kannu tereye",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

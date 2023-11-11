@@ -43,12 +43,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=s0VjHVpOmg8",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cae\u0cb0\u0cc6\u0caf\u0ca6\u0cbf\u0cb0\u0cc1 \u0cae\u0cb0\u0cc6\u0caf\u0ca6\u0cbf\u0cb0\u0cc1 \u0cae\u0cb0\u0cc1\u0cb3\u0cc1",
     "english_title": "Mareyadiru mareyadiru marulu",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

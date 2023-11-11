@@ -198,11 +198,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=w4WSzAisQNc",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c88\u0cb6 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0c9a\u0cb0\u0ca3 \u0cad\u0c9c\u0ca8\u0cc6",
     "english_title": "Eesha ninna charana",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

@@ -91,11 +91,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=1QL_rLmFF8w",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb9\u0cc7\u0cb3\u0cc1\u0cb5\u0cc6 \u0c95\u0ca5\u0cc6 \u0cb9\u0cc7\u0cb3\u0cc1\u0cb5\u0cc6",
     "english_title": " Heluve kathe heluve keliri kathe heluve ",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

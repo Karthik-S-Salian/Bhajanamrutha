@@ -73,12 +73,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=Jg4A6Bej7_A",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c85\u0caa\u0cae\u0cc3\u0ca4\u0ccd\u0caf\u0cc1 \u0caa\u0cb0\u0cbf\u0cb9\u0cb0\u0cbf\u0cb8\u0cca",
     "english_title": "Apamrutyu parihariso",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

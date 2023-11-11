@@ -48,12 +48,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=czpXZhjtXLQ",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cae\u0cbe\u0ca8\u0cb5 \u0c9c\u0ca8\u0ccd\u0cae \u0ca6\u0cca\u0ca1\u0ccd\u0ca1\u0ca6\u0cc1",
     "english_title": "Manava janma doddadu",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

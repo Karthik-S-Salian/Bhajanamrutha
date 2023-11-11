@@ -57,12 +57,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=FX8-xtTRD4Y",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb5\u0cc7\u0ca3\u0cbf \u0cae\u0cbe\u0ca7\u0cb5\u0ca8 \u0ca4\u0ccb\u0cb0\u0cbf\u0cb8\u0cc6",
     "english_title": "Veni madhavana torise",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

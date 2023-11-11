@@ -48,12 +48,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=AJrO99WxaoU",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c8f\u0ca8\u0c82\u0ca4\u0cbf \u0c95\u0cae\u0cb2\u0ca8\u0cbe\u0cad\u0ca8 \u0caa\u0ccd\u0cb0\u0cbf\u0caf\u0cb3\u0cc6",
     "english_title": " Enanti kamalanabana priyale",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

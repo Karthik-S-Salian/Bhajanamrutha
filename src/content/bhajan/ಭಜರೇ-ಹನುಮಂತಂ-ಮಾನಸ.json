@@ -51,12 +51,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=NNfYzEfYwEg",
-    "tag": [
-        "kannada devotional song",
-        "song on Anjaneya"
-    ],
-    "categories": [],
     "kannada_title": "\u0cad\u0c9c\u0cb0\u0cc7 \u0cb9\u0ca8\u0cc1\u0cae\u0c82\u0ca4\u0c82 \u0cae\u0cbe\u0ca8\u0cb8",
     "english_title": "Bhajare hanumantam",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "song on anjaneya"
+    ]
 }

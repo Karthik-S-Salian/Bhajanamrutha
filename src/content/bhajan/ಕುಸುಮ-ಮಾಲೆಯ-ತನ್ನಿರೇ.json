@@ -37,11 +37,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=Y-hjufHZ3FI",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0cc1\u0cb8\u0cc1\u0cae \u0cae\u0cbe\u0cb2\u0cc6\u0caf \u0ca4\u0ca8\u0ccd\u0ca8\u0cbf\u0cb0\u0cc7",
     "english_title": "Kusuma maaleya tannire",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

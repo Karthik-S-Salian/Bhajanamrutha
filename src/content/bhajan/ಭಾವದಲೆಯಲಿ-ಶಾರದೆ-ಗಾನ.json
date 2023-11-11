@@ -53,12 +53,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=tMg4G_f1yw8",
-    "tag": [
-        "kannada devotional song"
-    ],
     "kannada_title": "\u0cad\u0cbe\u0cb5\u0ca6\u0cb2\u0cc6\u0caf\u0cb2\u0cbf \u0cb6\u0cbe\u0cb0\u0ca6\u0cc6 \u0c97\u0cbe\u0ca8",
     "english_title": " Bhaavadaleyali shaarade gaana",
     "tags": [
-        "saraswati"
+        "saraswati",
+        "kannada devotional song"
     ]
 }

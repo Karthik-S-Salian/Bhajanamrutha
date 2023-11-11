@@ -55,13 +55,11 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=LiIikOgsmP4",
-    "tag": [
-        "kannada devotional song",
-        "kannada lyrics"
-    ],
     "kannada_title": "\u0c85\u0cae\u0ccd\u0cae \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0ca8\u0cbe\u0cae\u0ca6\u0cbf\u0c82\u0ca6 \u0c9c\u0ca8\u0cc1\u0cae",
     "english_title": " Amma ninna naamadinda",
     "tags": [
-        "sharade"
+        "sharade",
+        "kannada devotional song",
+        "kannada lyrics"
     ]
 }

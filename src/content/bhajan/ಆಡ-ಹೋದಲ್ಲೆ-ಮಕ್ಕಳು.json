@@ -68,12 +68,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=VV6vnaF4fV0",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c86\u0ca1 \u0cb9\u0ccb\u0ca6\u0cb2\u0ccd\u0cb2\u0cc6 \u0cae\u0c95\u0ccd\u0c95\u0cb3\u0cc1",
     "english_title": "Ada hodalli makkalu",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

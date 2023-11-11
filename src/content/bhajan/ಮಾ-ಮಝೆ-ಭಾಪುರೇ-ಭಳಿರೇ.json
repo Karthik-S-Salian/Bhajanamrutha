@@ -77,12 +77,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=irfCD10qR7E",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cae\u0cbe \u0cae\u0c9d\u0cc6 \u0cad\u0cbe\u0caa\u0cc1\u0cb0\u0cc7 \u0cad\u0cb3\u0cbf\u0cb0\u0cc7",
     "english_title": "Ma maje bapure balire",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

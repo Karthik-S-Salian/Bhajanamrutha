@@ -65,11 +65,9 @@
     ],
     "english": [],
     "media": "https://www.youtube.com/watch?v=aDzg-3NBnO0",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb2\u0ccb\u0c95\u0cb5\u0cc0\u0cb0\u0c82 \u0cae\u0cb9\u0cbe\u0caa\u0cc2\u0c9c\u0ccd\u0caf\u0c82",
-    "tags": [],
-    "english_title": "lokaveeram mahaapoojyam"
+    "english_title": "lokaveeram mahaapoojyam",
+    "tags": [
+        "kannada devotional song"
+    ]
 }

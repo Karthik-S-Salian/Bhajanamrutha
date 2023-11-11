@@ -71,12 +71,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=OgK9hQ3f9Y0",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb9\u0cc1\u0c9f\u0ccd\u0c9f\u0cbf\u0ca6\u0cc6\u0cd5\u0cb3\u0cc1 \u0ca6\u0cbf\u0cb5\u0cb8\u0ca6\u0cb2\u0cbf",
     "english_title": "Huttidelu divasadali",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -53,12 +53,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=MnLdZEoOYVk",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb5\u0ccd\u0cb0\u0c82\u0ca6\u0cbe\u0cb5\u0ca8 \u0ca8\u0ccb\u0ca1\u0cbf\u0cb0\u0ccb \u0c97\u0cc1\u0cb0\u0cc1\u0c97\u0cb3",
     "english_title": " Vrundava nodiro gurugala",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -53,12 +53,10 @@
         ]
     ],
     "media": "",
-    "tag": [
-        "kannada devotional song",
-        "kannada lyrics"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0cc0\u0ca8\u0cc7 \u0c85\u0ca8\u0cbe\u0ca5 \u0cac\u0c82\u0ca7\u0cc1",
     "english_title": "Neene anaatha bandhu",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "kannada lyrics"
+    ]
 }

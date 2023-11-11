@@ -53,11 +53,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=VEee2ha-4zY",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0ca1\u0cc6\u0ca6\u0cc1 \u0cac\u0cbe\u0cae\u0ccd\u0cae \u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cc0",
     "english_title": "Nadedu baamma lakshmi",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

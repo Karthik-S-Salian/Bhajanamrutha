@@ -26,12 +26,10 @@
         ]
     ],
     "media": "",
-    "tag": [
-        "kannada devotional song",
-        "mookambike song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c87\u0cb2\u0ccd\u0cb2\u0cbf\u0cb0\u0cc1\u0cb5 \u0ca6\u0cc7\u0cb5\u0ca4\u0cc6\u0caf\u0cc1 \u0cae\u0cc2\u0c95\u0cbe\u0c82\u0cac\u0cbf\u0c95\u0cbe",
     "english_title": "Elliruva devateyu mookambika",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "mookambike song"
+    ]
 }

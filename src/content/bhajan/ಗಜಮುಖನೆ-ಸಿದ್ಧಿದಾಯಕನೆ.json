@@ -52,12 +52,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=1R9SegeDJ6w",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c97\u0c9c\u0cae\u0cc1\u0c96\u0ca8\u0cc6 \u0cb8\u0cbf\u0ca6\u0ccd\u0ca7\u0cbf\u0ca6\u0cbe\u0caf\u0c95\u0ca8\u0cc6",
     "english_title": " Gajamukhane siddhidayakane",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -113,12 +113,10 @@
         ]
     ],
     "media": "",
-    "tag": [
-        "kannada devotional song",
-        "kannada lyrics"
-    ],
-    "categories": [],
     "kannada_title": "\u0cae\u0cc1\u0cb3\u0ccd\u0cb3\u0cc1 \u0c95\u0cca\u0ca8\u0cc6\u0caf \u0cae\u0cc7\u0cb2\u0cc6",
     "english_title": "Mullu koneya mele",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "kannada lyrics"
+    ]
 }

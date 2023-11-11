@@ -142,12 +142,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=cDccMtlxL7Q",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0ca6\u0cbf\u0cb5\u0ccd\u0caf \u0cae\u0cc2\u0cb0\u0cc1\u0ca4\u0cbf\u0caf \u0c95\u0ca3\u0ccd\u0ca3\u0cc1",
     "english_title": " Ninna divya murutiya",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

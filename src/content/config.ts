@@ -9,7 +9,6 @@ const bhajanCollection = defineCollection({
     english: z.array(z.array(z.string())),
     meta: z.string().optional(),
     tags: z.array(z.string()).optional(),
-    categories: z.array(z.string()).optional(),
     tag: z.array(z.string()).optional(),
     media: z.string().optional()
   }),

@@ -43,12 +43,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=AlNGtzdFywY",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c89\u0cac\u0ccd\u0cac\u0ca6\u0cbf\u0cb0\u0cc1 \u0c89\u0cac\u0ccd\u0cac\u0ca6\u0cbf\u0cb0\u0cc1 \u0c8e\u0cb2\u0cc6 \u0cae\u0cbe\u0ca8\u0cb5\u0cbe",
     "english_title": " Ubbadiru ubbadiru ele manava",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

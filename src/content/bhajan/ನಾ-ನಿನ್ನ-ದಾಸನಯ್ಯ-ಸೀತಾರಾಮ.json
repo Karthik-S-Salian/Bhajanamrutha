@@ -39,12 +39,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=rV0e2NPitDE",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0ca8\u0cbe \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8 \u0ca6\u0cbe\u0cb8\u0ca8\u0caf\u0ccd\u0caf \u0cb8\u0cc0\u0ca4\u0cbe\u0cb0\u0cbe\u0cae",
     "english_title": " Naa ninna dasanayya seetarama",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

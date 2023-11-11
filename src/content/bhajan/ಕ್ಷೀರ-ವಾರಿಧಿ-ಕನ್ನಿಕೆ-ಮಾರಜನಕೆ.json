@@ -77,11 +77,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=hwkZkMf6gBM",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0ccd\u0cb7\u0cc0\u0cb0 \u0cb5\u0cbe\u0cb0\u0cbf\u0ca7\u0cbf \u0c95\u0ca8\u0ccd\u0ca8\u0cbf\u0c95\u0cc6 \u0cae\u0cbe\u0cb0\u0c9c\u0ca8\u0c95\u0cc6",
     "english_title": "Kshira varidhi kannike",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

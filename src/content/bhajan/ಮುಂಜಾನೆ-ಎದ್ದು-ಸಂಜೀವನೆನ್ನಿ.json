@@ -41,12 +41,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=KqvOg1tB9oo",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cae\u0cc1\u0c82\u0c9c\u0cbe\u0ca8\u0cc6 \u0c8e\u0ca6\u0ccd\u0ca6\u0cc1 \u0cb8\u0c82\u0c9c\u0cc0\u0cb5\u0ca8\u0cc6\u0ca8\u0ccd\u0ca8\u0cbf",
     "english_title": " Munjane eddu sanjivanenni",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -67,11 +67,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=GmwZc12h5fA",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cac\u0cc6\u0cb3\u0c97\u0cbe\u0caf\u0cbf\u0ca4\u0cc1 \u0c8f\u0cb3\u0cc1 \u0cb9\u0cc6 \u0cae\u0cc1\u0ca6\u0ccd\u0ca6\u0cc1 \u0cac\u0cc6\u0ca8\u0c95",
     "english_title": " Belagaytu elu he muddu benaka",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

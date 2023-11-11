@@ -49,11 +49,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=FFVd2e7clhA",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb9\u0cb0\u0cbf \u0ca8\u0cbe\u0cb0\u0cbe\u0caf\u0ca3 \u0cb9\u0cb0\u0cbf \u0ca8\u0cbe\u0cb0\u0cbe\u0caf\u0ca3",
     "english_title": "Hari naaraayana hari",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

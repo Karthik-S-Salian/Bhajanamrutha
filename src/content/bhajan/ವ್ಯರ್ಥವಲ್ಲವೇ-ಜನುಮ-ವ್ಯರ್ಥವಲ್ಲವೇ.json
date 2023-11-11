@@ -58,11 +58,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=J1-Xs4j_HW8",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb5\u0ccd\u0caf\u0cb0\u0ccd\u0ca5\u0cb5\u0cb2\u0ccd\u0cb2\u0cb5\u0cc7 \u0c9c\u0ca8\u0cc1\u0cae \u0cb5\u0ccd\u0caf\u0cb0\u0ccd\u0ca5\u0cb5\u0cb2\u0ccd\u0cb2\u0cb5\u0cc7",
     "english_title": "Vyarthavallave janma",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

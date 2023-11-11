@@ -35,11 +35,9 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=pib7eGEfmCI",
-    "tag": [
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cad\u0c9c\u0c95\u0cb0\u0cbf\u0cb7\u0ccd\u0c9f\u0cb5\u0cc0\u0cb5\u0cbe \u0ca6\u0cc7\u0cb5",
     "english_title": "Bhajakarishtaveevaa deva",
-    "tags": []
+    "tags": [
+        "kannada devotional song"
+    ]
 }

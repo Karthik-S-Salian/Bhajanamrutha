@@ -32,12 +32,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=IjeHQmxcmrE",
-    "tag": [
-        "B.K.Sumitra song",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c9c\u0caf \u0ca4\u0cc1\u0cb3\u0cb8\u0cbf \u0cb9\u0cc7 \u0ca4\u0cc1\u0cb3\u0cb8\u0cbf",
     "english_title": "Jaya tulasi he tulasi",
-    "tags": []
+    "tags": [
+        "bksumitra song",
+        "kannada devotional song"
+    ]
 }

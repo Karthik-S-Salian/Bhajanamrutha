@@ -43,12 +43,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=iZoGreZO-qo",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb5\u0cbf\u0ca0\u0cb2 \u0cb8\u0cb2\u0cb9\u0ccb \u0cb8\u0ccd\u0cb5\u0cbe\u0cae\u0cbf",
     "english_title": "Vithala salaho swaami",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

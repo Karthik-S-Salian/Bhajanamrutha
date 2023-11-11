@@ -48,12 +48,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=_EkZMfDQszs",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cae\u0cc1\u0c9f\u0ccd\u0c9f\u0cac\u0cc7\u0ca1\u0cbf \u0cae\u0cc1\u0c9f\u0ccd\u0c9f\u0cac\u0cc7\u0ca1\u0cbf",
     "english_title": "Muttabedi muttabedi muraharana",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

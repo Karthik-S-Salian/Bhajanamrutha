@@ -89,12 +89,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=Szt_Qray7Aw",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb5\u0cc3\u0cb7\u0cad\u0ca8\u0cc7\u0cb0\u0cbf\u0ca6 \u0cb5\u0cbf\u0cb7\u0ca7\u0cb0\u0ca8\u0ccd\u0caf\u0cbe\u0cb0\u0cc6",
     "english_title": "Vrushabhanerida vishadharanyare",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

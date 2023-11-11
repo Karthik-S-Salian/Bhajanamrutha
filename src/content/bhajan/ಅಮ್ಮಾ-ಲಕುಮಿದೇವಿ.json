@@ -53,12 +53,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=6_fyk_iqTIU",
-    "tag": [
-        "kannada devotional song",
-        "lyrics in Engish"
-    ],
-    "categories": [],
     "kannada_title": "\u0c85\u0cae\u0ccd\u0cae\u0cbe \u0cb2\u0c95\u0cc1\u0cae\u0cbf\u0ca6\u0cc7\u0cb5\u0cbf",
     "english_title": " Amma lakumidevi nimmarasana",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "lyrics in engish"
+    ]
 }

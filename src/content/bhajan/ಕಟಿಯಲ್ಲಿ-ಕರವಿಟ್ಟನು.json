@@ -73,12 +73,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=IDWoYqx80AI",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0c9f\u0cbf\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0c95\u0cb0\u0cb5\u0cbf\u0c9f\u0ccd\u0c9f\u0ca8\u0cc1",
     "english_title": "Katiyalli karavittano",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -122,12 +122,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=XdNi42a7N-g",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0ccb\u0cb2\u0cc1 \u0c95\u0ccb\u0cb2\u0cc6\u0ca8\u0ccd\u0ca8 \u0c95\u0ccb\u0cb2\u0cc6",
     "english_title": "Kolu kolenna kole",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

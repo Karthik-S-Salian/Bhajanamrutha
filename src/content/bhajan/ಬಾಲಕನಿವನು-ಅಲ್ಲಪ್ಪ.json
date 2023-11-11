@@ -55,12 +55,10 @@
         ]
     ],
     "media": "",
-    "tag": [
-        "ayyappa song",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cac\u0cbe\u0cb2\u0c95\u0ca8\u0cbf\u0cb5\u0ca8\u0cc1 \u0c85\u0cb2\u0ccd\u0cb2\u0caa\u0ccd\u0caa",
     "english_title": "Baalakanivanu allappa",
-    "tags": []
+    "tags": [
+        "ayyappa song",
+        "kannada devotional song"
+    ]
 }

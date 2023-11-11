@@ -45,12 +45,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=leNLtVsSEUk",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cac\u0c82\u0ca6\u0ca6\u0ccd\u0ca6\u0cc6\u0cb2\u0ccd\u0cb2 \u0cac\u0cb0\u0cb2\u0cbf \u0c97\u0ccb\u0cb5\u0cbf\u0c82\u0ca6\u0ca8",
     "english_title": "Bandadella barali govindana",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

@@ -53,12 +53,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=pxFQraDOmYc",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c92\u0c82\u0cad\u0ca4\u0ccd\u0ca4\u0cc1 \u0cac\u0cbe\u0c97\u0cbf\u0cb2\u0cca\u0cb3\u0cc1 \u0c92\u0c82\u0ca6\u0cc7",
     "english_title": "Ombattu bagilolu onde",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

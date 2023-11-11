@@ -61,12 +61,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=0MPbPXVw2_A",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb0\u0cbe\u0caf\u0cac\u0cbe\u0cb0\u0cca \u0ca4\u0c82\u0ca6\u0cc6\u0ca4\u0cbe\u0caf\u0cbf",
     "english_title": "Raya baro tande tayi",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

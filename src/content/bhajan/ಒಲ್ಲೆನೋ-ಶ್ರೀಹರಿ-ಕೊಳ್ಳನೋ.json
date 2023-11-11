@@ -63,12 +63,10 @@
         ]
     ],
     "media": "",
-    "tag": [
-        "kannada devotional song",
-        "kannada lyrics"
-    ],
-    "categories": [],
     "kannada_title": "\u0c92\u0cb2\u0ccd\u0cb2\u0cc6\u0ca8\u0ccb \u0cb6\u0ccd\u0cb0\u0cc0\u0cb9\u0cb0\u0cbf \u0c95\u0cca\u0cb3\u0ccd\u0cb3\u0ca8\u0ccb",
     "english_title": " Ollano shri hari kollano",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "kannada lyrics"
+    ]
 }

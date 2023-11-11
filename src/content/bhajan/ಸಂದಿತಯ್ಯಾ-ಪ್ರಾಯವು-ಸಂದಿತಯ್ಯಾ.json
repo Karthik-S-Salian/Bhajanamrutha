@@ -44,12 +44,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=t7w1fDZHAnQ",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb8\u0c82\u0ca6\u0cbf\u0ca4\u0caf\u0ccd\u0caf\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0caf\u0cb5\u0cc1 \u0cb8\u0c82\u0ca6\u0cbf\u0ca4\u0caf\u0ccd\u0caf\u0cbe",
     "english_title": " Sanditayya prayavu sanditayya",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

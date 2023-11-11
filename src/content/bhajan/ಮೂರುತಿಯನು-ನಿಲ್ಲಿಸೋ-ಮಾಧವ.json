@@ -37,12 +37,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=arnlkmRyvtk",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0cae\u0cc2\u0cb0\u0cc1\u0ca4\u0cbf\u0caf\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb2\u0ccd\u0cb2\u0cbf\u0cb8\u0ccb \u0cae\u0cbe\u0ca7\u0cb5",
     "english_title": "Murutiyanu nilliso",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

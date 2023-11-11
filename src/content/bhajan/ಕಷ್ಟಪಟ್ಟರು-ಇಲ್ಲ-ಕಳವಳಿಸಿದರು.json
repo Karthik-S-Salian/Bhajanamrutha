@@ -54,12 +54,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=SfQyXYk_918",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0cb7\u0ccd\u0c9f\u0caa\u0c9f\u0ccd\u0c9f\u0cb0\u0cc1 \u0c87\u0cb2\u0ccd\u0cb2 \u0c95\u0cb3\u0cb5\u0cb3\u0cbf\u0cb8\u0cbf\u0ca6\u0cb0\u0cc1",
     "english_title": " Kashtapattaru ella kalavalisidaru",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

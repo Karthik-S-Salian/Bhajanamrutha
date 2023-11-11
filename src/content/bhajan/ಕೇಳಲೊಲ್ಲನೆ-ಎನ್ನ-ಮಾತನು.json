@@ -56,12 +56,10 @@
         ]
     ],
     "media": "",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c95\u0cc7\u0cb3\u0cb2\u0cca\u0cb2\u0ccd\u0cb2\u0ca8\u0cc6 \u0c8e\u0ca8\u0ccd\u0ca8 \u0cae\u0cbe\u0ca4\u0ca8\u0cc1",
     "english_title": "Kelalollane enna matanu",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }

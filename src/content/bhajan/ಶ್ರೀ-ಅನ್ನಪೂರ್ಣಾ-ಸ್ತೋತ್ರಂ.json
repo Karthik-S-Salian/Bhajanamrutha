@@ -193,12 +193,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=irlvM91fpQc",
-    "tag": [
-        "kannada devotional song",
-        "kannada lyrics"
-    ],
-    "categories": [],
     "kannada_title": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0c85\u0ca8\u0ccd\u0ca8\u0caa\u0cc2\u0cb0\u0ccd\u0ca3\u0cbe \u0cb8\u0ccd\u0ca4\u0ccb\u0ca4\u0ccd\u0cb0\u0c82",
     "english_title": " Shri Annapurna stotram",
-    "tags": []
+    "tags": [
+        "kannada devotional song",
+        "kannada lyrics"
+    ]
 }

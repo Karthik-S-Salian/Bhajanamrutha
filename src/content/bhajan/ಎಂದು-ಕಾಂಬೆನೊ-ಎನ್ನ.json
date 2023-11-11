@@ -36,12 +36,10 @@
         ]
     ],
     "media": "https://www.youtube.com/watch?v=kgQLMwm0CiQ",
-    "tag": [
-        "dasara padagalu",
-        "kannada devotional song"
-    ],
-    "categories": [],
     "kannada_title": "\u0c8e\u0c82\u0ca6\u0cc1 \u0c95\u0cbe\u0c82\u0cac\u0cc6\u0ca8\u0cca \u0c8e\u0ca8\u0ccd\u0ca8",
     "english_title": "Endu kambeno enna",
-    "tags": []
+    "tags": [
+        "dasara padagalu",
+        "kannada devotional song"
+    ]
 }
