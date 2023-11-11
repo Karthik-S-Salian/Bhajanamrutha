@@ -4,32 +4,41 @@ const colors = ["bg-slate-200", "bg-white"];
 import { Image } from "astro:assets";
 ---
 
-<div class="w-11/12 mx-auto bg-white rounded-full h-9 relative flex flex-row border-solid border-1 border-black hover:border-2 px-2">
-        <input
-            aria-label="search"
-            class="h-full pl-4 rounded-full outline-none border-none gap-1 flex-grow"
-            type="text"
-            name="searchText"
-            id="searchInput"
+<div
+    class="w-11/12 mx-auto bg-white rounded-full h-9 relative flex flex-row border-solid border-1 border-black hover:border-2 px-2"
+    id="search-conatiner"
+>
+    <input
+        aria-label="search"
+        class="h-full pl-4 rounded-full outline-none border-none gap-1 flex-grow"
+        type="text"
+        name="searchText"
+        id="searchInput"
+    />
+    <div class="h-full aspect-[1/1] rounded-full p-1">
+        <Image
+            src={searchIcon}
+            alt="search-icon"
+            width={64}
+            height={64}
+            fetchpriority="low"
         />
-        <div class="h-full aspect-[1/1] rounded-full p-1">
-            <Image src={searchIcon} alt="search-icon" width={64} height={64} fetchpriority="low"/>
-        </div>
+    </div>
 
-        <ul
-            class="absolute top-full left-0 w-full max-w-md list-none p-0 m-0 z-10 max-h-80 overflow-y-scroll"
-            id="matchListContainer"
-        >
-        </ul>
+    <ul
+        class="absolute top-full left-0 w-full max-w-md list-none p-0 m-0 z-10 max-h-80 overflow-y-scroll"
+        id="matchListContainer"
+    >
+    </ul>
 </div>
 
-<script >
+<script>
     const cache: { [key: string]: SongResponse[] } = {};
     const searchInput = document.getElementById(
-        "searchInput"
+        "searchInput",
     ) as HTMLInputElement;
     const matchListContainer = document.getElementById(
-        "matchListContainer"
+        "matchListContainer",
     ) as HTMLUListElement;
 
     function updateMatchList(data: SongResponse[]) {
@@ -42,7 +51,7 @@ import { Image } from "astro:assets";
                                 <div>${song.english_title}</div>
                             </a>
                         </li>
-                                `
+                                `,
             )
             .reduce((p, c) => p + c, "");
     }
@@ -87,5 +96,7 @@ import { Image } from "astro:assets";
             .catch((error) => console.log(error));
     });
 
-    searchInput.addEventListener("focusout", clearInput);
+    document
+        .getElementById("search-conatiner")
+        ?.addEventListener("blur", clearInput);
 </script>
