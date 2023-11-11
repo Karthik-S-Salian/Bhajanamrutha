@@ -1,43 +1,7 @@
 {
     "meta": "",
-    "kannada": [
-        [
-            "\u0cb9\u0cb0\u0cbf \u0cad\u0c9c\u0ca8\u0cc6 \u0cae\u0cbe\u0ca1\u0ccb \u0ca8\u0cbf\u0cb0\u0c82\u0ca4\u0cb0 |\u0caa|",
-            "\u0caa\u0cb0\u0c97\u0ca4\u0cbf\u0c97\u0cbf\u0ca6\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cbe\u0cb0 \u0ca8\u0ccb\u0ca1\u0cca |\u0c85.\u0caa|"
-        ],
-        [
-            "\u0cae\u0cca\u0ca6\u0cb2\u0cc6 \u0ca4\u0ccb\u0cb0\u0ca4\u0ca6\u0cc6 \u0cae\u0ca7\u0cc1\u0cb0 \u0cb5\u0cbf\u0cb7\u0caf \u0cb8\u0cc1\u0c96",
-            "\u0c95\u0ca1\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0ca6\u0cc1\u0c83\u0c96 \u0c85\u0ca8\u0cc7\u0c95 ||"
-        ],
-        [
-            "\u0cb5\u0cc7\u0ca6\u0cb6\u0cbe\u0cb8\u0ccd\u0ca4\u0ccd\u0cb0\u0c97\u0cb3\u0ca8\u0ccb\u0ca6\u0cbf\u0ca6\u0cb0\u0cc7\u0ca8\u0cc1",
-            "\u0cb8\u0cbe\u0ca7\u0ca8\u0cc6\u0c97\u0cbf\u0ca6\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cbe\u0cb0 ||"
-        ],
-        [
-            "\u0cb8\u0cbe\u0cb0\u0cb5\u0ccb \u0cac\u0cb9\u0cc1 \u0cb8\u0c82\u0cb8\u0cbe\u0cb0 \u0cb5\u0cbf\u0cae\u0ccb\u0c9a\u0c95",
-            "\u0cb8\u0cc7\u0cb0\u0ccb \u0cb9\u0caf\u0cb5\u0ca6\u0ca8\u0ca8\u0ccd\u0ca8 ||"
-        ]
-    ],
-    "english": [
-        [
-            "Hari bhajane mado nirantara",
-            "paragatigidu nirdhara nodo ||pa||"
-        ],
-        [
-            "Modalu torutide madhura vishaya sukha",
-            "kadeyali duhkha anrkha nodo|",
-            "Veda shastragala odidarenu",
-            "sadhanakidu nirdhara nodo |",
-            "Saravu bahu samsara vimochaka shri",
-            "hari hayavadananna nodo |"
-        ],
-        [
-            "You can listen to the song here : by Sri Vidyabhushana Theertha Swamij",
-            "i",
-            "https://youtu.be/E4O1aqOQtyA"
-        ],
-        []
-    ],
+    "kannada": "\u0cb9\u0cb0\u0cbf \u0cad\u0c9c\u0ca8\u0cc6 \u0cae\u0cbe\u0ca1\u0ccb \u0ca8\u0cbf\u0cb0\u0c82\u0ca4\u0cb0 |\u0caa|\n\u0caa\u0cb0\u0c97\u0ca4\u0cbf\u0c97\u0cbf\u0ca6\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cbe\u0cb0 \u0ca8\u0ccb\u0ca1\u0cca |\u0c85.\u0caa|\n\n\u0cae\u0cca\u0ca6\u0cb2\u0cc6 \u0ca4\u0ccb\u0cb0\u0ca4\u0ca6\u0cc6 \u0cae\u0ca7\u0cc1\u0cb0 \u0cb5\u0cbf\u0cb7\u0caf \u0cb8\u0cc1\u0c96\n\u0c95\u0ca1\u0cc6\u0caf\u0cb2\u0ccd\u0cb2\u0cbf \u0ca6\u0cc1\u0c83\u0c96 \u0c85\u0ca8\u0cc7\u0c95 ||\n\n\u0cb5\u0cc7\u0ca6\u0cb6\u0cbe\u0cb8\u0ccd\u0ca4\u0ccd\u0cb0\u0c97\u0cb3\u0ca8\u0ccb\u0ca6\u0cbf\u0ca6\u0cb0\u0cc7\u0ca8\u0cc1\n\u0cb8\u0cbe\u0ca7\u0ca8\u0cc6\u0c97\u0cbf\u0ca6\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cbe\u0cb0 ||\n\n\u0cb8\u0cbe\u0cb0\u0cb5\u0ccb \u0cac\u0cb9\u0cc1 \u0cb8\u0c82\u0cb8\u0cbe\u0cb0 \u0cb5\u0cbf\u0cae\u0ccb\u0c9a\u0c95\n\u0cb8\u0cc7\u0cb0\u0ccb \u0cb9\u0caf\u0cb5\u0ca6\u0ca8\u0ca8\u0ccd\u0ca8 ||\n\n",
+    "english": "Hari bhajane mado nirantara\nparagatigidu nirdhara nodo ||pa||\n\nModalu torutide madhura vishaya sukha\nkadeyali duhkha anrkha nodo|\nVeda shastragala odidarenu\nsadhanakidu nirdhara nodo |\nSaravu bahu samsara vimochaka shri\nhari hayavadananna nodo |\n\nYou can listen to the song here : by Sri Vidyabhushana Theertha Swamij\ni\nhttps://youtu.be/E4O1aqOQtyA\n\n\n",
     "media": "https://www.youtube.com/watch?v=E4O1aqOQtyA",
     "kannada_title": "\u0cb9\u0cb0\u0cbf \u0cad\u0c9c\u0ca8\u0cc6 \u0cae\u0cbe\u0ca1\u0ccb \u0ca8\u0cbf\u0cb0\u0c82\u0ca4\u0cb0",
     "english_title": " Hari bhajane mado nirantara",

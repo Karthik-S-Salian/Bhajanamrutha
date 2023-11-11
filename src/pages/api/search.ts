@@ -1,6 +1,5 @@
 
 import type { APIRoute } from 'astro';
-import {matchSearch} from "../../lib/bhajan"
 
 export const get: APIRoute = async function get ({ request}){
     const url = new URL(request.url)

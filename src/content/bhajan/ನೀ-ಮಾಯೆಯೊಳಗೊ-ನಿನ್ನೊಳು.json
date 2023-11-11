@@ -1,62 +1,7 @@
 {
     "meta": "",
-    "kannada": [
-        [
-            "\u0ca8\u0cc0 \u0cae\u0cbe\u0caf\u0cc6\u0caf\u0cca\u0cb3\u0c97\u0cca \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0cc1 \u0cae\u0cbe\u0caf\u0cc6\u0caf\u0ccb",
-            "\u0ca8\u0cc0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cca\u0cb3\u0c97\u0cca \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0cc1 \u0ca6\u0cc7\u0cb9\u0cb5\u0ccb ||"
-        ],
-        [
-            "\u0cac\u0caf\u0cb2\u0cc1 \u0c86\u0cb2\u0caf\u0ca6\u0cca\u0cb3\u0c97\u0cca \u0c86\u0cb2\u0caf\u0cb5\u0cc1 \u0cac\u0caf\u0cb2\u0cca\u0cb3\u0c97\u0cca",
-            "\u0cac\u0caf\u0cb2\u0cc1 \u0c86\u0cb2\u0caf\u0cb5\u0cc6\u0cb0\u0ca1\u0cc1 \u0ca8\u0caf\u0ca8\u0ca6\u0cca\u0cb3\u0c97\u0ccb ||"
-        ],
-        [
-            "\u0ca8\u0caf\u0ca8 \u0cac\u0cc1\u0ca6\u0ccd\u0ca7\u0cbf\u0caf \u0c92\u0cb3\u0c97\u0cca \u0cac\u0cc1\u0ca6\u0ccd\u0ca7\u0cbf \u0ca8\u0caf\u0ca8\u0ca6 \u0c92\u0cb3\u0c97\u0cca",
-            "\u0ca8\u0caf\u0ca8\u0cac\u0cc1\u0ca6\u0ccd\u0ca7\u0cbf\u0c97\u0cb3\u0cc6\u0cb0\u0ca1\u0cc1 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0c97\u0cca \u0cb9\u0cb0\u0cbf\u0caf\u0cc7 ||"
-        ],
-        [
-            "\u0c95\u0cc1\u0cb8\u0cc1\u0cae\u0ca6\u0cb2\u0cbf \u0c97\u0c82\u0ca7\u0cb5\u0cca \u0c97\u0c82\u0ca7\u0ca6\u0cb2\u0cbf \u0c95\u0cc1\u0cb8\u0cc1\u0cae\u0cb5\u0ccb",
-            "\u0c95\u0cc1\u0cb8\u0cc1\u0cae \u0c97\u0c82\u0ca7\u0c97\u0cb3\u0cc6\u0cb0\u0ca1\u0cc1 \u0c86\u0c98\u0ccd\u0cb0\u0cbe\u0ca3\u0ca6\u0cca\u0cb3\u0c97\u0ccb ||"
-        ],
-        [
-            "\u0c85\u0cb8\u0cae\u0cad\u0cb5 \u0c95\u0cbe\u0c97\u0cbf\u0ca8\u0cc6\u0cb2\u0cc6 \u0c86\u0ca6\u0cbf\u0c95\u0cc7\u0cb6\u0cb5\u0cb0\u0cbe\u0caf",
-            "\u0c89\u0cb8\u0cc1\u0cb0\u0cb2\u0cc6\u0ca8\u0ccd\u0ca8\u0cb3\u0cb5\u0cb2\u0ccd\u0cb2 \u0c8e\u0cb2\u0ccd\u0cb2 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0c97\u0cca \u0cb9\u0cb0\u0cbf\u0caf\u0cc7 ||"
-        ]
-    ],
-    "english": [
-        [
-            "Nee maayeyolago, ninnolu maayeyo",
-            "nee dehadolago, ninnolu dehavo ||"
-        ],
-        [
-            "Bayalu aalayadolago aalayavu bayalolago",
-            "bayalu aalayaveradu nayanadolago",
-            "nayana buddhiyolago, buddhi nayanadolago",
-            "nayana buddhigaleradu ninnolago hariye ||1||"
-        ],
-        [
-            "Saviyu sakkareyolago, sakkareyu saviyolago",
-            "saviyu sakkareyaradu jihveyolago",
-            "jihve manasinolago, manasu jihveyolago",
-            "jihve manasugaleradu ninnolago hariye ||2||"
-        ],
-        [
-            "Kusumadolu gandhavo, gandhadolu kusumavo",
-            "kusuma gandhagaleradu aaghraanadolago",
-            "asamabhava",
-            "kaagineleyaadi",
-            "keshavaraaya",
-            "usuralennalavalla ella ninnolago hariye\u00a0||3||"
-        ],
-        [
-            "*******************************************"
-        ],
-        [
-            "Youtube link",
-            ":",
-            "https://youtu.be/QB9oSTXoqXo",
-            "by Sri Vidyabhushana Swamiji"
-        ]
-    ],
+    "kannada": "\u0ca8\u0cc0 \u0cae\u0cbe\u0caf\u0cc6\u0caf\u0cca\u0cb3\u0c97\u0cca \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0cc1 \u0cae\u0cbe\u0caf\u0cc6\u0caf\u0ccb\n\u0ca8\u0cc0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cca\u0cb3\u0c97\u0cca \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0cc1 \u0ca6\u0cc7\u0cb9\u0cb5\u0ccb ||\n\n\u0cac\u0caf\u0cb2\u0cc1 \u0c86\u0cb2\u0caf\u0ca6\u0cca\u0cb3\u0c97\u0cca \u0c86\u0cb2\u0caf\u0cb5\u0cc1 \u0cac\u0caf\u0cb2\u0cca\u0cb3\u0c97\u0cca\n\u0cac\u0caf\u0cb2\u0cc1 \u0c86\u0cb2\u0caf\u0cb5\u0cc6\u0cb0\u0ca1\u0cc1 \u0ca8\u0caf\u0ca8\u0ca6\u0cca\u0cb3\u0c97\u0ccb ||\n\n\u0ca8\u0caf\u0ca8 \u0cac\u0cc1\u0ca6\u0ccd\u0ca7\u0cbf\u0caf \u0c92\u0cb3\u0c97\u0cca \u0cac\u0cc1\u0ca6\u0ccd\u0ca7\u0cbf \u0ca8\u0caf\u0ca8\u0ca6 \u0c92\u0cb3\u0c97\u0cca\n\u0ca8\u0caf\u0ca8\u0cac\u0cc1\u0ca6\u0ccd\u0ca7\u0cbf\u0c97\u0cb3\u0cc6\u0cb0\u0ca1\u0cc1 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0c97\u0cca \u0cb9\u0cb0\u0cbf\u0caf\u0cc7 ||\n\n\u0c95\u0cc1\u0cb8\u0cc1\u0cae\u0ca6\u0cb2\u0cbf \u0c97\u0c82\u0ca7\u0cb5\u0cca \u0c97\u0c82\u0ca7\u0ca6\u0cb2\u0cbf \u0c95\u0cc1\u0cb8\u0cc1\u0cae\u0cb5\u0ccb\n\u0c95\u0cc1\u0cb8\u0cc1\u0cae \u0c97\u0c82\u0ca7\u0c97\u0cb3\u0cc6\u0cb0\u0ca1\u0cc1 \u0c86\u0c98\u0ccd\u0cb0\u0cbe\u0ca3\u0ca6\u0cca\u0cb3\u0c97\u0ccb ||\n\n\u0c85\u0cb8\u0cae\u0cad\u0cb5 \u0c95\u0cbe\u0c97\u0cbf\u0ca8\u0cc6\u0cb2\u0cc6 \u0c86\u0ca6\u0cbf\u0c95\u0cc7\u0cb6\u0cb5\u0cb0\u0cbe\u0caf\n\u0c89\u0cb8\u0cc1\u0cb0\u0cb2\u0cc6\u0ca8\u0ccd\u0ca8\u0cb3\u0cb5\u0cb2\u0ccd\u0cb2 \u0c8e\u0cb2\u0ccd\u0cb2 \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0c97\u0cca \u0cb9\u0cb0\u0cbf\u0caf\u0cc7 ||\n\n",
+    "english": "Nee maayeyolago, ninnolu maayeyo\nnee dehadolago, ninnolu dehavo ||\n\nBayalu aalayadolago aalayavu bayalolago\nbayalu aalayaveradu nayanadolago\nnayana buddhiyolago, buddhi nayanadolago\nnayana buddhigaleradu ninnolago hariye ||1||\n\nSaviyu sakkareyolago, sakkareyu saviyolago\nsaviyu sakkareyaradu jihveyolago\njihve manasinolago, manasu jihveyolago\njihve manasugaleradu ninnolago hariye ||2||\n\nKusumadolu gandhavo, gandhadolu kusumavo\nkusuma gandhagaleradu aaghraanadolago\nasamabhava\nkaagineleyaadi\nkeshavaraaya\nusuralennalavalla ella ninnolago hariye\u00a0||3||\n\n*******************************************\n\nYoutube link\n:\nhttps://youtu.be/QB9oSTXoqXo\nby Sri Vidyabhushana Swamiji\n\n",
     "media": "https://www.youtube.com/watch?v=QB9oSTXoqXo",
     "kannada_title": "\u0ca8\u0cc0 \u0cae\u0cbe\u0caf\u0cc6\u0caf\u0cca\u0cb3\u0c97\u0cca \u0ca8\u0cbf\u0ca8\u0ccd\u0ca8\u0cca\u0cb3\u0cc1",
     "english_title": "Nee maayeyolago ninnolu",

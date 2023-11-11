@@ -36,14 +36,12 @@ const { title } = Astro.props;
     </body>
 </html>
 
-<style>
+<style is:global>
     html {
         @apply md:text-[17px];
     }
 
     .kannada-font {
-        font-family: "Noto Sans Kannada Variable", sans-serif;
-        line-height: 1rem;
-        word-spacing: 0.025em;
+        font-family: "Noto Sans Kannada Variable", sans-serif;  
     }
 </style>

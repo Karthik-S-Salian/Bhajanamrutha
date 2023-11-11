@@ -1,26 +1,25 @@
 ---
-import YouTubeVideo from './YouTubeVideo.astro';
+import YouTubeVideo from "./YouTubeVideo.astro";
 
 export interface Props {
-    english_title?: string;
+    english_title: string;
     kannada_title: string;
     tags?: string[];
-    kannada: string[][] | [];
-    english?: string[][] | [];
+    kannada: string;
+    english?: string;
     media?: string;
     meta?: string;
 }
 const { kannada_title, english_title, tags, kannada, english, media, meta } =
     Astro.props;
 
-
-function getVideoId(url:string){
+function getVideoId(url: string) {
     const videoUrl = new URL(url);
     const searchParams = new URLSearchParams(videoUrl.search);
-    return searchParams.get('v');
+    return searchParams.get("v");
 }
 
-const videoId =media?getVideoId(media):null
+const videoId = media ? getVideoId(media) : null;
 ---
 
 <section>
@@ -42,47 +41,27 @@ const videoId =media?getVideoId(media):null
     )
 }
 
-{meta && <section class="w-full kannada-font text-slate-800">{meta}</section>}
+{meta && <section class="w-full text-slate-800 kannada-font">{meta}</section>}
 
 <section>
     <h4 class="font-bold text-lg mb-4">Lyrics in kannada</h4>
-    <div class="flex flex-col gap-4 kannada-font">
-        {
-            kannada.map((para) => {
-                return (
-                    <ul class="list-none">
-                        {para.map((stanza) => (
-                            <li>{stanza}</li>
-                        ))}
-                    </ul>
-                );
-            })
-        }
-    </div>
+    <pre class="kannada-font">{kannada.trim()}</pre>
 </section>
 
 {
     english && (
         <section>
             <h4 class="font-bold text-lg mb-4">Lyrics in english</h4>
-            <div class="flex flex-col gap-4 font">
-                {english.map((para) => {
-                    return (
-                        <ul class="list-none">
-                            {para.map((stanza) => (
-                                <li>{stanza}</li>
-                            ))}
-                        </ul>
-                    );
-                })}
-            </div>
+            <pre>{english.trim()}</pre>
         </section>
     )
 }
 
 {
     videoId && (
+        <>
             <hr class="w-full h-px border-0 rounded my-4 bg-black" />
-            <YouTubeVideo {videoId}/>
+            <YouTubeVideo {videoId} />
+        </>
     )
 }

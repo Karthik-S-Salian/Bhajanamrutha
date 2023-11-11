@@ -5,8 +5,8 @@ const bhajanCollection = defineCollection({
   schema: z.object({
     kannada_title: z.string(),
     english_title: z.string(),
-    kannada: z.array(z.array(z.string())),
-    english: z.array(z.array(z.string())),
+    kannada: z.string(),
+    english: z.string().optional(),
     meta: z.string().optional(),
     tags: z.array(z.string()).optional(),
     tag: z.array(z.string()).optional(),
