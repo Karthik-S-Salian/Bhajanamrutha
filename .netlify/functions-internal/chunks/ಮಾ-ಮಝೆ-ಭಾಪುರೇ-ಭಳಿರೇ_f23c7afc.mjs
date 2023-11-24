@@ -1,0 +1,10 @@
+const id = "ಮಾ-ಮಝೆ-ಭಾಪುರೇ-ಭಳಿರೇ";
+const collection = "bhajan";
+const data = {kannada_title:"ಮಾ ಮಝೆ ಭಾಪುರೇ ಭಳಿರೇ",english_title:"Ma maje bapure balire",kannada:"ಮಾ ಮಝೆ ಭಾಪುರೇ ಭಳಿರೇ ಹನುಮಂತ ||ಪ||\n\nರಾಮಪದ ಸೇವಿಪ ವೀರ ಹನುಮಂತ ||ಅ.ಪ||\n\nಹುಟ್ಟುತಲೇ ಹೊನ್ನ ಕಚ್ಚುಟವ ಕುಂಡಲವೆರಿಸಿ\nನಿಷ್ಠೆಯಲಿ ರಘುಪತಿಯ ಪಾದವನೇ ಕಂಡು\nಧಿಟ್ಟ ಹರಿದಾಡಿ ಮನಮುಟ್ಟಿ ಪೂಜಿಸಲಜನ\nಪಟ್ಟಕನುವಾದ ಸಿರಿವಂತ ಹನುಮಂತ || ೧||\n\nಅಂಬರಕೆ ಪುಟಿನೆಗೆದು ಅಂಬುಧಿಯ ನೆರೆ ದಾಟಿ\nಕುಂಭಿಣಿಯ ಮಗಳಿಗುಂಗುರವಿತ್ತೆ\nಬೆಂಬಿಡದೆ ಲಂಕೆಯನು ಸಂಭ್ರಮದಿ ಸಖಗಿತ್ತೆ\nಗಂಭೀರ ವೀರಾದಿವೀರ ಹನುಮಂತ ||೨||\n\nಅತಿ ದುರುಳ ರಕ್ಕಸನು ರಥದ ಮೇಲಿರಲು\nರಘುಪತಿಯು ಪದಚರಿಯಾಗಿ ನಿಂತಿರಲು\nಪೃಥಿವಿ ಗಗನಕೆ ಬೆಳೆದು ರಥವಾದೆ ಒಡೆಯನಿಗೆ\nಅತಿ ಭಯಂಕರ ಸತ್ಯವಂತ ಹನುಮಂತ ||೩||\n\nಒಡೆಯ ಉಣಕರೆಯಲಂದಡಿಗಡಿಗೆ ಕೈ ಮುಗಿದು\nದೃಡ ಭಕುತಿಯಿಂದ ಮೌನದಲಿ ಕುಳಿತು\nಎಡೆಯ ಕೊಂಡೊದ್ದೋಡಿ ಗಗನದಲಿ ಸುರರಿಗೆ\nಕೊಡುತ ಸವಿದುಂಡ ಗುಣವಂತ ಹನುಮಂತ ||೪||\n\nಪ್ರಥಮದಲಿ ಹನುಮಂತ ದ್ವಿತಿಯದಲಿ ಕಲಿಭೀಮ\nತೃತಿಯದಲಿ ಗುರು ಮಧ್ವಮುನಿಯು ಎನಿಸಿ\nಪ್ರತಿಯಿಲ್ಲದಲೆ ಮೆರೆದೆ ಪುರಂದರ ವಿಠಲನ\nಭಕ್ತ ನಿನಗಾರು ಸರಿ ವಿಜಯ ಹನುಮಂತ || ೫||\n\n",english:"Ma maje bapure balire hanumanta ||pa||\n\nRamapada sevipa vira hanumanta ||a.pa||\n\nHuttutale honna kacchutava kundalaverisi\nNishteyali ragupatiya padavane kandu\nDhitta haridadi manamutti pujisalajana\nPattakanuvada sirivanta hanumanta|| 1||\n\nAmbarake putinegedu ambudhiya nere dati\nKumbiniya magaligunguravitte\nBembidade lankeyanu sambramadi sakagitte\nGambira viradivira hanumanta ||2||\n\nAti durula rakkasanu rathada meliralu\nRagupatiyu padachariyagi nintiralu\nPruthivi gaganake beledu rathavade odeyanige\nAti Bayankara satyavanta hanumanta ||3||\n\nOdeya unakareyalandadigadige kai mugidu\nDruda Bakutiyinda maunadali kulitu\nEdeya kondoddodi gaganadali surarige\nKoduta savidunda gunavanta hanumanta ||4||\n\nPrathamadali hanumanta dvitiyadali kalibima\nTrutiyadali guru madhvamuniyu enisi\nPratiyilladale merede purandara vithalana\nBakta ninagaru sari vijaya hanumanta\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=irfCD10qR7E"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಮಾ-ಮಝೆ-ಭಾಪುರೇ-ಭಳಿರೇ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

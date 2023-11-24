@@ -1,0 +1,10 @@
+const id = "ಯಾರು-ಸಂಗಡ-ಬಾಹೋರಿಲ್ಲಾ";
+const collection = "bhajan";
+const data = {kannada_title:"ಯಾರು ಸಂಗಡ ಬಾಹೋರಿಲ್ಲಾ",english_title:"Yaaru sangada baahorilla",kannada:"ಯಾರೂ ಸಂಗಡ ಬಾಹೋರಿಲ್ಲ\nನಾರಾಯಣನ ನಾಮ ನೆರೆಬಾಹೋದಲ್ಲದೆ ||\n\nಹೊತ್ತು ನವಮಾಸ ಪರ್ಯಂತವು ಗರ್ಭದಲಿ\nಹೆತ್ತು ಬಲು ನೋವು ಬೇನೆಗಳಿಂದಲಿ\nತುತ್ತು ಬುತ್ತಿಯ ಕೊಟ್ಟು ಸಲಹಿದಂಥಾ ತಾಯಿ\nಅತ್ತು ಕಳಹುವಳಲ್ಲದೆ ನೆರೆ ಬಹಳೆ ||\n\nದೇವವಿಪ್ರರು ಅಗ್ನಿಸಾಕ್ಷಿಯಿಂದಲಿ ತನ್ನ\nಭಾವಶುದ್ಧದಿ ಧಾರೆಯೆರೆಸಿಕೊಂಡ\nದೇವಿ ತನ್ಸತಿ ತಲೆಗೆ ಕೈಯಿಟ್ಟುಕೊಂಡು ಇ-\nನ್ನಾವ ಗತಿಯೋ ಎಂದು ಅಳುತುಳಿವಳಲ್ಲದೆ ||\n\nಮತ್ತೆ ಪ್ರಾಣರು ತನುವ ಬಿಟ್ಟು ಹೋಗುವಾಗ\nಎತ್ತಿವನ ಹೊರಗೊಯ್ದು ಹಾಕೆಂಬರು\nಎತ್ತಿದ ಕಸಕಿಂತ ಕಡೆಯಾಯಿತೀ ದೇಹ\nವಿತ್ತವೆಷ್ಟಿದ್ದರು ಫಲವಿಲ್ಲ ಪ್ರಾಣಿ ||\n\nಪುತ್ರಮಿತ್ರರು ಸಕಲಬಂಧುಗಳು ಸತಿಯರು\nಹತ್ತಿರದೊಳ್ ನಿಂತು ನೋಡುವರಲ್ಲದೆ\nಮೃತ್ಯುದೇವಿಯು ಬಂದು ಪ್ರಾಣವನು ಸೆಳೆವಾಗ\nಜಾತ್ರೆ ಜನರಷ್ಟಿದ್ದು ಏನು ಮಾಡುವರು ||\n\nಯಮನ ದೂತರು ಬಂದು ಪಾಶವನು ತಗಲ್ಹಾಕಿ\nಮಮತೆಯಿಲ್ಲದೆ ಪ್ರಾಣ ಎಳೆಯುತಿರಲು\nವಿಮುಖನಾಗಿ ತಾನು ವ್ಯಥೆಯಿಂದ ಪೋಪಾಗ\nಕಮಲಾಕ್ಷ ಪುರಂದರವಿಠಲ ನೀನಲ್ಲದೆ ||\n\n",english:"Yaaru sangada baahorilla narayanana naama nerebaahodallade ||\n\nHottu navamaasa paryantavu garbhadali | hettu balu novu benegalinda | tuttu buttiya kottu salahidanta taayi | attu kalahuvalallade nere bahala ||\n\nDeva vipraru agnisaakshiyindali tanna | bhavashuddadi dhareyeresikonda | devi tansati talege kaiyittukondu |ennaava gatiyo endu alutulivalallade ||\n\nMatte pranaru tanuva bittu hoguvaga | ettivana horagoydu haakembaru | ettida kasakinta kadeyaayiti deha | vittaveshtiddaru phalavilla prani ||\n\nPutramitraru sakalabandhugalu satiyaru | hattiradol nintu noduvarallade | mrutyudeviyu bandu pranavanu selevaaga jaatre janarashtiddu enu maaduvaru ||\n\nYamana dootaru bandu paashavanu tagalaahki | mamateyillade prana eleyutiralu | vimukhanagi taanu vyatheyinda popaaga | kamalaaksha purandaravittala neenallade||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=_tLvWRb6TlQ"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಯಾರು-ಸಂಗಡ-ಬಾಹೋರಿಲ್ಲಾ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

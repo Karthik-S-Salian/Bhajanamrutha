@@ -1,0 +1,10 @@
+const id = "ಸಾಕು-ಸಾಕು-ಮನುಜಸೇವೆಯು";
+const collection = "bhajan";
+const data = {kannada_title:"ಸಾಕು ಸಾಕು ಮನುಜಸೇವೆಯು",english_title:" Saaku saaku manja seveyu",kannada:"ಸಾಕು ಸಾಕು ಮನುಜ ಸೇವೆಯು, ರಂಗಯ್ಯ ಇನ್ನು ||ಅ||\n\nಸಾಕು ಸಾಕು ಮನುಜ ಸೇವೆ ಮಾಡಿ ದಣಿದು ನೊಂದೆ ನಾನು|\nಬೇಕು ನಿನ್ನ ಪಾದ ಭಜನೆ ಕೊಟ್ಟು ಸಲಹೊ ರಂಗಯ್ಯ ||ಅ. ಪ||\n\nಹೊತ್ತರೆದ್ದು ಹೋಗಿ ಪರರ ಚಿತ್ತ ವೃತ್ತಿಯನ್ನು ತಿಳಿದು\nಹತ್ತರಿದ್ದು ಹಲವು ಕೆಲಸ ಭೃತ್ಯನಂತೆ ಮಾಡಿ –\nರಿಕ್ತಹಸ್ತದಿಂದ ಮನೆಯ ಸೇರುವೆ –\nಆಸೆಗಾಗಿ ಮತ್ತೆ ಕಂಡ ಕಡೆಗೆ ತೊಲಗುವೆ –\nಬಂದು ಅಪರ ರಾತ್ರಿಯಲ್ಲಿ ತಿಂದು ಒರಗುವೆ ರಂಗಯ್ಯ ರಂಗ ||1||\n\nಸ್ನಾನ ಸಂಧ್ಯಾನುಷ್ಠಾನ ನೇಮವೆಲ್ಲ ತೊರೆದು\nಬಿಟ್ಟು ಹೀನನಾಗಿ ಕೆಟ್ಟ ಜನರ ಮನೆಗಳನ್ನು ತಿರುಗಿ\nತಿರುಗಿ ಶ್ವಾನನಂತೆ ದಿನವ ಕಳೆವೆನೊ –\nದುರಾಸೆಯನ್ನು ಮನಸಿನಲ್ಲಿ ಮಡಗಿಕೊಂಡು\nಕುದಿವೆನೊಕೊನೆಗೂ ಎಳ್ಳುಕಾಳಿನಷ್ಟು ಸುಖವ ಕಾಣೆನೊ ರಂಗಯ್ಯ ರಂಗ||2||\n\nಒಡಲಿನಾಸೆಗಾಗಿ ನೊಣನು ತುಡುಕಿಬಿದ್ದು ಜೇನಕೊಡದಿ\nಮಿಡುಕುವಂತೆ ಬಾಯಿಬಿಡುವೆ ಬಿಸರುಹಾಕ್ಷನೆಬಿಡಿಸು\nಎನ್ನ ಬಂಧಪಾಶವ ಕಾಗಿನೆಲೆಯಾದಿ ಕೇಶವ ಕೊಡಿಸು ನಿನ್ನ ಭಕ್ತರ ಸಂಗವ –\nಕನಕದಾಸನೊಡೆಯ ವೆಂಕಟಾದ್ರಿ ಮಾಧವ – ರಂಗಯ್ಯ ರಂಗ||3||\n\n",english:"Saku saku manuja seveyu rangayya innu |saku|\n\nSaku Saku manujaseve madi danidu nonde nanu\nBeku ninna padabhajane lokadodeya rangaraya\n\nHottareddu hogi parara cittavrittiyanne aritu\nNityadalli halavu kelasa Bhrityanante madi\nRikta hastadinda manege seruve\nAsegagi matte kanda kadege tolaguve\nBandu apara ratriyalli tindu oraguve rangayya ranga||1||\n\nSnana mouna nitya sandhyana nemagalane toredu\nHinanagi ketta janmagalali tirugi tirugi\nShvananante dinava kaledeno\nDuraseyannu manadalittukondu kudiveno\nKonege ellukalinashtu sukhava kaneno rangayya ranga||2||\n\nOdalinasegagi nonavu tunuki biddu jeninolage\nMidukuvante bayabiduve bisaruhakshane\nBidiso enna bandhapashava kagineleyadikeshava\nKodiso ninna bhaktara sangava\nOdeya venkatadri madhava rangayya ranga||3||\n\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=Vjf0KuIe46s"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಸಾಕು-ಸಾಕು-ಮನುಜಸೇವೆಯು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

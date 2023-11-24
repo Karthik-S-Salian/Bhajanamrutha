@@ -1,0 +1,10 @@
+const id = "ಏನ-ಬೇಡಲಿ-ನಿನ್ನ-ಬಳಿಗೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ಏನ ಬೇಡಲಿ ನಿನ್ನ ಬಳಿಗೆ",english_title:"Ena bedali ninna balige",kannada:"ಏನ ಬೇಡಲಿ ನಿನ್ನ ಬಳಿಗೆ ಬಂದು\nನೀನಿಟ್ಟ ಸೌಭಾಗ್ಯ ನಿಬಿಡವಾಗಿದೆ ಎನಗೆ ।।ಪ।।\n\nಜನನಿಯ ಕೊಡು ಎಂದು ಜಯವಂತ ಬೇಡುವೆನೇ\nಜನನಿ ಏನಿಟ್ಟಳ ಧೃವರಾಯಗೆ\nಜನಕನ ಕೊಡು ಎಂದು ಜಗದೀಶ ಬೇಡುವೆನೇ\nಜನಕನೇನಿಟ್ಟನ ಪ್ರಹ್ಲಾದಗೇ ।।೧।।\n\nಅನುಜನ ಕೊಡು ಎಂದು ಅತಿಶಯದಿ ಬೇಡುವೆನೇ\nಅನುಜನೇನಿಟ್ಟನೈ ಆ ವಾಲಿಗೆ\nಧನವನ್ನೇ ಕೊಡು ಎಂದು ದೈನ್ಯದಲಿ ಬೇಡುವೆನೇ\nಧನವ ಗಳಿಸಿ ಸುಯೋಧನನೇನಾದನು ।।೨।।\n\nಸತಿಯಳ ಕೊಡು ಎಂದು ಮತಿವಂತ ಬೇಡುವೆನೇ\nಸತಿಯಿಂದ ದ್ಯುನಾಮಕನೇನಾದನಯ್ಯ\nಸುತರುಗಳ ಕೊಡು ಸತತದಲಿ ಬೇಡುವೆನೇ\nಸುತರಿಂದ ಧೃತರಾಷ್ಟ್ರ ಗತಿಯೆಷ್ಟು ಪಡೆದ ।।೩।।\n\nಬಂಧುಗಳ ಕೊಡು ಎಂದು ಚೆಂದದಲಿ ಬೇಡುವೆನೇ\nಬಂಧುಗಳು ಸಲಹಿದರೆ ಗಜರಾಜನ\nಅಂಡನವ ಕೊಡು ಎಂದು ಅತಿಶಯದಿ ಬೇಡುವೆನೇ\nಅಂಡನವನೇರಿದ ನಹುಷನೇನಾದನಯ್ ।।೪।।\n\nಬೇಡುವೆನು ನಾ ನೊಂದ ಬೇಡತಕ್ಕುದ ದೇವ\nನೀಡೆನೆಂಬುವದು ನಿನ್ನ ಮನದಿಚ್ಛಯೈ\nಮೂಡಲಾದ್ರೀಶ ಶ್ರೀ ಗೋಪಾಲವಿಠಲ\nಬೇಡದಂತೆ ಪರರ ಮಾಡೆನ್ನ ದೊರೆಯೇ ।।೫।।\n\n",english:"Lyrics In English\n\nEna bedali ninna balige bandu\nninitta saubhagya nibidavagide enage | ||pa||\n\nJananiya kodu endu jayavanta beduvene |\njanani enittala dhruvarayage |\njanakana kodu endu jagadisha beduvene |\njanakanenittana prahladage ||1||\n\nAnujana kodu endu atishayadi beduvene |\nanujanenittanai a vaalige |\ndhanavanne kodu endu dainyadali beduvene | dhanava galisi suyodhananenadanu ||2||\n\nSatiyala kodu endu mativanta beduvene |satiyinda dyunamakanenadanayya |\nsutarugala kodu satatadali beduvene\nsutarinda dhrutarashtra gatiyeshtu padeda ||3||\n\nBandhugala kodu endu chendadali beduvene |bandhugalu salahidare gajarajana |andanava kodu endu atishayadi beduvene |\nandanavanerida nahushanenadanayya ||4||\n\nBeduvenu nanonda bedatakkuda deva |nidenembuvadu ninna manadichchayai |mudaladreesha sri gopalavithala |bedadante parara madenna doreye ||5||\n\n\n",meta:"",tags:["kannada devotional song","kannada lyrics"],media:"https://www.youtube.com/watch?v=ojIK34FoXg4"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಏನ-ಬೇಡಲಿ-ನಿನ್ನ-ಬಳಿಗೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

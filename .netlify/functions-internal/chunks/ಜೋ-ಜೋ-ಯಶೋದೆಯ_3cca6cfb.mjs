@@ -1,0 +1,10 @@
+const id = "ಜೋ-ಜೋ-ಯಶೋದೆಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ಜೋ ಜೋ ಯಶೋದೆಯ",english_title:"Jo jo yashodeya",kannada:"ಜೋ ಜೋ ಯಶೋದೆಯ ನಂದ ಮುಕುಂದನೆ ಜೋ ಜೋ ಕಂಸ ಕುಠಾರಿ\nಜೋ ಜೋ ಮುನಿಗಳ ಹೃದಯಮಂದಿರ ಜೋ ಜೋ ಲಕುಮಿಯ ರಮಣ |ಪ.|\n\nಹೊಕ್ಕಳ ಹೂವಿನ ತಾವರೆಗಣ್ಣಿನ ಇಕ್ಕಿದ್ದ ಮಕರಕುಂಡಲದ\nಜಕ್ಕರಿಸುವ ಕದಪಿನ ಸುಳಿಗುರುಳಿನ ಚಿಕ್ಕ ಬಾಯಿ ಮುದ್ದು ಮೊಗದ\nಸೊಕ್ಕಿದ ಮದಕರಿಯಂದದಿ ನೊಸಲಲಿ ಇಕ್ಕಿದ ಕಸ್ತೂರಿ ತಿಲಕ\nರಕ್ಕಸರೆದೆದಲ್ಲಣ ಮುರವೈರಿಯೆ ಮಕ್ಕಳ ಮಾಣಿಕ ಜೋ ಜೋ || ೧||\n\nಕಣ್ಣ ಬೆಳಗು ಪಸರಿಸಿ ನೋಡುತ ಅರೆಗಣ್ಣ ಮುಚ್ಚಿ ನಸುನಗುತ\nಸಣ್ಣ ಬೆರಳು ಬಾಯೊಳು ಢವಳಿಸುತ ಪನ್ನಗಶಯನ ನಾಟಕದಿ\nನಿನ್ನ ಮಗನ ಮುದ್ದು ನೋಡೆನುತ ಗೋಪಿ ತನ್ನ ಪತಿಗೆ ತೋರಿದಳು\nಚಿನ್ನತನದ ಸೊಬಗಿನ ಖಣಿಯೇ ಹೊಸ ರನ್ನ ಮುತ್ತಿನ ಬೊಂಬೆ ಜೋ ಜೋ ||೨||\n\nನಿಡಿತೋಳ್ಗಳ ಪಸರಿಸುತಲಿ ಗೋಪಿಯ ತೊಡೆ ಮೇಲ್ ಮಲಗಿ ಬಾಯ ತೆರೆಯೆ\nಒಡಲೊಳು ಚತುರ್ದಶ ಭುವನವಿರಲು ಕಂಡು ನಡುನಡುಗಿ ಕಣ್ಣ ಮುಚ್ಚಿದಳು\nತಡೆಯದೆ ಅಡಿಗಳನಿಡುತಲಿ ಬಂದು ಮದದೇರ ಮುಖವ ನೋಡುತ ನಿಂದು\nಕಡು ದಯಾಸಾಗರ ಪುರಂದರ ವಿಠಲ ಬಿಡದೆ ರಕ್ಷಿಸು ಎನ್ನ ಸಲಹಬೇಕೆಂದು ಜೋ ಜೋ ||೩||\n\n",english:"Jo jo yashodeya nanda mukundane jo jo kamsa kuthari\njo jo munigala hrudayamandira jo jo lakumiya ramana |pa.|\n\nHokkala huvina taavaregannina ikkidda makarakundalada\njakkarisuva kadapina suligurulina chikka bayi muddu mogada\nsokkida madakariyandadi nosalali ikkida kasturi tilaka\nrakkasarededallana muravairiye makkala manika jo jo || 1||\n\nKanna belagu pasarisi noduta areganna mucchi nasunaguta\nsanna beralu bayolu Dhavalisuta pannagashayana natakadi\nninna magana muddu nodenuta gopi tanna patige toridalu\nchinnatanada sobagina khaniye hosa ranna muttina bombe jo jo ||2||\n\nNiditolgala pasarisutali gopiya tode mel malagi baya tereye\nodalolu chaturdasha bhuvanaviralu kandu nadunadugi kanna mucchidalu\ntadeyade adigalanidutali bandu madadera mukhava niduta nindu\nkadu dayasagara purandara vithala bidade rakshisu enna salahabekendu jO jO ||3||\n\n",meta:"",tags:["dasara padagalu","english lyrics","kannada devotional song","kannada lyrics"],media:""};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಜೋ-ಜೋ-ಯಶೋದೆಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ನಿಲ್ಲೆ-ನಿಲ್ಲೆ-ಕೊಲ್ಲಾಪುರದೇವಿ";
+const collection = "bhajan";
+const data = {kannada_title:"ನಿಲ್ಲೆ ನಿಲ್ಲೆ ಕೊಲ್ಲಾಪುರದೇವಿ",english_title:" Nille nille kolhaapuradevi",kannada:"ನಿಲ್ಲೆ ನಿಲ್ಲೆ ಕೊಲ್ಲಾಪುರದೇವಿ\nಇಲ್ಲೆ ಬಾರೆ ಗೆಜ್ಜೆ ಘಿಲ್ಲೆನುತ||\nಕರುಣಸಾಗರ ಹರಿತರುಣಿಯೆ ನೀ ಕೋಟಿ\nತರುಣ ಕಿರಣ ರತ್ನಾಭರಣನಿಟ್ಟು\nಮಣಿಕೌಂಸ್ತುಭ ವಕ್ಷ ಸ್ಥಳದಲ್ಲಿದ್ದೊ ್ಹಳೆಯುವ\nಸುಪರಣವಾಹನಾ ಲಕ್ಷ್ಮಿ ಶರಣು ವಂದಿತಳೆ||1||\nಪಂಕಜಾಕ್ಷಿ ಪಂಕಜೋದ್ಭವನ ಜನನಿ\nಪಂಕಜಮುಖಿ ಪಾಲಿಸೆ ಎನ್ನ\nಪಂಕಜನಾಭನ ಅಂಕದಲ್ಲೊಪ್ಪುವ\nಪಂಕಜೆ ನಿನ್ನ ಪಾದಪಂಕಜಕೆರಗುವೆ ||2||\nಮುಗುಳುನಗೆಯ ಮುತ್ತುಗಳು ಜಡಿತ ಕ-\nರ್ಣಗಲ ವಾಲೆಯು ಕದಪಿನಲ್ಲೊ ್ಹಳೆಯೆ\nಬಗೆ ಬಗೆ ಸರ ಬಂಗಾರವನಿಟ್ಟು ಮೂ-\nರ್ಜಗವ ಮೋಹಿಸೊ ಜಗದಾಧಿಪತಿಯ ರಾಣಿ||3||\nಸಾಗರದೊಳಗ್ಹುಟ್ಟಿ ಆಗ ಶ್ರೀನಾಥನ\nಬ್ಯಾಗ ನೋಡಿ ಪರಮೋತ್ಸವದಿ\nನಾಗಶಯನ ನಾಗಾರಿವಾಹನನ-\nರ್ಧಾಂಗಿ ಎನಿಸಿದಾನಂತ ಮಹಿಮಳೆ ||4||\nಶೇಷಗಿರಿಯ ಶ್ರೀನಿವಾಸನ ಎದೆಯಲ್ಲ್ಯಾ\nವಾಸವಾಗಿರಲ್ಯತಿ ಪ್ರೇಮದಲಿ\nಈಶ ನಾರದ ಬ್ರಹ್ಮಾಸುರರೊಡೆಯ\nಭೀ-\nಮೇಶಕೃಷ್ಣ\nನ ನಿಜ ದಾಸರಿಗ್ವರನೀಹೊ ||5||\n\n",english:"Nille nille kolhaapuradevi | ille baare gejje Gillenutaa || pa ||\n\nKarunaa saagara hari taruniye nee koti taruna kirana\nRatnaabharanavittu |\nMani koustubha vakshasthaladalholeyuta |\nSuparnavaahana lakshmi sharana vanditale || 1 ||\n\nPankajaakshi pankajodbhava jananee |\nPankaja mukhi paalise enna |\nPankajanaabhana ankadalloppuva |\nPankaje ninna paada pankajakkeraguve || 2 ||\n\nMugulu nageya muttugaludurisuta |\nKarnagala vaale kadapinalholeye |\nBage bage sara bamgaaravanittu |\nMoor jagava mohisuva jagadaadhipana raani || 3 ||\n\nSaagaradolaguhutti aaga shreenaathana |\nByaaga nodi paramotsavadi |\nNaagashayana naagaari vaahanana |\nArdhaangi enisidananta mahimale || 4 ||\n\nShesha giriya shreenivaasana edeyali |\nVaasavaagiralati premadali |\nEesha naarada brahmaasurarodeya |\nBheemesha krushnana nija daasarigvaraveeye || 5 ||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=S_x4GzQvwPw"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ನಿಲ್ಲೆ-ನಿಲ್ಲೆ-ಕೊಲ್ಲಾಪುರದೇವಿ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

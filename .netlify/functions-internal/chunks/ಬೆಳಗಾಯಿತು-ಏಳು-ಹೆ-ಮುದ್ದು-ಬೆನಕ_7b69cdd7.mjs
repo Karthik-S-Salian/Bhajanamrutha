@@ -1,0 +1,10 @@
+const id = "ಬೆಳಗಾಯಿತು-ಏಳು-ಹೆ-ಮುದ್ದು-ಬೆನಕ";
+const collection = "bhajan";
+const data = {kannada_title:"ಬೆಳಗಾಯಿತು ಏಳು ಹೆ ಮುದ್ದು ಬೆನಕ",english_title:" Belagaytu elu he muddu benaka",kannada:"ಬೆನಕ ಬೆನಕ ಏಕದಂತ… ಪಚ್ಚೆ ಕಲ್ಲು ಪಾಣಿಪೀಠ\nಮುತ್ತಿನುಂಡೆ, ಹೊನ್ನ ಘಂಟೆ ಒಪ್ಪುವ ಗುಡ್ಡ ಬೆಟ್ಟದಲಿ , ತಂಬಿಟ್ಟು ಮುಕ್ಕುವ\nಪುಟ್ಟ ವಿಘ್ನೇಶ್ವರ ದೇವರಿಗೆ ಇಪ್ಪತ್ತೊಂದು ನಮಸ್ಕಾರಗಳು\n\nಬೆಳಗಾಯಿತು ಏಳು ಹೆ ಮುದ್ದು ಬೆನಕ\nಭುವಿಎಲ್ಲ ರಂಗಾಯಿತು ನೀ ಏಳು ಬೆನಕ ||\nಅಂಬಾಪ್ರಿಯ ತನಯ, ಆದಿ ಪೂಜಿತನೆ\nಮೂಡನದೆ ರವಿ ಎದ್ದ ನಿ ಏಳು ಬೆನಕ\n||ಬೆಳಗಾಯಿತು||\n\nಮಾಮರದಿ ಕೋಗಿಲೆಯು ಪಚ್ಚವರ್ಣದಿ ಗಿಳಿಯು\nಸುಪ್ರಭಾತವ ನಿನಗೆ ಹಾಡುತಿವೆ ಬೆನಕ ||\nಆ ನಿನ್ನ ಸುಂಡಿಲಿಯು ನಿನ್ನ ಬರುವನು ಕಾದು\nಕಾಳುಗಳ ತಿನ್ನುತಲಿ ಕುಳಿತಿಹುದು ಬೆನಕ\n||ಬೆಳಗಾಯಿತು||\n\nಹುಲ್ಲುಗರಿಕೆಯು ಧೂರ್ವೆಯಾಗಿ ಕಾದಿಹುದು ಪೂಜೆಯಲಿ\nನಿನ್ನ ಅಲಂಕರಿಸಲೆಂದು ನಾಗಲಿಂಗದ ಪುಷ್ಪ ||\nಕಮಲಗಳು ಕಾದಿಹವು\nಗಣಪತಿಯ ಅರ್ಚನೆಗೆ ಸಿಧ್ಧವಾಗಿಹೆವೆಂದು\n||ಬೆಳಗಾಯಿತು||\n\nನಿನಗಾಗಿ ಮಾಡಿಟ್ಟ ತಂಬಿಟ್ಟು ಚಕ್ಕುಲಿ\nಕಾಯುತಿವೆ ನಿನ್ನ ಸ್ವೀಕಾರಕಾಗಿ ||\nನಿನ್ನ ಪೂಜೆಯ ಮಾಡೆ ಭಕ್ತ ಜನ ವ್ರಂದ\nಕಾದಿಹುದು ನಿನ್ನ ವರಭಿಕ್ಷೆಗಾಗಿ\n||ಬೆಳಗಾಯಿತು||\n\n",english:"Benaka benaka ekadanta … pacche kallu panipeeta\nmuttinunde honna ghante oppuva gudda bettadali, tambittu mukkuva\nputta vighneshwara devarige eppatondu namaskaragalu\n\nBelagaytu elu he muddu benaka\nbhuviyella rangaytu nee elu benaka ||\nambapriya tanaya adi poojitane\nmoodanadi ravi edda nee elu benaka || belagaytu ||\n\nMamaradi kogileyu pacchavarnadi giliyu\nsuprabhatava ninage hadutive benaka ||\naa ninna sundiliyu ninna baruvanu kadu\nkalugala tinnutali kulitihudu benaka || belagaytu ||\n\nHullugarikeyu dhurveyagi kadihudu poojeyali\nninna alankarisalendu nagalingada pushpa ||\nkamalagalu kadihavu\nganapatiya archanege siddavagihevendu || belagaytu||\n\nNinagagi maditta tambittu chakkuli\nkayutive ninna sweekarkagi ||\nninna poojeya made bhakta jana vrunda\nkadihudu ninna varabhikshegagi ||belagaytu||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=GmwZc12h5fA"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಬೆಳಗಾಯಿತು-ಏಳು-ಹೆ-ಮುದ್ದು-ಬೆನಕ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಬಲು-ರಮ್ಯವಾಗಿದೆ-ಶ್ರೀಹರಿಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ಬಲು ರಮ್ಯವಾಗಿದೆ ಶ್ರೀಹರಿಯ",english_title:" Balu Ramyavagide Srihariya",kannada:"ಬಲು ರಮ್ಯವಾಗಿದೆ ಹರಿಯ ಮಂಚ||ಪ||\nಯಲರುಣಿ ಕುಲರಾಜ ರಾಜೇಶ್ವರನ ಮಂಚ ||ಅ.ಪ||\n\nಪವನತನಯ ಮಂಚ ಪಾವನತರ ಮಂಚ\nಭುವನತ್ರಯವ ಪೊತ್ತ ಭಾರಿ ಮಂಚ\nಕಿವಿಗಳಿಲ್ಲದ ಮಂಚ ಶ್ರೀನಿಕೇತನ ಮಂಚ\nಶಿವರೂಪದಲಿ ಹಿಂದೆ ಹರಿಯನೊಲಿಸಿದ ಮಂಚ ||೧||\n\nನೀಲಾಂಬರವನುಟ್ಟು ನಳನಳಿಸುವ ಮಂಚ\nನಾಲಿಗೆ ಎರಡುಳ್ಳ ನೈಜಮಂಚ\nನಾಲ್ವತ್ತು ಕಲ್ಪದಿ ತಪವ ಮಾಡಿದ ಮಂಚ\nತಾಲ ಮುಸಲ ಹಲವ ಹಿಡಿದಿರುವ ಮಂಚ ||೨||\n\nರಾಮನನುಜನಾಗಿ ರಣವ ಜಯಿಸಿದ ಮಂಚ\nತಾಮಸರುದ್ರನನು ಪಡೆದ ಮಂಚ\nಭೀಮಾವರಜನೊಳು ಆವೇಶಿಸಿದ ಮಂಚ\nಜೀಮೂತ ಮಂಡಲವ ತಡೆಗಟ್ಟಿದ ಮಂಚ ||೩||\n\nಜೀವನಾಮಕನೆನಿಸಿ ವ್ಯಾಪ್ತನಾದ ಹರಿಯ\nಸೇವಿಸಿ ಸುಖಿಸುವ ದಿವ್ಯ ಮಂಚ\nಸಾವಿರ ಮುಖದಿಂದ ತುತಿಸಿ ಹಿಗ್ಗುವ ಮಂಚ\nದೇವಕೀಜಠರದಲಿ ಜನಿಸಿದ ಮಂಚ ||೪||\n\nವಾರುಣೀದೇವಿಗೆ ವರನೆನಿಸಿದ ಮಂಚ\nಸಾರುವ ಭಕುತರ ಪೊರೆವ ಮಂಚ\nಕಾರುಣ್ಯನಿಧಿ ಜಗನ್ನಾಥವಿಠ್ಠಲನ ವಿ-\nಹಾರಕ್ಕೆ ಯೋಗ್ಯವಾದ ಶೇಷ ಮಂಚ ||೫||\n\n",english:"Balu ramyavagide srihariya manca |\nYalaruni kularaja rajesvarana manca |\n\nPavana tanayanenipa pavanatara manca |\nBuvanatrayava potta bari manca |\nKivigalillada manca sriniketana manca |\nSivarupadalli srihariya olisida manca || 1 ||\n\nNiranbaravannuttu nalanalisuva manca |\nNalige eradulla naija manca |\nNalvattu kalpadi tapava madida manca |\nTala musala halava pididiha manca || 2 ||\n\nRamananujanagi ranava jayisida manca |\nTamasa rudrana padeda manca |\nBimananujanolu avesisida manca |\nJimuta mallaranu kuttida manca | |3 ||\n\nJiva namaengada vyaptanada hariya |\nSevisi sukisuva manca |\nSavira mukadinda tutisi higguva manca |\nDevakiya jatharadi janisida manca || 4 ||\n\nVarunidevige varanenisida manca |\nSaruva bktara poreva manca |\nKarunyanidhi jagannatha vithalana |\nViharakke yogyavada sesha manca || 5 ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=P9ln0A3fqQU"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಬಲು-ರಮ್ಯವಾಗಿದೆ-ಶ್ರೀಹರಿಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

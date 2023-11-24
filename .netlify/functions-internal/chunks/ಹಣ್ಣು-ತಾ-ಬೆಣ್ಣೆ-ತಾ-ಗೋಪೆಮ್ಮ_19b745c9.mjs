@@ -1,0 +1,10 @@
+const id = "ಹಣ್ಣು-ತಾ-ಬೆಣ್ಣೆ-ತಾ-ಗೋಪೆಮ್ಮ";
+const collection = "bhajan";
+const data = {kannada_title:"ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮ",english_title:" Hannu taa benne taa gopemma",kannada:"ಸಾಹಿತ್ಯ : ಪುರಂದರದಾಸರು\nಸಂಗೀತ : ಹೆಚ್ ಹನುಮಂತಾಚಾರ್\nಗಾಯನ : ಎಸ್ ಜಾನಕಿ\n\nಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮ||\n\nಅಡವಿಯೊಳಗೆ ಅಸುರನ ಕೊಂದ ಕೈಗೆ ಮಡುವಿನೊಳಗೆ ಮಕರನ ಸೀಳ್ದ ಕೈಗೆ |\nಪೊಡವಿಯೊಳಗೆ ಚಂದ್ರನಾಡಿದ ಕೈಗೆ | ಕಡುಬೇಗದಿಂದಲಿ ಬೇಡಿದ ಕೈಗೆ ||\n||ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮ||\n\nಶಂಖ ಚಕ್ರಗಳನು ಹಿಡಿದಂತ ಕೈಗೆ ಶಂಕೆಯಿಲ್ಲದೆ ಮಾವನ ಕೊಂದ ಕೈಗೆ |\nಬಿಂಕದಿಂದಲಿ ಕೊಳಲು ಊದುವ ಕೈಗೆ | ಪಂಕಜ ಮುಖಿಯರ ಕುಣಿಸುವ ಕೈಗೆ ||\n||ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮ||\n\nದಿಟ್ಟತನದಿ ಬೆಟ್ಟವ ಎತ್ತಿದ ಕೈಗೆ ಸೃಷ್ಟಿಯ ದಾನವ ಬೇಡಿದ ಕೈಗೆ |\nದುಷ್ಟ ಭೂಪರನ್ನೆಲ್ಲಾ ಮಡುಹಿದ ಕೈಗೆ | ಕೆಟ್ಟ ದಾನವರನ್ನು ಬಡಿದಂತ ಕೈಗೆ ||\n||ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮ||\n\nಕಾಳಿಯ ಮಡುವನು ಕಲಕಿದ ಕೈಗೆ ಸೋಳ ಸಾಸಿರ ಗೋಪಿಯರ ಆಳಿದ ಕೈಗೆ |\nಮೇಳದ ಭಕ್ತರ ಉದ್ಘರಿಸುವ ಕೈಗೆ | ಏಳು ಗೂಳಿಯ ಗೆದ್ದ ಯಧುಪತಿಗೆ ||\n||ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮ||\n\nಬಿಲ್ಲು ಬಾಣಗಳನ್ನು ಪಿಡಿದಂತ ಕೈಗೆ ಮಲ್ಲರ ಸಾಧನ ಮಾಡಿದ ಕೈಗೆ |\nಎಲ್ಲ ದೇವರ ದೇವ ರಂಗನ ಕೈಗೆ | ಬಲ್ಲಿದ\nಪುರಂದರ ವಿಠಲ\nನ ಕೈಗೆ\n|||ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮ|||\n\n",english:"Composer : Sri Purandara dasaru\n\nHannu ta benne ta gopamma hannu ta benne ta\nAdaviyolage asurana konda kaige maduvinolage makarana silda kaige\npodaviyolage chendanadida kaige kadu bhekadindali bedida kaige |1|\nShankha chakragalanu pididanda kaige shankeyillade mavana konda kaige\nbinkadindali kolaluduva kaige pankaja mukhiyara kunisuva kaige ||2||\nDittatanadi bettavettida kaige shrstiya danava bedida kaige\ndusta bhuparanella maduhida kaige ketta danavarannu badidanda kaige ||3||\nKaliya maduvanu kalakida kaige sola sasira gopiyaralida kaige\nmelada bhaktaruddharisuva kaige Elu guliya gedda yadupati kaige ||4||\nBillu banagalannu pididanta kaige mallara sadhana madida kaige\nella devara deva rangana kaige ballida purandara vittalana kaige ||5||\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=XGhhmbKDFnk"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಹಣ್ಣು-ತಾ-ಬೆಣ್ಣೆ-ತಾ-ಗೋಪೆಮ್ಮ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಶಾರದೆ-ದಯೆ-ತೋರಿದೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ಶಾರದೆ ದಯೆ ತೋರಿದೆ",english_title:"Shaarade daye thoride",kannada:"ಹ್ರೀಂ ಹ್ರೀಂ ಹ್ರೀಂ ಜಾಪತುಷ್ಠೆ….ಹಿಮರುಚಿ ಮುಕುಟೆ ವಲ್ಲಕಿ ವ್ಯಘ್ರಹಸ್ತೆ\nಮಾತರ್ ಮಾತರ್ ನಮಸ್ತೇ ,ದಹ ದಹ ಜಡತಾಂ ,ದೇಹಿ ಬುದ್ಧಿಂ ಪ್ರಶಾಂತಾಂ\nವಿದ್ಯೆ ,ವೇದಾಂತ ವೇದ್ಯೆ, ಪರಿಣತೆ ಪಠಿತೆ ,ಮೋಕ್ಷದೆ ಮುಕ್ತಿ ಮಾರ್ಗೆ\nಮಾರ್ಗತೀತ ಸ್ವರೂಪೆ ,ಭವಮವ ವರದಾ ,ಶಾರದೆ ಶುಭ್ರಹಾರೆ…………….||\n\nಶಾರದೆ ದಯೆ ತೋರಿದೆ……ಶಾರದೆ ದಯೆ ತೋರಿದೆ..\nನಿನ್ನ… ಕರುಣೆಯ ಕಡಲಲ್ಲಿ ಮುತ್ತಾದೆ…. ನಾ ಮುತ್ತಾದೆ ||ಶಾರದೆ ದಯೆ ತೋರಿದೇ ೨ ಸಲ ಹಾಡಿ||\n\nಹಾಲ ಬೆಳಕಿನಲಿ ಬಿಳಿಯ ಕಮಲದಲಿ\nಬಿಳಿಯ ವಸ್ತ್ರವನು ಧರಿಸಿ|\nಬಿಳಿಯ ಕುಸುಮಗಳ ಮಾಲೆ ಕೊರಳಲಿರೆ\nಬೆಳ್ಳಿ ವೀಣೆಯನು ನುಡಿಸಿ|\nನಿನ್ನ ಕಂಗಳಾ ಬೆಳಕನು\nನನ್ನ ಕಂಗಳಲಿ ತುಂಬಿದೆ || ೨ ಸಲ ||\n\nಏಳು ಮಗುವೆ ಮೇಲೇಳು ಎನುತ\nಹೊಸ ಬಾಳ ತಂದೆಯಮ್ಮ\nಶಾರದೆ ದಯೆ ತೋರಿದೆ ||೨ ಸರ್ತಿ ||\n\nಅಂಧಕಾರದಲಿ ನೊಂದು ಬಳಲುತಿರೆ\nಬಂದು ಕೈಯ್ಯ ಹಿಡಿದೇ|\nಕಂದ ಏಕಳುವೆ ಮುಂದೆ ದಾರಿಯಿದೆ\nಎಂದು ನೀನೆ ಕರೆದೆ||\n\nತಂದೆ ತಾಯಿಯ ಪುಣ್ಯವೋ..\nನಾನೆಂದೋ ಮಾಡಿದ ಪೂಜೆಯೊ..||೨ ಸರ್ತಿ ||\nಇಂದು ನಿನ್ನ ಕೃಪೆಯಿಂದ\nನಾನು ಆನಂದ ಪಡೆದೆನಮ್ಮ….\n\nಶಾರದೆ ಶಾರದೆ ಶಾರದೆ ಶಾರದೆ… ಶಾರದೇ ….\n\n",english:"Shaarade daye thoride\nShaarade daye thoride\nninna karuneya kadalalli muttaaade naa muttaaade ||Shaarade daye thoride repeat 2 times||\n\nHaala belakinali biliya kamaladali\nbiliya vastravanu dharisi\nbiliya kusumagala maaale koralalire\nbelli veeneyanu nudisi\nninna kangalaaa belakanu\nnanna kangalali thumbide || repeat 2 times||\nYelu maguve melelu yenutha\nhosa baala thandeyamma\nSharade daya toride ||repeat twice||\n\nAndhakaaradali nondu balaluthire\nbandu kaiyya hidide\nKanda yekaluve munde daariyide\nyendu neene karede\ntande taayiya punyavo\nnanendo maadida poojeyo ||repeat twice ||\nindu ninna krupeyinda\nnaanu ananda padedenamma\n\nSharade daye thoride… 2 times…\n\nShaarade, Shaarade , Shaarade……\n\nYoutube link :\nhttps://youtu.be/gz2SAwiHR90\nfrom the film Malaya Marutha\n\n",meta:"",tags:["sharade","kannada devotional song","kannada lyrics"],media:"https://www.youtube.com/watch?v=jOUAsQRIOmU"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಶಾರದೆ-ದಯೆ-ತೋರಿದೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

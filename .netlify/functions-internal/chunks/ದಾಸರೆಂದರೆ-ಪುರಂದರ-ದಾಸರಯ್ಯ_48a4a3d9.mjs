@@ -1,0 +1,10 @@
+const id = "ದಾಸರೆಂದರೆ-ಪುರಂದರ-ದಾಸರಯ್ಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ದಾಸರೆಂದರೆ ಪುರಂದರ ದಾಸರಯ್ಯ",english_title:" Dasarendare purandara daasarayya",kannada:"ಸಾಹಿತ್ಯ : ಶ್ರೀ ವ್ಯಾಸರಾಯರು\n\nವಾಸುದೇವ ಕ್ರಷ್ಣನಾ…..||2||\nಸೂಸಿ ಪೂಜಿಸುವಂತಾ…\n\nದಾಸರೆಂದರೆ ಪುರಂದರ ದಾಸರಯ್ಯ|\nವಾಸುದೇವ ಕ್ರಷ್ಣನ\nಸೂಸಿ ಪೂಜಿಸುವಂತ ||ವಾಸುದೇವ||\n\n||ದಾಸರೆಂದರೆ||\n\nಘ್ರಾಸಕಿಲ್ಲದೆ ಪೋಗಿ\nಪರರ ಮನೆಗಳ ಪೊಕ್ಕು |\nದಾಸನೆಂದು ತುಳಸಿ ಮಾಲೆ ಧರಿಸಿ |\nಬೇಸರಿಲ್ಲದೆ ಅವರ ಕಾಡಿ ಬಳಲಿಸುತ |\nಕಾಸುಗಳಿಸುವ ಪುರುಷ ಹರಿದಾಸರೆ\n\n||ದಾಸರೆಂದರೆ||\n\nಢಂಭಕದಿ ಹರಿ ಸ್ಮರಣೆ\nಮಾಡಿ ಜನರ ಮುಂದೆ |\nಸಂಭ್ರಮದಿ ತಾನುಂಬ ಊಟ ಬಯಸಿ |\nಅಂಬುಜೋಧ್ಭವಪಿತನ ಆಗಮಗಳರಿಯದೆ |\nತಂಬೂರಿ ಮೀಟಲವ ಹರಿದಾಸನೇ\n\n||ದಾಸರೆಂದರೆ||\n\nಯಾಯಿವಾರವ ಮಾಡಿ ವಿಪ್ರರಿಗೆ ಮೃಷ್ಟಾನ್ನ |\nಪ್ರೀಯದಲಿ ತಾನುಂಡು ಕೊಡದ ಲೋಭಿ |\nಮಾಯ ಸಂಸಾರದಲ್ಲಿ ಮಮತೆ ಹೆಚ್ಚಾಗಿಟ್ಟು |\nಗಾಯನವ ಮಾಡಲವ ಹರಿದಾಸನೇ\n\n|| ದಾಸರೆಂದರೆ||\n\nನೀತಿಯೆಲ್ಲವನರಿತು ನಿಗಮವೇದ್ಯನ ನಿತ್ಯ |\nವಾತಸುತನಲ್ಲಿಹನ ವರ್ಣಿಸುತಲಿ |\nಗೀತ ನರ್ತನದಿಂದ ಕೃಷ್ಣನ ಪೂಜಿಸುವ |\nಪೂತಾತ್ಮ\nಪುರಂದರ ದಾಸ\nರಿವರಯ್ಯ\n\n||ದಾಸರೆಂದರೆ||\n\n",english:"Composer : shri Vyasarayaru\n\nDasarendare purandara dasarayya\nvasudeva krishnanna susi pujisuvantha ||pallavi||\n\nGrasakillade pogi parara manegala pokku |\ndasanendu tulasi male dharisi |\nbesarillade avara kadi balalisuta |\nkasu galisuva purusha haridasane || 1||\n\nDhabhakadi hari smarane, maadi janara munde |2|\nsambhramadi taanumba uta bayasi\n|ambujodbhavapitana aagamagalariyade |\ntamboori meetidava haridaasane || 2||\n\nyayi varava madi viprarige mrshtanna |\npriyadali tanondu kodada lobhi |\nmaya samsaradalli mamate hecchagittu |\ngayanava madalava haridasan ||  3||\n\nnitiyellava maretu nigamavedyana nitya |\nvatasutanallihana varnisutali\ngita nartanadinda krishnanna pujisuva |\nputatma\npurandara dasa\nrivarayya ! ||4||\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=VqICL3ojmFU"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ದಾಸರೆಂದರೆ-ಪುರಂದರ-ದಾಸರಯ್ಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

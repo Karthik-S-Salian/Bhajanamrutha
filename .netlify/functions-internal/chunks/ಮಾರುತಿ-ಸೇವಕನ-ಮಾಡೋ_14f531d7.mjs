@@ -1,0 +1,10 @@
+const id = "ಮಾರುತಿ-ಸೇವಕನ-ಮಾಡೋ";
+const collection = "bhajan";
+const data = {kannada_title:"ಮಾರುತಿ ಸೇವಕನ ಮಾಡೋ",english_title:"Maruti  Sevakana maado",kannada:"ಮಾರುತಿ …. ಸೇವಕನ ಮಾಡೋ…. ಮಾರುತಿ ….\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ…\nಸೇವಕನ ಮಾಡೋ ರಾಮಚಂದ್ರನ\nಸೇವಿಸಿ ಪೂಜಿಸಿ ರಾಮಚಂದ್ರನ ||\n\nಧನ್ಯನಾಗುವಂತೆ ಹರಸಿ ನನ್ನ\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ …ಮಾರುತಿ .. ।।\n\nಸೇವಕನಾದರೆ ದೊರೆಯುವ ಪ್ರಭುವಿನ ಕರುಣೆಗೆ ಎಣೆಯೇ ಇಲ್ಲಾ\nಸೇವೆಯು ನೀಡುವ ಮಹದಾನಂದ ಬಣ್ಣಿಸೆ ಮಾತುಗಳಿಲ್ಲಾ\nಸೇವೆಯು ಕೊಡುವ ಫಲದ ಕಲ್ಪನೆ ಕಲ್ಪವೃಕ್ಷಕೂ ಇಲ್ಲಾ\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ …\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ… ಮಾರುತಿ… ।।\n\nಸೇವಕನಂದೆ ನಂದಿಗೆ ದೊರಕಿತು ಕೈಲಾಸದಲಿ ಸ್ಥಾನ\nಸೇವಕನಾಗಿ ಗರುಡನು ಪಡೆದ ವೈಕುಂಠದಲಿ ತಾಣ\nಸೇವಕನಾದರೆ ನನ್ನಲಿ ಆಗ ಕರಗುವುದು ಅಜ್ಞಾನ\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ …\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ… ಮಾರುತಿ. ।।\n\nಸೇವಕನಾಗಿ ಎಲ್ಲಾ ಶಕ್ತಿಯೂ ನಿನ್ನ ಕೈ ಸೇರಿತು ಹನುಮ\nಪೂಜೆಯ ಹೊಂದುವ ಭಾಗ್ಯ ನೀಡಿತು ನಿನಗಾರಾಮ ನಾಮ\nನನ್ನೀ ಜನುಮವು ಸಾರ್ಥಕ ತಂದೆ ಪಡೆದರೆ ನಿನ್ನಾ ಪ್ರೇಮ ……\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ …\nಸೇವಕನ ಮಾಡೋ ನಿನ್ನಂತೆ ನನ್ನ…. ಮಾರುತಿ….\n\n",english:"Maruti … Sevakana maado …. Maruti …. Sevakana maado ninnante nanna … Sevakana maado ramachandrana sevisi poojisi ramachandrana ||\n\nDhanyanaaguvante harasi nanna sevakana maado ninnante nanna …. Maruti … ||\n\nSevakanaadare doreyuva prabhuvina karunege eneye ellaa | seveyu needuva mahadaananda bannise matugalillaa | seveyu koduva phalada kalpane kalpavrukshaku ellaa | sevakana maado ninnante nanna … Sevakana maado ninnante nanna … Maruti … ||\n\nSevakanande nandige dorakitu kailaasadali staana | sevakanaagi garudanu padeda vaikuntadali taana | sevakanaadare nannali aga karaguvudu ajnaana |  sevakana maado ninnante nanna … Sevakana maado ninnante nanna … Maruti … ||\n\nSevakanaagi ellaa shaktiyu ninna kai seritu hanuma | pujeya honduva bhagya needitu ninagaaraama naama | nannee janumavu saarthaka tande padedare ninnaa prema … sevakana maado ninnante nanna … Sevakana maado ninnante nanna … Maruti … ||\n\n\n\n",meta:"",tags:["kannada devotional song","kannada lyrics"],media:"https://www.youtube.com/watch?v=TlPT0fxRrtc"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಮಾರುತಿ-ಸೇವಕನ-ಮಾಡೋ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

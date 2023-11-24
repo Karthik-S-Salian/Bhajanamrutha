@@ -1,0 +1,10 @@
+const id = "ಭೂಮಿಗೆ-ಬಂದ-ದೇವಕಿ-ಕಂದ";
+const collection = "bhajan";
+const data = {kannada_title:"ಭೂಮಿಗೆ ಬಂದ ದೇವಕಿ ಕಂದ",english_title:" Bhumige banda devaki kanda na bedalu",kannada:"ಭೂಮಿಗೆ ಬಂದ ದೇವಕಿ ಕಂದ ನಾ ಬೇಡಲು ನನ್ನ ಕಾಪಾಡಲು |\nಈ ಪಾದವೂ ಮೈ ಸೋಕಲು ನನ್ನಲ್ಲಿ ಎಂಥಾ ಆನಂದವು ||\n||ಭೂಮಿಗೆ||\n\nಆಕಾಶದಲ್ಲಿ ಬೆಳಕಾಗಿ ಬಂದೆ ಈ ಭೂಮಿಯಲ್ಲಿ ಹಸಿರಾಗಿ ನಿಂತೆ\nಹೂವಿನಲಿ ಕಂಪು , ಗಾಳಿಯಲಿ ತಂಪು ಸಂಗೀತದಲ್ಲಿ ಇಂಪಾದೆ ನೀನು\nಎಲ್ಲೆಲ್ಲಿಯು ನಿನ್ನಾಟವೇ ಕಣ್ಣ್ತುಂಬ ಇಂದು ನಾ ಕಂಡೆನು\n||ಭೂಮಿಗೆ||\n\nಎಲ್ಲಿದ್ದೆ ನಾನು, ಹೇಗಿದ್ದೆ ನಾನು ನೀ ಬಂದ ಮೇಲೆ ಏನಾದೆ ನಾನು\nಕಲ್ಲಾದರೇನು ಮುಳ್ಳಾದರೇನು ನೀ ಸೋಕಿದಾಗ ಹಿಡಿ ಮಣ್ಣು ಹೊಣ್ಣು\nನೀ ಹೀಗೆಯೇ ಜೊತೆಯಾಗಿರೆ ನಾ ನಿಂತ ತಾಣ ವೈಕುಂಠವು\nಈ ಪಾದವು ಮೈ ಸೋಕಲು ನನ್ನಲ್ಲಿ ಎಂಥಾ ಆನಂದವು\n||ಭೂಮಿಗೆ||\n\nಹಗಲಲ್ಲಿ ಇರುಳಲ್ಲಿ ಎಲ್ಲ ಕಾಲಗಳಲ್ಲಿ ಭಕ್ತನ ಬಳಿಯಲ್ಲಿ ಭಕ್ತಿಯ ಸುಳಿಯಲ್ಲಿ\nನೆನೆದವರ ಮನದಲ್ಲಿ ಕರೆದವರ ಎದುರಲ್ಲಿ ಸ್ನೇಹದಲಿ, ಪ್ರೇಮದಲಿ ಎಲ್ಲೆಲ್ಲು ನಾನಿರುವೆ\nನಾನಿಲ್ಲದ ಎಡೆಯಿಲ್ಲ,, ನಾನಿಲ್ಲದೆ ಏನಿಲ್ಲಾ ನಾನು ನಾನೆಂಬ ಅಜ್ಞಾನಿಗೆ ನಾನಿಲ್ಲಾ…ನಾನಿಲ್ಲಾ..\n\nಈ ಮಾತಿಗೆ , ಈ ಗೀತೆಗೆ ಶರಣಾಯಿತು ಜೀವಾ ನಿನ್ನ ಪಾದಕೆ\nಈ ಪಾದವು ಮೈ ಸೋಕಲು ನನ್ನಲ್ಲಿ ಎಂಥಾ ಆನಂದವು\n||ಭೂಮಿಗೆ||\n\n",english:"Bhumige banda devaki kanda na bedalu nanna kapadalu\nee padavu mai sokalu nannalli entha anandavu || bhumige banda ||\n\nAkashadalli belakagi bande e bhumiyalli hasiragi ninte\nhoovinali kampu, galiyali tampu sangeetadalli impada neenu\nellelliyu ninnatave kantumba indu na kandenu || bhumige banda ||\n\nEllidde nanu, hegidde nanu nee banda mele enade nanu\nkalladarenu mulladarenu nee sokidaga hidi mannu honnu\nnee higeye joteyagire naa ninta tana vaikuntavu\nee padavu mai sokalu nannalli entha anandavu || bhumige banda ||\n\nHagalalli erulalli ella kalagalalli bhaktana baliyalli, bhaktiya suliyalli\nnenedavara manadalli, karedavara eduralli snehadali premadali ellellu naniruve\nnanirade edeyilla nanillade enilla nanu nanemba ajnanige nanilla.. nanilla …\n\nEe matige ee geetege sharanayitu jeeva ninna padake\nee padavu mai sokalu nannalli entha anandavu\n||bhumige banda||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=-W8Y_NstjVE"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಭೂಮಿಗೆ-ಬಂದ-ದೇವಕಿ-ಕಂದ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

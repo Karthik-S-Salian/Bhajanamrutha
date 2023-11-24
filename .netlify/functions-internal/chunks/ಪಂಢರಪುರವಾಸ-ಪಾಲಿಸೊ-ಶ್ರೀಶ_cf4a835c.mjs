@@ -1,0 +1,10 @@
+const id = "ಪಂಢರಪುರವಾಸ-ಪಾಲಿಸೊ-ಶ್ರೀಶ";
+const collection = "bhajan";
+const data = {kannada_title:"ಪಂಢರಪುರವಾಸ ಪಾಲಿಸೊ ಶ್ರೀಶ",english_title:" Pandarapuravasa paaliso srisha",kannada:"ಪಂಢರಪುರವಾಸ ಪಾಲಿಸೊ ಶ್ರೀಶ ||ಪ ||\nಶ್ರೇಷ್ಠಭಕ್ತನು ಕೊಟ್ಟ ಇಟ್ಟಿಕಲ್ಲಿನ ಮ್ಯಾಲೆ\nಗಟ್ಯಾಗಿ ನಿಂತಿದ್ದ ವಿಠೋಬ ದಯಮಾಡೊ || 1 ||\n\nಪಾಂಡುರಾಯನ ಸುತ ಗಾಂಡೀವರ್ಜುನ ದೂತ\nಬಂಡಿ ನಡೆಸಿದಾತ ಪುಂಡರೀಕವರದನೀತ || 2 ||\n\nಮುಕುತಿದಾಯಕ ಮುದ್ದು ರುಕುಮಿಯ ರಮಣನೆ\nಭಕುತವತ್ಸಲಯೆನಗೆ ಸಕಲಾಭೀಷ್ಟವ ನೀಡೊ || 3 ||\n\nಬುಕ್ಕ್ಹಿಟ್ಟು ತುಳಸಿಮಾಲೆ ಕಟ್ಟಿ ಕೊರಳಿಗೆ ಹಾಕಿ\nಅಪ್ಪಿಕೊಂಡರೆ ಸಾರೂಪ್ಯ ಕೊಡುವ ದಾತ || 4 ||\nಲೋಕ ಲೋಕದೊಳಗಿದ್ದಾನೇಕ ಜೀವರನೆಲ್ಲ\nಸಾಕಿ ಸಾಕಾಯ್ತೆ ಕರವೇಕೆ ಟೊಂಕದಲಿಟ್ಟಿ || 5 ||\n\nಸೃಷ್ಟಿಸ್ಥಿತಿಯು ಜನಸಂರಕ್ಷಣೆ ಮಾಡಿ ನಿನ್ನ\nರಟ್ಟೆ ಸೋತವೆ ಟೊಂಕಕಿಟ್ಟು ಕಯ್ಯನು ನಿಂತೆ || 6 ||\n\nಕಂಬದೊಳಗೆ ನಿಂತ ಪುರಂದರ ದಾಸರು\nವಂದನೆ ಮಾಡೆ ಇವರೆ ನಾರದರೆಂದು  ನಾ ತಿಳಿದೆ || 7 ||\n\nರುಕ್ಮಿಣಿ ಸತ್ಯಭಾಮೆ ರಾಧೆ ಲಕ್ಷುಮಿಯೇರ\nಹತ್ತಿಲೆ ನಿಂತ ನಮ್ಮಪ್ಪ ವೆಂಕಟರಮಣ || 8 ||\n\nಭೀಮರಥಿಯ ಸ್ನಾನ ಸ್ವಾಮಿ ನಿಮ್ಮ ದರುಶನ\nಭೀಮೇಶಕೃಷ್ಣ\nನ ಧ್ಯಾನ ಮಾಡುವೋದ್ವೈಕುಂಠ ಸ್ಥಾನ || 9 ||\n\n",english:"Composer : Sri Harapanahalli Bheemayya\n\nPandarapuravasa paliso shreesha ||pa||\n\nShreshta bhaktanu kotta ittikallina myaale\ngattyaagi nintidda vitoba dayamaado ||1||\n\nPandurayana suta gandivarjuna doota\nbandi nadesidata pundarikavaradaneeta ||2||\n\nMukutidayaka muddu rukumiya ramanane\nbhakutavatsalayenage sakalabhishtava needo ||3||\n\nBukkhittu tulasimaale katti koralige haaki\nappikondare saarupya koduva daata ||4||\n\nLokalokadolagiddaneka jeevaranella\nsaki sakayte karaveke tonkadalitti ||5||\n\nSrushtistitiyu janasamrakshane maadi ninna\nratte sotave tonkakittu kayyanu ninte ||6||\n\nKambadolage ninta purandara dasaru\nvandane maade evare naaradarendu naa tilide ||7||\n\nRukmini satyabhame radhe lakshumiyera\nhattile ninta nammappa venkataramana ||8||\n\nBheemarathiya snana swami nimma darushana\nbhimesha krishnana dhyana maaduvodwaikunta sthana ||9||\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=W69JEU_W2BM"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಪಂಢರಪುರವಾಸ-ಪಾಲಿಸೊ-ಶ್ರೀಶ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

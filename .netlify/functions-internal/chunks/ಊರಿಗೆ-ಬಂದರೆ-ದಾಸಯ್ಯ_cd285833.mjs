@@ -1,0 +1,10 @@
+const id = "ಊರಿಗೆ-ಬಂದರೆ-ದಾಸಯ್ಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ಊರಿಗೆ ಬಂದರೆ ದಾಸಯ್ಯ",english_title:"Urige bandare dasayya",kannada:"ಊರಿಗೆ ಬಂದರೆ ದಾಸಯ್ಯ ನಮ್ಮ\nಕೇರಿಗೆ ಬಾ ಕಂಡ್ಯ ದಾಸಯ್ಯ\n\nಕೇರಿಗೆ ಬಂದರೆ ದಾಸಯ್ಯ ಗೊಲ್ಲ\nಕೇರಿಗೆ ಬಾ ಕಂಡ್ಯ ದಾಸಯ್ಯ\n\nಕೊರಳೊಳು ವನಮಾಲೆ ಧರಿಸಿದವನೆ ಕಿರು\nಬೆರಳಲಿ ಬೆಟ್ಟವನೆತ್ತಿದನೆ\nಇರುಳು ಹಗಲು ನಿನ್ನ ಕಾಣದೆ ಇರಲಾರೆ\nಮರುಳು ಮಾಡಿದಂಥ ದಾಸಯ್ಯ\n\nಕಪ್ಪು ವರ್ಣದ ದಾಸಯ್ಯ ಕಂ-\nದರ್ಪನ ಪಿತನೆಂಬೊ ದಾಸಯ್ಯ\nಅಪ್ಪಿಕೊಂಡು ನಮ್ಮ ಮನಸಿಗೆ ಬಂದರೆ\nಅಪ್ಪನ ಕೊಡುವೆನು ದಾಸಯ್ಯ\n\nಮುಂಗೈ ಮುರಾರಿ ದಾಸಯ್ಯ ಚೆಲ್ವ\nಪೊಂಗೊಳಲೂದುವ ದಾಸಯ್ಯ\nಹಾಂಗೇ ಪೋಗದಿರು ದಾಸಯ್ಯ ಹೊ-\nನ್ನುಂಗುರ ಕೊಡುವೆನು ದಾಸಯ್ಯ\n\nಸಣ್ನ ನಾಮದ ದಾಸಯ್ಯ ನಮ್ಮ\nಸದನಕ್ಕೆ ಬಾ ಕಂಡ್ಯ ದಾಸಯ್ಯ\nಸದನಕೆ ಬಂದರೆ ದಾಸಯ್ಯ ಮಣೀ-\nಸರವನು ಕೊಡುವೆನು ದಾಸಯ್ಯ\n\nಸಿಟ್ಟು ಮಾಡದಿರು ದಾಸಯ್ಯ ಸಿರಿ\nಪುರಂದರವಿಟ್ಠಲ\nದಾಸಯ್ಯ\nರಟ್ಟು ಮಾಡದಿರು ದಾಸಯ್ಯ ತಂ-\nಬಿಟ್ಟು ಕೊಡೂವೆನು ದಾಸಯ್ಯ\n\n",english:"Urige bandare dasayya namma\nkerige ba kandya dasayya||pa||\n\nKerige bandare dasayya golla\nkerige ba kandya dasayya||a.pa||\n\nKoralolu vanamale dharisidane\nkiri beralali bettavanentidane\nirulu hagalu ninna kanade iralare\nmarulu madidantha dasayya||1||\nKappu varnada dasayya\nkandarpana pitanembo dasayya\nappikondu namma manasige bandare\nappava koduvenu dasayya ||2||\nMundenu dari dasayya\nchelva pongolaluduva dasayya\nhange pogadiru dasayya\nhonnangura koduvenu dasayya\nSanna namada dasayya namma\nsadanake ba kandya dasayya\nsadanake bandare dasayya\nmani saravanu koduvanu dasayya||4||\nSittu madadiru dasayya\nsiri\npurandara vittala\ndasayya\nrattu madadiru dasayya\ntambittu koduvanu dasayya ||5||\n\nThere is another song “Urige bandare dasayya” with different lyrics and the composer is Sri Kanaka dasaru. Here I have posted the song with Purandara dasara ankita.  If you find anything wrong kindly inform by comments.\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=Ftz8xZRp2_M"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಊರಿಗೆ-ಬಂದರೆ-ದಾಸಯ್ಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

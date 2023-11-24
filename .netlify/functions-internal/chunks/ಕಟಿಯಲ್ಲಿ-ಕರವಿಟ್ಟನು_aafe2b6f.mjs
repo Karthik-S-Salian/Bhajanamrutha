@@ -1,0 +1,10 @@
+const id = "ಕಟಿಯಲ್ಲಿ-ಕರವಿಟ್ಟನು";
+const collection = "bhajan";
+const data = {kannada_title:"ಕಟಿಯಲ್ಲಿ ಕರವಿಟ್ಟನು",english_title:"Katiyalli karavittano",kannada:"ಕಟಿಯಲ್ಲಿ ಕರವಿಟ್ಟನು  ಪಂಡರಿರಾಯ||ಪ||\nರಾಜಸೂಯಯಾಗದಲ್ಲಿ ರಾಜೇಶ್ವರ\nರಾಜರು ಮೊದಲಾದ ಸುರರೆಲ್ಲರು\nಭೋಜನವನ್ನೆ ಮಾಡಿದೆಂಜಲು ಮೊದಲಾದ್ದು\nರಾಜೀವಾಕ್ಷನು ಎತ್ತಿದಾಯಾಸದಿಂದಲೋ ||\n\nಗೊಲ್ಲಬಾಲಕರೊಡಗೂಡಿ ತಾ ಬಂದು\nಗೊಲ್ಲತೇರ ಮನೆ ಪೊಕ್ಕು ಬೆಣ್ಣೆಯ ತಿಂದು\nಬಲ್ಲಿದ ತೃಣಾವರ್ತ ಮೊದಲಾದಸುರರನ್ನು\nಎಲ್ಲರನ್ನು ಕೊಂದ ಆಯಾಸದಿಂದಲೊ ||\n\nಮುದದಿಂದ ವ್ರಜದ ಹದಿನಾರು ಸಾವಿರ\nವನಿತೆಯರಾಳಿದ ಮದದಿಂದಲೊ\nಮದಗಜಗಮನೇರ ಮಧುರಾಂತಕನ\nಒದಗಿ ಮಾವನ ಕೊಂದ ಆಯಾಸದಿಂದಲೊ ||\n\nಧರಣಿಯನು ತಂದ ದನುಜ ಹಿರಣ್ಯಕನ\nಕೋರೆದಾಡೆಯಿಂದ ಸೀಳಿದಿಂದಲೊ\nವಾರಿಜಮುಖಿ ಸರ್ವಕಾಲದಲಿ ನಿಂತು\nಸೇರಿ ಸುರತ ಮಾಡಿದಾಯಾಸದಿಂದಲೊ ||\n\nಸುರಪ ತನಯಗೆ ಸಾರಥ್ಯವನು ಮಾಡಿ\nಭರದಿಂದ ಚಕ್ರವ ಪಿಡಿದಿಂದಲೊ\nಪರಿಪರಿವಿಧದಿಂದ ಕುದುರೆಗಳನೆ ತೊಳೆದು\nಪರಿಪರಿ ಕೆಲಸದ ಆಯಾಸದಿಂದಲೊ ||\n\nಮಮತೆಯಿಂದಲಿ ಭಕ್ತಜನರು ನಿಮ್ಮ ಚರಣ-\nಕಮಲಯುಗವನು ಸ್ತುತಿಸುತಿರಲು\nಮಮತೆಯಿಂದಲಿ ಬಂದು ಅಭಯಗಳನೆ ಕೊಟ್ಟು\nಕಮಲನಾಭ ಶ್ರೀ ಪುರಂದರವಿಠಲ ||\n\n",english:"Katiyalli karavittano pandhariraya ||\n\nRajasuyayagadalli rajeshvara\nrajaru modalada surarellaru\nbojanavanu madidenjalu modaladdu\nrajivakshanu ettidayasadindalo ||katiyalli||\n\nGolla baalakarodagoodi taa bandu gollatiyara mane pokku benneya tindu\nballida trunavarta modalada asurara\nyellara konda ayasadindalo ||katiyalli||\n\nMudadinda vrajada hadinaru savira\nsudatiyaralida madadindalo\nmadagajagamaneyara madadantaka krushna\nodagi mavana konda ayasadimdalo ||katiyalli||\n\nSurapa tanayage sarathyava ta madi\nbaradinda chakrava hididudarindalo\nParipari vidhadinda kuduregala ta toledu\nparipari kelasadindayasadindalo ||katiyalli||\n\nMamateyindali baktara janaru nimma charana |\nkamalayugmava stutisutaliralu |\nmamateyindali bandu abhayagalane kottu | kamalanaba sri purandara vithala ||katiyalli||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=IDWoYqx80AI"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಕಟಿಯಲ್ಲಿ-ಕರವಿಟ್ಟನು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

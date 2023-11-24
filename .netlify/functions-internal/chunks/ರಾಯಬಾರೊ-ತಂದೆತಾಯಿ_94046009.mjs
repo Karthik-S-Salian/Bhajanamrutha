@@ -1,0 +1,10 @@
+const id = "ರಾಯಬಾರೊ-ತಂದೆತಾಯಿ";
+const collection = "bhajan";
+const data = {kannada_title:"ರಾಯಬಾರೊ ತಂದೆತಾಯಿ",english_title:"Raya baro tande tayi",kannada:"ರಾಯಬಾರೊ ತಂದೆತಾಯಿ ಬಾರೊ\nನಮ್ಮ ಕಾಯಿ ಬಾರೊ\nಮಾಯಿಗಳ ಮರ್ದಿಸಿದ ರಾಘವೇಂದ್ರ                          ||ಪ||\n\nವಂದಿಪ ಜನರಿಗೆ ಮಂದಾರ ತರುವಂತೆ\nಕುಂದದಭೀಷ್ಟೆಯ ಸಲಿಸುತಿಪ್ಪ ಸುರಮುನಿ\nಮಂದನ ಮತಿಗೆ ರಾಘವೇಂದ್ರ ರಾಯಬಾರೊ               ||೧||\n\nಭಾಸುರಚರಿತನೆ ಭೂಸುರವಂದ್ಯನೆ\nಶ್ರೀಸುಧೀಂದ್ರಾರ್ಯರ ವರಪುತ್ರನೆನಿಸಿದ\nದೇಶಿಕರೊಡೆಯ ರಾಘವೇಂದ್ರ ರಾಯಬಾ                     ||೨||\n\nರಾಮಪದಸರಸೀರುಹಭೃಂಗ ಕೃಪಾಂಗ\nಭ್ರಾಮಕಜನರ ಮತಭಂಗ ಮಾಡಿದ\nಧೀಮಂತರೊಡೆಯನೆ ರಾಘವೇಂದ್ರ ರಾಯಬಾರೊ         ||೩||\n\nಆರು ಮೂರೇಳು ನಾಲ್ಕೆಂಟು ಗ್ರಂಥಸಾರಾರ್ಥ\nತೋರಿಸಿದೆ ಸರ್ವರಿಗೆ ಸರ್ವಜ್ಞ\nಸೂರಿಗಳರಸನೆ ರಾಘವೇಂದ್ರ ರಾಯಬಾರೊ                 ||೪||\n\nಭೂತಳನಾಥನ ಭೀತಿಯ ಬಿಡಿಸಿದೆ\nಪ್ರೇತತ್ವ ಕಳೆದೆ ಮಹಿಷಿಯ ಶ್ರೀಜಗ\nನ್ನಾಥವಿಠಲನ ಪ್ರೀತಿಪಾತ್ರ ರಾಘವೇಂದ್ರ ರಾಯಬಾರೊ  ||೫||\n\n",english:"Raya baro tande tayi baro nammanu kaya baro |\n\nmayigala madisida raghavendra raya baro ||\n\nvandipa janarige mandara taruvantha  kundada bhishtava salisutirpa  raya baro |\nkumdada bhishtava salisutirpa sarvagna mandana matige raghavendra raya baro ||1||\n\naarumuru elu nalku entu granthada sarartha toridi sarvarige nyayadinda  raya baro|\ntoridi sarvarige nyayadinda sarvagna surigalarasane raghavendra raya baro || 2||\n\nrama padambhuja sadbhrunga krupanga  bhramaka janara manabhanga  raya baro|\nbhramaka janara manabhangava madida dhimantarodeyane raghavendra raya baro ||3||\n\nbhusura charitane bhusura vandyane  shri sudhindraryara varaputra raya baro|\nshri sudhindraryara varaputra varayogi deshikarodeyane raghavendra raya baro ||4||\n\nbhutalanathana bhitiya bidiside pretatva kaledi mahishiya  raya baro|\npretatva kaledi mahishiya maha mahima natha guru jagannatha vithala baro thande thayi baro || raya baro ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=0MPbPXVw2_A"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ರಾಯಬಾರೊ-ತಂದೆತಾಯಿ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

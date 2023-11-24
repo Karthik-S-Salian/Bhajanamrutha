@@ -1,0 +1,10 @@
+const id = "ಅಂತರಂಗದ-ಕದವು-ತೆರೆಯಿತಿಂದು";
+const collection = "bhajan";
+const data = {kannada_title:"ಅಂತರಂಗದ ಕದವು ತೆರೆಯಿತಿಂದು",english_title:" Antarangada kadavu tereyitindu",kannada:"ಅಂತರಂಗದ ಕದವು ತೆರೆಯಿತಿಂದು ಎಂತೋ ಪುಣ್ಯದ ಫಲವಪ್ರಾಪ್ತಿಯಾಯಾತು ಇಂದು||ಪಲ್ಲ||\n\nಏಸು ದಿನವಾಯಿತೊ ಬೀಗಮುದ್ರೆಯ ಮಾಡಿವಾಸವಾಗಿದ್ದರು ದುರುಳರಲ್ಲಿ ಮೋಸಹೋಯಿತು ಇಂದಿನತನಕ ತಮಸಿನ ಘಾಸಿಯೊಳಗೆ ಹೂಳೆ ಕಾಣೀಸುತ್ತಿರಲಿಲ್ಲ||೧||\n\nಹರಿಕರುಣವೆಂಬಂಥ ಕೀಲಿಕೈ ದೊರಕಿತು ಗುರುಕರುಣವೆಂಬಂಥ ಶಕ್ತಿಯಿಂದ ಪರಮಭಾಗವತರ ಸಹವಾಸದಲಿ ಪೋಗಿ ಹರಿಸ್ಮರಣೆಯೆಂಬಂಥ ಬೀಗ ಮುದ್ರೆಯ ತೆರೆದೆ||೨||\n\nಸುತ್ತಲೀದ್ದವರೆಲ್ಲ ಪಲಾಯನರಾದರು ಭಕ್ತಿ ಕಕ್ಕಡವೆಂಬ ಜ್ಞಾನದೀಪಜತ್ತಾಗಿ ಹಿಡಕೊಂಡು ದ್ವಾರದೊಳಗೆ ಪೊಕ್ಕುಎತ್ತನೋಡಿದರತ್ತ ಶೃಂಗಾರ ಸದನ||೩||\n\nಹೊರಗೆ ದ್ವಾರವು ನಾಲ್ಕು ಒಳಗೈದು ದ್ವಾರಗಳು ಪಾರದಾರಿಗೆ ಪ್ರಾಣ ಜಯ ವಿಜಯರುಮಿರಗೈವೋ ಮಧ್ಯ ಮಂಟಪಕೋಟಿ ರವಿಯಂತೆ ಸರಸಿಜಾನಾಭನ ಅರಮನೆಯ ಸೊಬಗು||೪||\n\nಸ್ವರ ಮೂರ್ತಿ ಗಣಮಧ್ಯ ಸಚ್ಚಿದಾನಂದೈಕರಮೆಧರೆಯಲಿಂದ ಇಂಗೀತ್ವದಿಕಮಲಜಾತಿಗಳಿಂದ ಸ್ತುತಿಸಿಗೊಳುತಲಿ ಹೃದಯಕಮಲದೊಳಗಿರುವಶ್ರೀ ವಿಜಯ ವಿಠಲನ ಕಂಡೆ||೫||\n\n",english:"Antarangada kadavu tereyitindu\n\nEntu punyada phalavu prapti dorakito enage ||pa||\nEsu dinavayito beega mudraya madi vashavagiddaro durularilli\nmosavayittu indind tanaka tamasina rashiyolage huli kani suttiralilla ||\nHari karunavembanta keeli kaidorakittu guru karaunavembanta shakti inda\nparama bhagavatara sahavasadali pogi hari smaraneyindalli beega mudreya tegeda ||\nSuttaliddavarella palayanavadaru bhakti kakkalavemba jnana deepa\njattagi hidakondu dvaradolage pokke ettanodidaratta shringara sadana ||\nHorage dvaravu nalku olagaidu dvaragalu paradarige prana jaya vijayaru\nmiruguva madhya mantapa koti raviyante sarasija nabhana aramaneya sobagu ||\nSvamurtigana madhya sacchidanandaika rame dhareyarinda lalingatvadi\nkamala jadigalinda stutisi kolluva hridaya kamaladolagiruva shrI vijayavithalana kande ||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=Ny-OB-2YVKM"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಅಂತರಂಗದ-ಕದವು-ತೆರೆಯಿತಿಂದು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

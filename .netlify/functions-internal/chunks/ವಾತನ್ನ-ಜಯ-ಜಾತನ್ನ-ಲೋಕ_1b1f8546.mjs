@@ -1,0 +1,10 @@
+const id = "ವಾತನ್ನ-ಜಯ-ಜಾತನ್ನ-ಲೋಕ";
+const collection = "bhajan";
+const data = {kannada_title:"ವಾತನ್ನ ಜಯ ಜಾತನ್ನ ಲೋಕ",english_title:"Vaatanna jaya jaatanna",kannada:"ವಾತನ್ನ ಜಯ ಜಾತನ್ನ ಲೋಕ ಪ್ರೀತನ್ನ ಸ್ತುತಿಸಿ ಖ್ಯಾತನ್ನ        ಮುಖ್ಯಪ್ರಾಣನ್ನ ||\n\nವಿಷವ ನುಂಗಿದ ಮಹಾಶೌರ್ಯನ್ನನಿ ತ್ಯ ಅಸಮ ಸುಂದರ ಮತಿಧಾರ್ಯನ್ನ ನಿಶಾಚರ ಕುಲದೋಷ | ಸೂರ್ಯನ್ನ ಆರಾಧಿಸುವ ಭಕ್ತರ ಸುಕಾರ್ಯನ್ನ… ಮುಖ್ಯಪ್ರಾಣನ್ನ ।।೧।।\n\nವಾನರ ಕುಲದೊಳು ಧೈರ್ಯನ್ನ ಮುದ್ದು ಆನನ ಗೀರ್ವಾಣ ವರ್ಯನ್ನ |ಆನಂದ ವಿಜ್ಞಾನ ಚರ್ಯನ್ನ ದುಷ್ಟದಾನವರಳಿದತಿ ವೀರ್ಯನ್ನ… ಮುಖ್ಯಪ್ರಾಣನ್ನ ।।೨।।\n\nದ್ವಿಜರಾಜ ಕುಲಾಗ್ರಣಿ ಭೀಮನ್ನ ಮಹಾದ್ವಿಜಕೇತನಂಘ್ರಿಗೆ ಪ್ರೇಮನ್ನ | ದ್ವಿಜರ ಪಾಲಿಸಿದ ನಿಸ್ಸೀಮನ್ನ ಕುರು ವಜ್ರವ ಸಡೆದ ಸಾರ್ವಭೌಮನ್ನ…. ಮುಖ್ಯಪ್ರಾಣನ್ನ ।।೩।।\n\nಅದ್ವೈತ ಮತ ಕೋಲಾಹಲನ್ನ ವೇದ ಸಿದ್ಧಾಂತ ಶುಭ ಗುಣಶೀಲನ್ನ | ಸದ್ವೈಷ್ಣವರ ಪರಿಪಾಲನ್ನ ಗುರುಮಧ್ವಮುನಿ ಗುಣ ಲೋಲನ್ನ… ಮುಖ್ಯಪ್ರಾಣನ್ನ ।।೪।।\n\nಚಾರು ಚರಿತ ನಿರ್ದೋಶನ್ನ ಲೋಕ ಮೂರರೊಳಗೆ ಪ್ರಕಾಶನ್ನ ಧೀರ ವಿಜಯವಿಠ್ಠಲೇಶನ್ನ ಬಿಡದೆ ಆರಾಧಿಪ ಭಾರತೀಶನ್ನಾ….. ಭಾರತೀಶನ್ನಾ ।।೫।।\n\n",english:"Lyrics In English\n\nVaatanna jaya jaatanna  lokapreetanna stutisi khyatanna …   mukhyaprananna ||pa||\n\nVishava nungida mahaashouryanna\nnitya asama  sundara matidhaaryanna |\nnishachara kuladosha  sooryanna\naaradhisuva bhaktara sukaaryanna …. Mukhyaprananna ||1||\n\nVaanara kuladolu dhairyanna\nmuddu aanana geervaana varyanna |\naananda vighnana charyanna\ndushtadaanavaralidati veeryanna….. Mukhyaprananna ||2||\n\nDvijaraja kulagrani bheemanna\nmahadvijaketananghrige  premanna |\ndvijara paalisida nissimanna\nkuru vajrava  sadeda saarvabhoumanna….. Mukhyaprananna ||3||\n\nAdvaita mata kolahalanna\nveda siddhanta sabha gunasheelanna |\nsadvaishnavara paripaalanna\ngurumadhwamuni guna lolanna….. Mukhyaprananna ||4||\n\nChaaru charita nirdoshanna\nlokamoorarolage prakaashanna\ndheera vijayaviyhaleshanna\nbidadE aaradhipa bhaarateeshanna….. bharateeshanna ||5||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=Szt_Qray7Aw"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ವಾತನ್ನ-ಜಯ-ಜಾತನ್ನ-ಲೋಕ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

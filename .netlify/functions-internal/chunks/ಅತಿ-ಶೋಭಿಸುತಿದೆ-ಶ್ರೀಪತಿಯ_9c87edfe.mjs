@@ -1,0 +1,10 @@
+const id = "ಅತಿ-ಶೋಭಿಸುತಿದೆ-ಶ್ರೀಪತಿಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ಅತಿ ಶೋಭಿಸುತಿದೆ ಶ್ರೀಪತಿಯ",english_title:" Ati shobhisutide sripatiya",kannada:"ಅತಿ ಶೋಭಿಸುತಿದೆ ಶ್ರೀಪತಿಯ ವಾಹನ ||ಪ||\n\nಚತುರ್ದಶ ಲೋಕದಲಿ ಅಪ್ರತಿವಾಹನ ||ಅ.ಪ||\n\nವಿನತೆ ಕಶ್ಯಪಮುನಿಗೆ ತನಯನೆನಿಸಿದ ವಾಹನ ಅನುಜರನು ಕದ್ದೊಯ್ದ ಆಢ್ಯವಾಹನ ವನದಿ ಮಧ್ಯದಿ ನಾವಿಕರ ಭಕ್ಷಿಸಿದ ವಾಹನ ಜನಕನಾಜ್ಞದಿ ಕೂರ್ಮಗಜರ ನುಂಗಿದ ವಾಹನ ||೧||\n\nಕುಲಿಶ ಪಾಣಿಯ ಕೂಡೆ ಕಲಹ ಮಾಡಿದ ವಾಹನ ಒಳಹೊಕ್ಕು ಪೀಯೂಷ ತಂದ ವಾಹನ ಮಲತಾಯಿ ಮಕ್ಕಳನು ಮರುಳುಗೊಳಿಸಿದ ವಾಹನ ಬಲಿರಾಯ ಒಯ್ದ ಮಕುಟವ ತಂದ ವಾಹನ ||೨||\n\nಕಾಲನಾಮಕನಾಗೆ ಕಮಲಭವನಲಿ ಜನಿಸಿ ಕಾಲಾತ್ಮ ಹರಿಯ ಸೇವಿಪ ವಾಹನ ಕಾಳಗದಿ ಕಪಿವರರ ಕಟ್ಟು ಬಿಡಿಸಿದ ವಾಹನ ಸೌಪರ್ಣಿಪತಿಯೆಂಬ ಹೊಂಬಣ್ಣ ವಾಹನ ||೩||\n\nಕುಪರದೆಡೆಗೆ ಮಂದರ ಒಯ್ದ ವಾಹನ ನಿಜರೂಪದಿ ಹರಿಯ ಸೇವೆಗೈದ ವಾಹನ | ಸಪತ್ನಿಯರಿಗೆ ಅಮೃತವ ಪ್ರಾಪ್ತ ಮಾಡಿದ ವಾಹನ ಸೌಪರ್ನಿ ಪತಿಯೆಂಬ ಪೊಂಬಣ್ಣ ವಾಹನ ||೪||\n\nಪನ್ನಗಶನ ವಾಹನ ಪತಿತಪಾವನ ವಾಹನ ಸನ್ನುತಿಪ ಭಕ್ತರನು ಸಲಹುವ ವಾಹನ ಪನ್ನಗಾದ್ರಿನಿವಾಸ\nಜಗನ್ನಾಥವಿಠಲ\nಗೆ ಉನ್ನತ ಪ್ರಿಯವಾದ ಗರುಡವಾಹನ ||೫||\n\n",english:"Ati shobhisutide sripatiya vahana ||pa||\n\nChaturdasha lokadali aprativahana ||a.pa||\n\nVinate kashyapa munige tanayanenisida vahana, anujaranu kaddoyda adhyavahana, vanadi madhyadi navikara bhakshisida vahana, janakanaajnadi koormagajara nungida vahana nungida vahana ||1||\n\nKulisha paaniya koode kalaha maadida vahana, olahokku peeyusha tanda vahana, malataayi makkalnu marulugolisida vahana, baliraaya oyda makutava tanda vahana ||2||\n\nKaalanamakanaage kamalabhavanali janisi kaalaatma hariya sevipa vahana, kaalagadi kapivarara kattu bidisida souparnipatiyemba hombanna vahana ||3||\n\nkuparadedege mandar oyda vahana nijarupadi hariya sevegaiyda vahana |\nsapatniyarige amrutava prapta madida vahana sauparni patiyenba ponbanna vahana ||4||\n\nPannagashayana vahana patita pavana vahana, sannutipa bhaktaranu salahuva vahana, pannagaadrinivasa jagannaathavittalage unnata priyavada garuda vahana ||5||\n\n**************\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=vOtqzYTaLmw"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಅತಿ-ಶೋಭಿಸುತಿದೆ-ಶ್ರೀಪತಿಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

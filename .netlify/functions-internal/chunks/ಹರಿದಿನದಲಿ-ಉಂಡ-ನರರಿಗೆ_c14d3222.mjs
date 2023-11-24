@@ -1,0 +1,10 @@
+const id = "ಹರಿದಿನದಲಿ-ಉಂಡ-ನರರಿಗೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ಹರಿದಿನದಲಿ ಉಂಡ ನರರಿಗೆ",english_title:" Haridinadali unda nararige",kannada:"ಹರಿದಿನದಲಿ ಉಂಡ ನರರಿಗೆ -ಘೋರ | ನರಕ ತಪ್ಪದು ಎಂದು ಶ್ರುತಿ ಸಾರುತಲಿದೆ||\n\nಗೋವ ಕೊಂದ ಪಾಪ, ಸಾವಿರ ವಿಪ್ರರ | ಜೀವ ಹತ್ಯದ ಮಾಡಿದ ಪಾಪವು ||\nಭಾವಜನಯ್ಯನ ದಿನದಲುಂಡವರಿಗೆ | ಕೀವಿನೊಳಗೆ ಹಾಕಿ ಕುದಿಸುವ ಯಮನು ||1||\n\nಒಂದೊಂದು ಅಗಳಿಗೆ ಕೋಟಿ ಕೋಟಿ ಕ್ರಿಮಿಗಳು | ಅಂದಿನ ಅನ್ನವು ನಾಯ ಮಾಂಸ ||\nಮಂದರಧರನ ದಿನದಲುಂಡವರನು | ಹಂದಿಯ ಸುಡುವಂತೆ ಸುಡುವನು ಯಮನು||2||\n\nಅನ್ನ -ಉದಕ ತಾಂಬೂಲ – ದರ್ಪಣಗಳು | ಚೆನ್ನವಸ್ತ್ರಗಳೆಲ್ಲ ವರ್ಜಿತವು ||\nತನ್ನ ಸತಿಯ ಸಂಗ ಮಾಡುವ ಮನುಜನ | ಬೆನ್ನಲಿ ಕರುಳ ಉಚ್ಚಿಸುವನು ಯಮನು||3||\n\nಜಾವದಜಾಗರಕ್ರತು ನಾಲ್ಕು ಸಾವಿರ | ಜಾವ ನಾಲ್ಕರ ಫಲಕೆ ಮಿತಿಯಿಲ್ಲವು ||\nದೇವದೇವನ ದಿನದಿ ನಿದ್ರೆಗೈದರೆ ಹುರಿ – | ಗಾವಿಲಿಯೊಳು ಹಾಕಿ ಹುರಿಯುವ ಯಮನು ||4||\n\nಇಂತು ಏಕಾದಶಿ ಉಪವಾಸ ಜಾಗರ | ಸಂತತ ಕ್ಷೀರಾಬ್ಧಿಶಯನನ ಪೂಜೆ ||\nಸಂತೋಷದಿಂದಲಿ ಮಾಡಿದ ಜನರಿಗ – | ನಂತ ಫಲವನೀವ ಪುರಂದರವಿಠಲ ||5||\n\n",english:"Haridinadali unda nararige gora naraka tappadendu shruti saarutalide | pa |\n\nGovu konda paapa viprara saavira | jivahatyava maadida paapavu |\nbhaavajanayyana dinadi undaravanu | kivinolage haaki kudisuva yamanu || 1 ||\n\nOndondu agulige koti koti krimigalu | andina annavu naayi maamsavu | mandaroddhaarana dinadi undavarannu | handiya suduvante sudisuva yamanu || 2 ||\n\nAnna paana taambula darpanagalu | chenna vastragalella varjitavu |\ntanna satiyara sanga maadida nararige | bennali karula tegeva kandya yamanu || 3 ||\n\nJaavadi jaagara kratu naalku saavira | jaava naalkara phalake mitiyillavu |\ndeva devana dinadi nidregaivana | kaavaliyolu haaki hurisuva yamanu || 4 ||\n\nIntu ekaadashi upavaasa jaagara | santata kshiraabdhishayanana puje |\nsantushtiyindali maadida janarige | ananta phalaviva purandaravithala || 5 |\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=YwGUWlfkGcc"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಹರಿದಿನದಲಿ-ಉಂಡ-ನರರಿಗೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

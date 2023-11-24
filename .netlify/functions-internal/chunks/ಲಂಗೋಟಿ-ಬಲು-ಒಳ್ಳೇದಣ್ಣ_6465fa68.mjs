@@ -1,0 +1,10 @@
+const id = "ಲಂಗೋಟಿ-ಬಲು-ಒಳ್ಳೇದಣ್ಣ";
+const collection = "bhajan";
+const data = {kannada_title:"ಲಂಗೋಟಿ ಬಲು ಒಳ್ಳೇದಣ್ಣ",english_title:"Langoti baluvolledanna",kannada:"ಲಂಗೋಟಿ ಬಲು ಒಳ್ಳೆದಣ್ಣ ಒಬ್ಬರ\nಹಂಗಿಲ್ಲದೆ ಮಡಿಗೆ ಒದುಗುವುದಣ್ಣ ।।\n\nಬಡವರಿಗಾಧಾರವಣ್ಣ ಈ ಲಂಗೋಟಿ\nಬೈರಾಗಿಗಳ ಭಾಗ್ಯವಣ್ಣ ।\nಕಡು ಕಳ್ಳರಿಗೆ ಗಂಡ, ಮಡಿ ಧೋತ್ರಗಳ ಮಿಂಡ\nನಡುಗುವ ಸಮಯಕ್ಕೆ ಮಡಿಗೆ ಒದಗುವಂಥ ।।\n\nಜಿತ ಮನ ಸನ್ಯಾಸಿಗಳಿಗಿದೆ ಕೌಪೀನ\nವ್ರತವುಳ್ಳ ಬ್ರಹ್ಮಚಾರಿಗೆ ಮುಖ್ಯವು ।\nಅತಿಶಯವಿದು ಆಂಜನೇಯ ನಾರದರಿಗೆ\nಗತಿಯಿಲ್ಲದವರಿಗೆ ಮಿತವಾಗಿ ಇರುವಂಥ ।।\n\nದುಡ್ಡು ಮುಟ್ಟದಂತೆ ದೊರಕುವ ವಸ್ತುವು\nದೊಡ್ಡ ಅರಣ್ಯದಿ ಭಯವಿಲ್ಲವು ।\nಹೆಡ್ಡರೆಂಬುವರೇನೊ ಲಂಗೋಟಿ ಜನರನ್ನು\nದೊಡ್ಡವರೆಂದು ವಂದಿಸುವರು ಯತಿಗಳ ।।\n\nಮೋಕ್ಷಮಾರ್ಗಕೆ ಕಲ್ಪವೃಕ್ಷವೀ ಲಂಗೋಟಿ\nಭಿಕ್ಷಗಾರರಿಗೆಲ್ಲ ಅನುಕೂಲವು ।\nತತ್ ಕ್ಷಣದೊಳಗೆ ಕಾರ್ಯಗಳ ತೂಗಿಸಿ ಮಾನ\nರಕ್ಷಣೆಗೆ ಬಹು ರಮ್ಯವಾಗಿರುವಂಥ ।।\n\nಮಡಿವಾಳರಿಗೆ ಶತ್ರು ಮಠದಯ್ಯಗಳ ಮಿತ್ರ\nಪೊಡವಿಯೊಳ್ ಯಾಚಕರಿಗೆ ನೆರವು ।\nದೃಢಭಕ್ತ ಬಲಿಚಕ್ರವರ್ತಿಗೋಸ್ಕರ ನಮ್ಮ\nಒಡೆಯ ಶ್ರೀ\nಪುರಂದರವಿಠಲ\nಧರಿಸಿದಂಥ ।।\n\n",english:"Langoti baluvolledanna obbar\nhangillade madige odaguvudanna ||\nBadavarigadharavanna ee langoti\nbairagigala bhagyavanna kadu\nkallarige ganda madidhotragala minda\nnaduguva samayakke madige odaguvantha ||1||\nJitamana sanyasigalinde kaupina\nvratavulla brahmacharige mukhyavu\natishayavide anjaneya naradarige\ngatiyilladavarige mitavagi iruvantha ||2||\nDuddu muttadante dorakuva vastuvu\ndodda aranyadi bhayavillavu\nheddarembuvareno langoti janarannu\ndoddavarendu vandisuvaru yatigala ||3||\nmoksha margake kalpavrshavi langoti\nbhikshakararigella anukulavu\ntatkshanadolage karyagala tugisi\nmana rakshanege bahu ramyavsgiruvantha ||4||\nMadivalarige shatru matadayyagala mitra\npodaviyol yachakarige neravu\ndrdha bhakta bali chakravarti goskara\nnamma odeya shri\npurandara vittala\ndarisidantha ।।೫।।\n\nYou can listen to the song here:\nhttps://youtu.be/EyY879IjhUk\nby Vidyabhushana Theertha Swamiji\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional song","krishna song"],media:"https://www.youtube.com/watch?v=EyY879IjhUk"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಲಂಗೋಟಿ-ಬಲು-ಒಳ್ಳೇದಣ್ಣ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

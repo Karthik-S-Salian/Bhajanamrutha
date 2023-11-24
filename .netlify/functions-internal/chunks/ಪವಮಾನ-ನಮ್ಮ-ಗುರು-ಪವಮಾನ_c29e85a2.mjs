@@ -1,0 +1,10 @@
+const id = "ಪವಮಾನ-ನಮ್ಮ-ಗುರು-ಪವಮಾನ";
+const collection = "bhajan";
+const data = {kannada_title:"ಪವಮಾನ ನಮ್ಮ ಗುರು ಪವಮಾನ",english_title:" Pavamaana namma guru pavamana",kannada:"ಪವಮಾನ ನಮ್ಮ ಗುರು ಪವಮಾನ |\nಪವಮಾನ ಪಾವನ ಚರಿತ ಪದ್ಮಭವನ\nಪದಾರ್ಹನೆ ನಿರುತ ಆಹಾ ಶ್ರವಣವಿಮೊದಲಾದ ನವವಿಧ\nಭಕುತಿ ಜ್ಞಾನವ ನಿತ್ತು ಸಲಹೋ ಮೂರವತಾರಾತ್ಮಕ ದೇವಾ || ಪವಮಾನ ||\n\nಮೂರು ಕೋಟಿ ರೂಪ ಧರನೆ ಲೋಕಧಾರಕ ಲಾವಣ್ಯಕರನೆ |\nಸರ್ವ ಪ್ರೇರಕ ಭಾರತಿ ವರನೆ ತ್ರಿಪುರಾರಿಗೆ ವಜ್ರಪಂಜರನೆ\nಆಹಾ ನೀರಜ ಜಾಂಡದಿ ಮೂರೇಳು ಸಾವಿರದಾರು ನೂರು ಜಪ\nಬೇರೆ ಬೇರೆ ಮಾಳ್ಪ ||ಪವಮಾನ||\n\nಮೂಲೇಶನಂಘ್ರಿ ಸರೋಜ ಭೃಂಗ ಏಳೇಳು ಲೋಕಾಧಿರಾಜಾ |\nಇಪ್ಪತ್ತೇಳು ರೂಪನೇ ರವಿತೇಜಾ ಲೋಕಪಾಲಕರಾಳ್ದವ ಮಹೌಜಾ\nಆಹಾ ಕಾಳಿ ರಮಣ ನಿನ್ನ ಕಾಲಿಗೆರಗುವೆ ಕೃಪಾಳು ಭಕ್ತಿಜ್ಞಾನ\nವಾಲಯ ಕರುಣಿಸು || ಪವಮಾನ ||\n\nಮಾತರಿಶ್ವ ಮಹಾಮಹಿಮಾ ಸರ್ವ ಚೇತನ ಹೃದ್ಗತ ಹನುಮಾ|\nಭೀಮ ಭೂತಳದೊಳು ಮಧ್ವನಾಮದಿಂದ\nಜಾತನಾಗಿ ಜಿತಕಾಮ | ಆಹಾ ಆದಿಪ್ಪಣಾದಿ ವಿಖ್ಯಾತ\nಮಾಯಗಳ ಗೆದ್ದಾ ಪವಮಾನ | ಸೀತಾರಮಣ\nಜಗನ್ನಾಥವಿಠ್ಠಲ\nದೂತ || ಪವಮಾನ ||\n\n",english:"Composer : Sri Jagannatha dasru\n\nPavamaana namma guru pavamaana ||2||\npavamaana paavana charita padmabhavana |\npadaarhane niruta ahaa shrvanavimodalaada navavidha bhakuti jnaanavanittu salaho  |\nmooravataaraatmaka devaa ||pavamaana||\n\nMooru koti roopadharane | lokadhaaraka laavanyakarane |\nsarva preraka bhaarativarane |tripuraarige vajrapanjarane |\nahaa neeraja jaandadi moorelu |\nsaaviradaaru nooru japa bere bere maalpa||pavamaana||\n\nMooleshnanghri saroja | bhrunga elelu lokaadhiraajaa ||\neppattelu roopane raviteja | lokapaalakaraaldava mahoujaa |\naha kali ramana ninna |\nkaaligeraguve krupaalu bhaktijnaana | vaalaya karunisu ||\n\nMaatarishwa mahamahima sarva chetana hrudgata hanuma |\nbhima bhutaladolu madhwanamadinda jaatanagi jitakama |\naha adippanaadi vikhyaata | mayagala gedda pavamana |\nseetaramana\njanannatha vittala\ndoota || pavamana ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=6Lk_oAD029M"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಪವಮಾನ-ನಮ್ಮ-ಗುರು-ಪವಮಾನ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

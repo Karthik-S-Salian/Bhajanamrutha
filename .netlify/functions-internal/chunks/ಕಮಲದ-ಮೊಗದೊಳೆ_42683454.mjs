@@ -1,0 +1,10 @@
+const id = "ಕಮಲದ-ಮೊಗದೊಳೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ಕಮಲದ ಮೊಗದೊಳೆ",english_title:" Kamalada Mogadole",kannada:"ಕಮಲದ ಮೊಗದೊಳೆ ಕಮಲದ ಕಣ್ಣೋಳೆ ಕಮಲವ ಕೈಯಲ್ಲಿ ಹಿಡಿದೊಳೆ..\nಕಮಲನಾಭನ ಹೃದಯ ಕಮಲದಲಿ ನಿಂತೋಳೆ ಕಮಲಿ ನೀ ಕರಮುಗಿವೆ ಬಾ ಮಾ..\nಪೂಜೆಯ ಸ್ವೀಕರಿಸೆ ದಯಮಾಡಿಸಮ್ಮ…\n\nಕಾವೇರಿ ನೀರ ಅಭಿಷೇಕಕಾಗಿ ನಿನಗಾಗಿ ನಾ ತಂದೆನಮ್ಮ..\nಕಂಪನ್ನು ಚೆಲ್ಲೋ ಸುಮರಾಶಿಯಿಂದ ಹೂಮಾಲೆ ಕಟ್ಟಿರುವೆನಮ್ಮ..\nಬಂಗಾರ ಕಾಲ್ಗೆಜ್ಜೆನಾದ ನಮ್ಮ ಮನೆಯಲ್ಲವ ತುಂಬುವಂತೆ. ||2 times||\nನಲಿಯುತ.. ಕುಣಿಯುತ.. ಒಲಿದು ಬಾ.. ನಮ್ಮ ಮನೆಗೆ ಬಾ..||ಕಮಲದ||\n\nಕಮಲದ ಮೊಗದೊಳೆ ಕಮಲದ ಕಣ್ಣೋಳೆ ಕಮಲವ ಕೈಯಲ್ಲಿ ಹಿಡಿದೊಳೆ..\n\nಶ್ರೀದೇವಿ ಬಾ ಮಾ ಧನಲಕ್ಷ್ಮಿ ಬಾ ಮಾ ಮನೆಯನ್ನು ಬೆಳಕಾಗಿ ಮಾಡು..\nದಯೆತೋರಿ ಬಂದು ಮನದಲ್ಲಿ ನಿಂತು ಸಂತೋಷ ಸೌಭಗ್ಯ ನೀಡು..\nಸ್ಥಿರವಾಗಿ ಬಂದಿಲ್ಲಿ ನೆಲೆಸು.. ತಾಯೇ ವರಮಹಾಲಕ್ಷ್ಮಿಯೇ ಹರಸು..\nಸ್ಥಿರವಾಗಿ ಬಂದಿಲ್ಲಿ ನೆಲೆಸು.. ತಾಯೇ ವರಮಹಾಲಕ್ಷ್ಮಿಯೇ ಹರಸು..\n\nಕರವನು ಮುಗಿಯುವೆ.. ಆರತಿ ಈಗ ಬೆಳಗುವೆ..\n\nಕಮಲದ ಮೊಗದೊಳೆ ಕಮಲದ ಕಣ್ಣೋಳೆ ಕಮಲವ ಕೈಯಲ್ಲಿ ಹಿಡಿದೊಳೆ..\nಕಮಲವ ಕೈಯಲ್ಲಿ ಹಿಡಿದೊಳೆ..\n\n",english:"Kamalada mogadole kamalada kannole\nKamalava kaiyalli hididole.\nKamala nabhana hrudaya kamaladali nittole\nKamale ni kara mugive baa maa\nPoojeya svikarisi dayamadisamma.\n\nKaveri nira abhishekakaagi ninagaagi na tande namma ||\nKampannu challo suma raashilinde humale kattiruve namma ||\nBangara kaal gejje naada namma maneyallava tumbuvante||2||\nNaliyuta kuniyuta  validu ba namma manege ba.\n\nKamalada mogadole kamalada kannole\nKamalava kaiyalli hididole.\n\nSridevi ba maa dhanalakshmi ba maa maneyalla belekagi madu ||\nDayatori bandu manadalli nintu santosha soubhagya nidu ||\nStiravagi bandilli nelesu tayi varamahalakshmiye harasu||2||\nkaravanu mugiyuve aarathi ega belaguve ||\n\nKamalada mogadole kamalada kannole\nKamalava kaiyalli hididole.\nKamala nabhana hrudaya kamaladali nittole\nKamale ni kara mugive baa maa\nPoojeya svikarisi dayamadisamma.\n\nClick the link to listen Song Here\n. This is song from film Hosa etihasa sung by Smt. S. Janaki\n\n",meta:"",tags:[],media:"https://www.youtube.com/watch?v=IWwll3EoE4M"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಕಮಲದ-ಮೊಗದೊಳೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

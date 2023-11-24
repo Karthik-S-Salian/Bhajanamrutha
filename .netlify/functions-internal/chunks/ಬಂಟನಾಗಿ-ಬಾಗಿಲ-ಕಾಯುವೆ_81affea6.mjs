@@ -1,0 +1,10 @@
+const id = "ಬಂಟನಾಗಿ-ಬಾಗಿಲ-ಕಾಯುವೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ಬಂಟನಾಗಿ ಬಾಗಿಲ ಕಾಯುವೆ",english_title:" Bantanaagi baagila kayuve",kannada:"ರಚನೆ : ಶ್ರೀ ಕನಕದಾಸರು\n\nಬಂಟನಾಗಿ ಬಾಗಿಲ ಕಾಯುವೆ, ಶ್ರೀಹರಿಯ || ಪ ||\nವೈಕುಂಠದ ಸೋಂಪಿನ ದಾಸರ ಮನೆಯ ||ಅ.ಪ||\n\nಹೊರಸುತ್ತು ಪ್ರಾಕಾರ ಸುತ್ತಿ ನಾ ಬರುವೆ\nಬರುವ ಹೋಗುವರ ವಿಚಾರಿಸಿ ಬಿಡುವೆ\nಕರದಿ ಕಂಬಿಯ ಪೊತ್ತು ಅಲ್ಲಿ ನಿಂದಿರುವೆ\nಶ್ರೀಹರಿಯ ಸಮುದ ಓಲಗದೊಳಿರುವೆ || ೧ ||\n\nತೊತ್ತು ತೊಂಡನಾಗಿ ಬಾಗಿಲ ಕಾಯ್ವೆ\nಚಿತ್ರದ ಚಾವಡಿ ರಜವನು ಬಳಿವೆ\nಮುತ್ತಿನ ರಂಗವಲ್ಲಿಯನಿಟ್ಟು ಬರೆವೆ\nರತ್ನಗಂಬಳಿ ಹೊತ್ತು ಹಾಸುವೆನು ||೨||\n\nವೇಳವೇಳೆಗೆ ನಾನೂಳಿಗವ ಮಾಡುವೆ\nಆಲವಟ್ಟಿಗೆ ಚಾಮರವ ಬೀಸುವೆ\nತಾಳದಂಡಿಗೆ ಭೃಂಗಿ  ಮೇಳಗಳ ಕೂಡಿ\nಶ್ರೀಲೋಲನ ಕೊಂಡಾಡಿ ಪಾಡುವೆನು || ೩ ||\n\nಎಂಜಲ ಹರಿವಾಣಂಗಳ ಬೆಳಗುವೆ\nಕಂಜನಾಭನ ಪಾದಕಮಲವ ತೊಳೆವೆ\nರಂಜಿಪ ಕುಸುಮದ ಮಾಲೆ ತಂದಿಡುವೆ\nಸಂಜೆಗೆ ಪಂಜಿನ ದಾಸನಾಗಿರುವೆ ||೪||\n\nಮೀಸಲೂಳಿಗವ ನಾ ಮಾಡಿಕೊಂಡಿರುವೆ\nಶೇಷ ಪ್ರಸಾದವ ಉಂಡುಕೊಂಡಿರುವೆ\nಶೇಷಗಿರಿ\nಕಾಗಿನೆಲೆಯಾದಿಕೇಶವನ\nದಾಸರ ದಾಸರ ದಾಸರ ಮನೆಯ ||೫||\n\n",english:"Composer : Sri Kanakadasaru\n\nBantanagi bagila kayuve, srihariya ||pa||\nvaikuntada sompina dasara maneya || a.pa ||\n\nHorasuttu praakara sutti naa baruve\nbaruva hoguvara vicharisi biduve\nkaradi kambiya pottu alli nindiruve\nsrihariya samuda olagadoliruve ||1||\n\nTottu tondanaagi bagila kayve\nchitrada chavadi rajavannu balive\nmuttina rangavalliyanittu bareve\nratnagambali hottu hasuvenu ||2||\n\nVelevelege naanooligava maduve\naalavattige chamarava beesuve\ntaaladandige bhrungi melagala koodi\nsrilolana kondaadi paaduvenu ||3||\n\nEnjala harivaangala belaguve\nkanjanabhana padakamalava toleve\nranjipa kusumada maale tandiduve\nsanjege panjina daasanagiruve ||4||\n\nMeesalooligava naa maadikondiruve\nshesha prasadava undukondiruve\nsheshagiri\nkagineleyaadikeshavana\ndaasara daasara daasara maneya ||5||\n\n",meta:"",tags:["narayana","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=BpwEcX2Dduo"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಬಂಟನಾಗಿ-ಬಾಗಿಲ-ಕಾಯುವೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

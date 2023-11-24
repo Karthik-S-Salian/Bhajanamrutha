@@ -1,0 +1,10 @@
+const id = "ಏನೆಂದು-ಕೊಂಡಾಡಿ-ಸ್ತುತಿಸಲೋ";
+const collection = "bhajan";
+const data = {kannada_title:"ಏನೆಂದು ಕೊಂಡಾಡಿ ಸ್ತುತಿಸಲೋ",english_title:"    Enendu kondadi stutisalo",kannada:"ಏನೆಂದು ಕೊಂಡಾಡಿ ಸ್ತುತಿಸಲೋ ದೇವ ನಾನೇನು\nಬಲ್ಲೆ ನಿನ್ನ ಮಹಿಮೆಗಳ ಮಾಧವ ||pa||\n\nಹರಿಮುಕುಂದನು ನೀನು ನರಜನ್ಮ ಹುಳು ನಾನು ಪರಮಾತ್ಮನು ನೀನು ಪಾಮರನು ನಾನು\nಗರುಡ ಗಮನನು ನೀನು ಮರುಳು ಪಾಪಿಯು ನಾನು ಪರಂಜ್ಯೋತಿಯು ನೀನು ದುರುಳ ತಿರುಕನು ನಾನು ||1||\n\nವಾರಿಧಿಶಯನನಾದ ಕಾರುಣ್ಯನಿಧಿ ನೀನು ಘೋರದಿಂದಿಹ ಕಾಮಿಕ್ರೋಧಿ ನಾನು\nಈರೇಳು ಭುವನದೊಳು ಇರುವ ಮೂರುತಿ ನೀನು ದೂರಿ ನಿನ್ನನು ಬೈವ ದುಷ್ಟ ನಾನು||2||\n\nಅಣುರೇಣು ತೃಣಗಳಲಿ ಪರಿಪೂರ್ಣನು ನೀನು ಕ್ಷಣಕ್ಷಣಕೆ ಅವಗುಣದ ಕುಕರ್ಮಿ ನಾನು\nವಾಣಿಯರಸನ ಪೆತ್ತ ವೈಕುಂಠಪತಿ ನೀನು ಕ್ಷಣಭಂಗುರ ತನುವಿನ ಗೊಂಬೆ ನಾನು ||3||\n\nಕಂಬದಲಿ ಬಂದ ಆನಂದ ಮೂರುತಿ ನೀನು ನಂಬಿಕೆಯಿಲ್ಲದ ಪ್ರಪಂಚಕನು ನಾನು\nಅಂಬರೀಷಗೆ ಒಲಿದ ಅಕ್ರೂರಸಖ ನೀನು ಡಂಬ ಕರ್ಮಿಯು ನಾನು ನಿರ್ಜಿತನು ನೀನು||4||\n\nತಿರುಪತಿಯ ವಾಸ ಶ್ರೀವೆಂಕಟೇಶನೆ ನಿನ್ನ ಚರಣಸೇವಕರ ಸೇವಕನು ನಾನು\nಬಿರುದುಳ್ಳವನು ನೀನು ಮೊರೆಹೊಕ್ಕವನು ನಾನು ಸಿರಿ ಕಾಗಿನೆಲೆಯಾದಿಕೇಶವನು ನೀನು||5||\n\n",english:"Enendu kondadi stutisalo deva nanenu balle nimma mahimegala madhava || pa ||\n\nHari mukundanu ninu narajanma\nhulunanu paramatma ninu pamaranu nanu |\ngarudagamananu ninu marulu papiyu nanu\nparama jyotiyu ninu tirupeyava nanu || 1 ||\n\nVaridhishayananaada karunyanidhi neenu | ghoradindiha kamikrodhi nanu | erelu bhuvanadolu eruva mooruti neenu | doori ninnanu baiva dushta nanu ||2||\n\nAnurenu trunagali paripoornanu neenu | kshanakshnake avagunada kukarmi nanu | vaniyarasana petta vaikuntapati neenu | kshanabhangura tanuvina gombe naanu ||3||\n\nKambadali banda ananda muruti ninu\nnambike yillada prapanchiganu nanu\nambarishage olida akrura sakha ninu\ndanbakarmiyu nanu nirjitanu ninu|| 4||\n\nTirupati vasa sri venkateshanu ninu\nsmarisi ninnaya padava bakutanu nanu\nbirudullavanu ninu morehokkenai nanu\nsiri kagi neleyadi keshavanu ninu||5||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=dV3GBymbhl4"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಏನೆಂದು-ಕೊಂಡಾಡಿ-ಸ್ತುತಿಸಲೋ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

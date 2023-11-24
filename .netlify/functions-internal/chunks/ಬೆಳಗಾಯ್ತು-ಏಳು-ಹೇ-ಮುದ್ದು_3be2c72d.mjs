@@ -1,0 +1,10 @@
+const id = "ಬೆಳಗಾಯ್ತು-ಏಳು-ಹೇ-ಮುದ್ದು";
+const collection = "bhajan";
+const data = {kannada_title:"ಬೆಳಗಾಯ್ತು ಏಳು ಹೇ ಮುದ್ದು",english_title:" Belagaithu Yelo Hey",kannada:"ಬೆನಕ ಬೆನಕ ಏಕದಂತ …. ಪಚ್ಚೆ ಕಲ್ಲು ಪಾಣಿ ಪೀಠ ಮುತ್ತಿನುಂಡೆ ಹೊನ್ನಗಂಟೆ ಒಪ್ಪುವ | ಗುಡ್ಡ ಬೆಟ್ಟದಲ್ಲಿ ತಂಬಿಟ್ಟು ಮುಕ್ಕುವ ಪುಟ್ಟ ವಿಘ್ನೇಶ ದೇವರಿಗೆ ಇಪ್ಪತ್ತೊಂದು ನಮಸ್ಕಾರಗಳು….\n\nಬೆಳಗಾಯ್ತು ಏಳು ಹೇ ಮುದ್ದು ಬೆನಕ ಭುವಿಯೆಲ್ಲ ರಂಗಾಯ್ತು ನೀ ಏಳೋ ಬೆನಕ ||2 times|| ಅಂಬ ಪ್ರಿಯ ತನಯ ಆದಿ ಪೂಜಿತನೆ ಮೂಡನದೆ ರವಿ ಎದ್ದ ನೀ ಏಳು ಬೆನಕ ||\n\nಮಾಮರದಿ ಕೋಗಿಲೆಯು ಪಚ್ಚ ವರ್ಣದ ಗಿಳಿಯು ಸುಪ್ರಭಾತವ ನಿನಗೆ  ಹಾಡುತಿವೆ ಬೆನಕ |2|ಆ ನಿನ್ನ ಸೊಂಡೀಲು ನಿನ್ನ ಬರುವನು ಕಾದು |2| ಕಾಲುಗಳ ತಿನ್ನುತಲಿ ಕುಳಿತಿಹುದು ಬೆನಕ ||\n\nಹುಲ್ಲು ಗರಿಕೆಯು ದೂರ್ವೆ ಆಗಿ ಕಾದಿಹುದು | ಪೂಜೆಯಲಿ ನಿನ್ನ ಅಲಂಕರಿಸಲೆಂದು | ನಾಗಲಿಂಗದ ಪುಷ್ಪ ಕಮಲಗಳು ಕಾದಿಹವು |2|| ಗಣಪತಿಯ ಅರ್ಚನೆಗೆ ಸಿದ್ಧವಾಗಿಹೆವೆಂದು ||\n\nನಿನಗಾಗಿ ಮಾಡಿಟ್ಟ ತಂಬಿಟ್ಟು ಚಕ್ಕುಲಿ | ಕಾಯುತಿವೆ ನಿನ್ನ ಸ್ವೀಕಾರಕಾಗಿ | ನಿನ್ನ ಪೂಜೆಯ ಮಾಡೆ ಭಕ್ತ ಜನ ವೃಂದ |2| ಕಾದಿಹುದು ನಿನ್ನ ವರ ಭಿಕ್ಷೆಗಾಗಿ ||\n\n",english:"Benaka Benaka Ekadantha..\nPachche Kallu Paani Peeta\nMuttinunde Honna Gante Oppuva..\nGudda Bettadali Tambittu Mukkuva\nPutta Vighnesha Devarige\nIppathondu Namaskaragalu..\n\nBelagaithu Yelo Hey Muddu Benaka\nBhuviyella Rangaaithu Nee Yelo Benaka |2 times |   Amba Priya Thanaya Aadi Poojithane\nMoodanade Ravi Yedda Nee Yelu Benaka ||Belagaytu yelo||\n\nMaamaradi Kogileyu Pachcha Varnada Giliyu\nSuprabhatava Ninage Haaduthive Benaka |2 times|\nAa Ninna Sondiliyu Ninna Baruvanu Kaadu |2 times|\nKaalugala Thinnuthali Kulithihudu Benaka ||Belagaytu yelo||\n\nHullu Garikeyu Doorve Aagi Kaadihudu\nPoojeyali Ninna Alankarisalendu\nNagalingada Pushpa Kamalagalu Kaadihavu |2 times|\nGanapathiya Archanege Siddavaagihevendu ||Belagaytu yelo||\n\nNinagaagi Maaditta Thambittu Chakkuli\nKaayuthive Ninna Sweekaarakaagi\nNinna Poojeya Maade Bhakta Jana Vrunda |2 times|\nKaadihudu Ninna Vara Bhikshegaagi ||Belagaytu yelo||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=GmwZc12h5fA"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಬೆಳಗಾಯ್ತು-ಏಳು-ಹೇ-ಮುದ್ದು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

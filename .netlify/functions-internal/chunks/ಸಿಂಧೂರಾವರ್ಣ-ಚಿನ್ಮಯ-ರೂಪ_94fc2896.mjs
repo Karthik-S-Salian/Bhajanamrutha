@@ -1,0 +1,10 @@
+const id = "ಸಿಂಧೂರಾವರ್ಣ-ಚಿನ್ಮಯ-ರೂಪ";
+const collection = "bhajan";
+const data = {kannada_title:"ಸಿಂಧೂರಾವರ್ಣ ಚಿನ್ಮಯ ರೂಪ",english_title:" Sindooravarna chinmaya roopa",kannada:"ವಕ್ರತುಂಡ ಮಹಾಕಾಯ ಕೋಟಿ ಸೂರ್ಯ ಸಮಪ್ರಭಾ\nನಿರ್ವಿಘ್ನಂ ಕುರುಮೇದೇವ ಸರ್ವ ಕಾರ್ಯೇಸು ಸರ್ವದಾ\n\nಸಿಂಧೂರಾವರ್ಣ ಚಿನ್ಮಯ  ರೂಪ ಮಧುಪುರವಾಸ ಗಣನಾಥ |\nಲೇಸಾಗಿ ಸಲಹುವ ಶ್ರೀಕರ ಶುಭಕರ ಮದವೂರ ದೇವ ವಿನಾಯಕ |\nನಿನ್ನ ಮನಸಾರೆ ಪಾಡುವೆ ಗಣನಾಯಕ || ಸಿಂಧೂರಾವರ್ಣ||\n\nಗಣನಾಥ ಗಣಸೇವಿತ ನಾದ ಯಜ್ಞೋಪಭೂಷಿತ\nಮಹಾಕಾಯ ಮಹಿಮೋಪೇತ ಮನೋಭೀಷ್ಟಪ್ರದಾಯಕ\n\nಅಘನಾಶಿನಿ ಪುಣ್ಯ ಮಧುವಾಹಿನಿಯಲ್ಲಿ ಮಿಂದರೆ ದುರಿತವು ಕಳೆಯುವುದು |\nಭವಭಯದಿಂದಲಿ ಪಾರಾಗುವೆ ಮನವೆ ಮಧುಪುರವಾಸನ ದಯೆಯಿಂದ |\nಗಜಮುಖ ಗಣಪನ ಕ್ರಪೆಯಿಂದ ||\n\nಗಜವಕ್ರ ಶೂರ್ಪಕರ್ಣ, ಗಣನಾಥ ಚತುರ್ಭುಜ\nಚಂದ್ರಗರ್ವಾಪಹಾರ, ಸರ್ವವಿಘ್ಣ ನಿವಾರಣ\n\nಶ್ರೀಗಣನಾಥನ ಸನ್ನಿಧಿಯಲ್ಲಿ ಜೀವದುಃಖಗಳೆಲ್ಲ ಮರೆಯುವುದು |\nಸಂಕಷ್ಟ ಹರಿಯುವುದು, ಸಂತಸದೊರೆವುದು ಚಿಂತೆಯು ತೊರೆವುದು ನಿನ್ನಿಂದ |\nಸಂಭ್ರಮ ತುಂಬಿದ ಆನಂದ… ||\nವಕ್ರತುಂಡ ಮಹಾಕಾಯ ಕೋಟಿ ಸೂರ್ಯ ಸಮಪ್ರಭ\nನಿರ್ವಿಘ್ನಂ ಕುರುಮೇದೇವ ಸರ್ವ ಕಾರ್ಯೇಸು ಸರ್ವದಾ ||ಸಿಂಧೂರಾವರ್ಣ||\n\n",english:"Vakratunda mahakaya koti surya samaprabha\nnirvighnam kurume deva sarva karyeshu sarvada ||\n\nSindooravarna chinmaya roopa madhupura vasa gananatha |\nlesagi salahuva srikara shubhakara madavoora deva vinayaka |\nninna manasare paduve gananayaka || Sindooravarna ||\n\nGananatha ganasevitha nada yajnopabhushita\nmahakaya mahimopeta manobhishtapradayaka ||\n\nAghanashini punya madhuvahiniyalli mindare duritavu kaleyuvudu |\nbhavabhayadindali paraguve manve madhupuravasane dayeyinda |\ngajamukha ganapana krapeyinda ||\n\nGajavakra shoorpakarna gananatha chaturbhuja |\nchandragarvapahara, sarva vighna nivarana ||\n\nSri gananathana sannidhiyalli jeeva dukhagallellavu mareyuvudu |\nsankashta hariyuvudu, santasa dorevudu chinteyu torevudu ninninda |\nsambhrama tumbida ananda ||\n\nVakratunda mahakaya koti surya samaprabha\nnirvighnam kurume deva sarva karyeshu sarvada ||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=3SPLulp6KrQ"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಸಿಂಧೂರಾವರ್ಣ-ಚಿನ್ಮಯ-ರೂಪ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಇಟ್ಹಾಂಗೆ-ಇರುವೆನೊ-ಹರಿಯೇ";
+const collection = "bhajan";
+const data = {kannada_title:"ಇಟ್ಹಾಂಗೆ ಇರುವೆನೊ ಹರಿಯೇ",english_title:"Ittange iruveno hariye",kannada:"ಇಟ್ಹಾಂಗೆ ಇರುವೆನೊ ಹರಿಯೇ ಎನ್ನ ದೊರೆಯೇ ||ಪ||\nಸೃಷ್ಟಿವಂದಿತ ಪಾದಪದುಮ ಶ್ರೀಹರಿಯೇ ||ಅ.ಪ||\n\nಸಣ್ಣ ಶಾಲ್ಯೋದನ ಬೆಣ್ಣೆ ಕಾಸಿದ ತುಪ್ಪ\nಚಿನ್ನದ ಹರಿವಾಣದಲಿ ಭೋಜನ\nಘನ್ನಮಹಿಮ ನಿನ್ನ ಕರುಣ ತಪ್ಪಿದ ಮ್ಯಾಲೆ ಕ-\nದನ್ನ ಕಾಣದೆ ಬಾಯ್ಬಿಡಿಸುವಿ ಹರಿಯೇ ||೧||\n\nಕೆಂಪಿಲಿ ಪೊಳೆವ ಪೀತಾಂಬರ ಉಡಿಸುವಿ\nಸೊಂಪಿನಂಚಿನ ಶಾಲು ಹೊದಿಸುವಿಯೋ\nಕಪಿಲಹರೇ ನಿನ್ನ ಕೃಪೆಯು ತಪ್ಪಿದ ಮ್ಯಾಲೆ\nಕಪರ್ದಕ ಕೌಪೀನವು ದೊರೆಯದೊ ಹರಿಯೇ ||೨||\n\nಚಂದ್ರಶಾಲೆಲಿ ಚಂದ್ರಕಿರಣದಂತೊಪ್ಪುವ\nಚಂದದ ಮಂಚದೊಳ್ ಮಲಗಿಸುವಿ\nಮಂದರೋದ್ಧರ ನಿನ್ನ ಮಮತೆ ತಪ್ಪಲು ಧರ್ಮ-\nಮಂದಿರದೊಳು ತೋಳ್ತಲಗಿಂಬು ಹರಿಯೇ ||೩||\n\nನರಯಾನದೊಳು ಕ್ಷಣ ನರವರನೆನಿಸುವಿ\nವರಛತ್ರ ಚಾಮರ ಹಾಕಿಸುವಿ\nಕರುಣಾನಿಧೇ ನಿನ್ನ ಕರುಣ ತಪ್ಪಿದ ಮ್ಯಾಲೆ\nಚರಣರಕ್ಷೆಯು ದೊರೆಯದು ಶ್ರೀಹರಿಯೇ ||೪||\n\nಗಂಗಾಜನಕ ಪಾಂಡುರಂಗ ನಿನ್ನಯ ಭಕ್ತರ\nಸಂಗವಿರಲಿ ದುಷ್ಟ ಸಂಗ ಬ್ಯಾಡ\nಅಂಗನೆಯರ ಕೂಡಿ ಅನಂಗಬಾಣಕೆ ಸಿಲುಕಿ\nಭಂಗವ ಪಡಲಾರೆ ಶ್ರೀರಂಗವಿಠಲ ಹರಿಯೇ ||೫||\n\n",english:"Ittange iruveno hariye yenna doreye ||Srusti vanditha paada paduma sri hariye ||Ittange||\n\nSanna shalyodana benne kaasida tuppa chinnada hariwanadali bhojana |ghanna mahima ninna karune tappida mele kadana kanake baaya bidisuve hariye ||Ittange ||\n\nKempili poleva pitaambara vodisuve sompinanchina shaalu hodisuveyo |kapila hariye ninna krupeyu tappida mele koupina doreyadu peenaki vandyane ||ittange||\n\nChandrashaleli  chandrakiranadindoppuva chandada manchandol malagisuve |mandaroddhara ninna mamate tappalu dharmamandiradol tola taledimbumadisuve ||ittange ||\n\nNarayaanadolu kshana naravara nenesuvi varachatra chaamara hakisuve |karunaanidhe ninna karune tappida mele charanaabharana paadaraksheyu doreyadu ||ittange ||\n\nGangajanaka panduranga ninnaya bhakthasanghavirali dusthasangha beda |anganeyarakudi anangabaanake siluke bhangapaduveno kayo ranga vitthala raya ||ittange||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=7hvDoLZ8Lzc"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಇಟ್ಹಾಂಗೆ-ಇರುವೆನೊ-ಹರಿಯೇ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

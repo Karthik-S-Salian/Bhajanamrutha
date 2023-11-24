@@ -1,0 +1,10 @@
+const id = "ಹರುಷದಿಂದಲಿ-ಕಾಯೋ-ಹನುಮಾ";
+const collection = "bhajan";
+const data = {kannada_title:"ಹರುಷದಿಂದಲಿ ಕಾಯೋ ಹನುಮಾ",english_title:" Harushadindali kaayo hanuma",kannada:"ರಚನೆ : ಶ್ರೀ ನರಹರಿ ವಿಠ್ಠಲ ದಾಸರು\n\nಹರುಷದಿಂದಲಿ ಕಾಯೋ ಹನುಮಾ\nಹಾಲ ಬಾವಿಯೋಳಿರುವಂಥ  ಭೀಮಾ |\n\nಗುರು ಮಧ್ವ ರಾಯರ ಚರಣಕೊಂದಿಪೆ  ನಿತ್ಯ |\nಹರಿ ಸರ್ವೋತ್ತಮನೆಂಬ ನಿಜವಾದ ಮತಿ ಕೊಡು\n||ಹನುಮಾ ಹಾಲ ಬಾವಿಯೋಳಿರುವಂಥ ಭೀಮಾ || ಪ||\n\nಅoಜನಾದೇವಿ  ಸಂಭೂತಾ | ಧನಂಜಯನಣ್ಣ   ಅತಿ ಪ್ರಖ್ಯಾತಾ |\nಕುಂಜಲೋಚನ ರಾಮ ದೂತಾ | ಕುರು ಭುಂಜಿಸಿ ಆನಂದತೀರ್ಥ |\nಅoಜಿಕಿನ್ಯಾತಕೆ ಸಂಜೀವ ರಾಯಾ |\nಸೌಗಂಧಿಕಾ  ಪುಷ್ಪ ತಂದ ಸುಂದರ ತಂದೆ ಶ್ರೀ || ಹನುಮಾ ||೧||\n\nಸಾಗರ ದಾಟಿದ ಧೀರ | ಧರ್ಮರಾಜನ್ನ ನಿಜ ವ್ರಕೋದರ |\nಆ ಮಧ್ಯಗೇಹರ  ಕುವರ |\nಹನುಮ ಭೀಮದೇವ ಮಧ್ವವತಾರ | ಆ ಮನೋಹರ ದಿವ್ಯ ರಾಮ ನಾಮಾಮೃತ |\nಪ್ರೇಮದಿ ಕರುಣಿಸೋ ಸ್ವಾಮಿ ದಯನಿಧೆ || ಹನುಮಾ ||೨||\n\nದೂರ ನೋಡದಿರೋ ಹನುಮಾ | ಕರ ಜೋಡಿಸಿ ಪ್ರಾರ್ಥಿಪೆ ಭೀಮಾ |\nಆನಂದ ತೀರ್ಥರ ಪ್ರೇಮದಿಂದ ವ್ಯಾಳ್ಯ  ವ್ಯಾಳ್ಯಕೆ ಹರಿ ನಾಮಾ |\nಪ್ರೇರಣೆ ಮಾಡಿಸೋ ಭಾರತಿ ರಮಣನೆ |\nಸಿರಿ ದೊರೆ\nನರಹರಿ ವಿಠಲನ\nನಿಜದೂತ || ಹನುಮಾ ||೩||\n\n",english:"Composer : Sri Narahari vittala dasaru\n\nHarushadindali kaayo hanuma\nhaala baaviyoliruvantha bheema |\n\nGuru madhwa rayara charanakondipennitya |\nhari sarvottamanemba nijavada mati kodu\n||hanuma haala baaviyoliruvantha bheema ||\n\nAnjanadevi sambhuta |dhananjayananna ati prakyata |\nkunjalochana rama duta | kuru bhunjisi anandateertha |\nanjikinyatake sanjeeva raya |\nsougandhika pushpa tanda sundara tande sri bheema || hanuma ||\n\nSagara daatida dheera |dharmarajanna nija vrukodara |\naa madhyagehara kuvara |\nhanuma bheemadeva madhwavatara | aa manohara divya rama namamruta |\npremadi karuniso swami dayanidhe || hanuma ||\n\nDoora nodadiro hanuma | kara jodisi prartipe bheema |\nananda teerthara premadinda vyalya vyalyake hari nama |\nprerane madiso bharati ramanane |\nsiri dore\nnarahari vittala\nna nijadoota || haruma ||\n\n",meta:"",tags:["anjaneya hanuma","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=YFc8qqEBNeg"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಹರುಷದಿಂದಲಿ-ಕಾಯೋ-ಹನುಮಾ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

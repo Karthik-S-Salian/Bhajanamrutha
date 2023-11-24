@@ -1,0 +1,10 @@
+const id = "ನಂಜುಂಡ-ನಂಜುಂಡ-ನಮ್ಮ-ಗುರು";
+const collection = "bhajan";
+const data = {kannada_title:"ನಂಜುಂಡ ನಂಜುಂಡ ನಮ್ಮ ಗುರು",english_title:" Nanjunda namma guru nanjunda",kannada:"ನಂಜುಂಡ\nನಂಜುಂಡ ನಮ್ಮ ಗುರು ನಂಜುಂಡ|\nನಂಜುಂಡ ನತಜನ ಪಾಲ\nಭವಭಂಜನ ಕರುಣಾಲವಾಲ|\nಆಂಜನೇಯನ ಪ್ರಿಯ ಅಂಜಲಿ ಮುಗಿವೆನು\nಕಂಜನಾಭನ ಪಾದ‌ಕಂಜವ ತೋರಿಸು|\n||ನಂಜುಂಡ||\n\nವಿಷಕಂದರನೆ ಭೀತಭಯನೆ\nವರ ವ್ರಷಕೇತು ವೈಷ್ಣವೋತ್ತಮನೆ |\nನಮ್ಮ ಶಶಿಮುಖಿ ಗೌರಿ ನಾಯಕನೆ\nನಿನಗೆ ನಮಿಸುವೆ ಕರುಣಾಳು ಶಿವನೇ |\nಹಸಿತಭೂಸಿತವಾದ ಶಶಿ ಸನ್ನಿಭಾಂಗನೆ\nನಸು ನಗೆಯ ಮುಖವ ತೋರಿಸೋ ಶಂಕರನೆ ||\n||ನಂಜುಂಡ||\n\nಮನಸ್ಸಿನ ಚಾಪಲ್ಯ ಬಿಡಿಸೋ\nಮಧ್ವಮುನಿ ಕ್ರಪಾ ಕವಚವ ತೊಡಿಸೋ |\nಕ್ಷಣ ಕ್ಷಣದಲ್ಲಿ ಹರಿನಾಮ ನುಡಿಸೋ\nದಿವ್ಯ ಘನ ವೈರಾಗ್ಯ ಭಾಗ್ಯ ಉಣಿಸೋ |\nಕನಸ್ಸು ಮನಸ್ಸಿನಲ್ಲಿ ಹರಿ ರೂಪ ಗುಣಕ್ರಿಯೆ\nನೆನವಿತ್ತು ಸಂತೈಸು ಗಣಪ ಷಣ್ಮುಖರಾಯ ||\n||ನಂಜುಂಡ||\n\nಮುನಿವೇಷವನು ತಾಳಿ ನೃಪಗೆ\nಶ್ರೀ ವಿಷ್ಣುವಿನ ಕಥೆ ಅರುಹಿದೆ ಸದ್ಗತಿಗೆ |\nಮಾರ್ಗವನೆ ಮಾಡಿ ಸಲಹಿದೆ ಕೊನೆಗೆ\nಕರುಣಿಗಳೊಲು ಎಣೆ ಯಾರೋ ನಿನಗೆ |\nಗುಣನಿಧಿ\nಬಾಧರಾಯನವಿಠ್ಠಲ\nನ ಧ್ಯಾನ\nನೆನವಿತ್ತು ಸಂತೈಸು ಗಣಪ ಷಣ್ಮುಖರಾಯ ||\n||ನಂಜುಂಡ||\n\n",english:"Nanjunda namma guru nanjunda |\nnanjunda natajana pala |\nbhavabhanjana karunalavala |\nanjaneyane Priya Anjali mugivenu |\nkanjanabhana padakanjava torisu ||\n\nVishakandarane bhitabhayane\nVara vrushaketu vaishnavottamane |\nnamma shashimukhi gowri nayakane\nninage namisuve karunalu shivane |\nhasitabhusitavada Shashi sannibhangane |\nnasunageya mukhava toriso shankarane ||\n\nManssina chapalya bidiso\nmadhwamuni krupa kavachava todiso |\nkshanakshanadalli harinama nudiso\ndivya ghana vairagya bhagya uniso |\nkanassu manassinalli hari roopa gunakriye\nnenevittu santaisu ganapa shanmukharaya ||\n\nMuniveshavanu tali nrupage\nsri vishnuvina kathe aruhide sadgatige |\nmargavane madi salahide konege\nkarunegalolu ene yaro ninage\ngunanidhi badarayanavittalana dhayana\nnenavittu santaisu ganapa shanmukharaya ||\n\nSong by sri Mysore Ramachandrachar and Sri Vidyabhushanaru\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=uU4EkNIRxkY"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ನಂಜುಂಡ-ನಂಜುಂಡ-ನಮ್ಮ-ಗುರು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ವಾದಿರಾಜರಿಗೆ-ಒಲಿದು-ಬಂದು-ಸೋದೆಪುರದಲ್ಲಿ";
+const collection = "bhajan";
+const data = {kannada_title:"ವಾದಿರಾಜರಿಗೆ ಒಲಿದು ಬಂದು ಸೋದೆಪುರದಲ್ಲಿ",english_title:" VDIRAJARIGE OLIDU BANDU SODEPURADALLI",kannada:"ವಾದಿರಾಜರಿಗೆ ಒಲಿದು ಬಂದು\nಸೋದೆಪುರದಲ್ಲಿ ನಿಂತ ಕುದುರೆ\nಕುದುರೆ ಬಂದಿದೇ….\nವಾದಿರಾಜರಿಗೆ ಒಲಿದು ಬಂದು ||2||\nಸೋದೆಪುರದಲ್ಲಿ ನಿಂತ ಕುದುರೆ\nಕುದುರೆ ಬಂದಿದೇ…. ||ವಾದಿರಾಜರಿಗೆ||\nಚೆಲುವ ಕುದುರೆ ಬಂದಿದೆ\nಮುಂಗಾಲಿನಲಿ ನಲಿಯುವ ಕುದುರೆ\nಹಿಂಗಾಲಿಲಸುರರ ಒದೆಯುವ ಕುದುರೆ\n||ಮುಂಗಾಲಿನಲಿ||\nರಂಗನೆಂದರೆ ಸಲಹುವ ಕುದುರೆ||2||\nತುಂಗ ಹಯವದನ ||2||\nತುಂಗ ಹಯವದನೆಂಬ ಕುದುರೆ\nಕುದುರೆ ಬಂದಿದೇ…||ವಾದಿರಾಜರಿಗೆ||\nಹಲ್ಲಣದೊಳಗೆ ಆಡುವ ಕುದುರೆ\nಬೆಲ್ಲ ಕಡಲೆಗಳ ಮೆಯ್ಯುವ ಕುದುರೆ\n||ಹಲ್ಲಣ||\nಫುಲ್ಲಭವನಿಗೆ ಒಲಿದ ಕುದುರೆ||2||\nಚೆಲ್ವ ಹಯವದನ ||2||\nಚೆಲ್ವ ಹಯವದನೆಂಬ ಕುದುರೆ\nಕುದುರೆ ಬಂದಿದೇ…||ವಾದಿರಾಜರಿಗೆ||\nಸುತ್ತಮುತ್ತಲು ಆಡುವ ಕುದುರೆ\nಮತ್ತೆವಾದಿಯ ಗೆಲ್ವ ಕುದುರೆ||2||\nಶತ್ರುಗಳೆಲ್ಲರ ಬಡಿಯುವ ಕುದುರೆ||2||\nತತ್ವ ಹಯವದನ ||2||\nತತ್ವ\nಹಯವದನೆಂಬ\nಕುದುರೆ\nಕುದುರೆ ಬಂದಿದೇ… ||ವಾದಿರಾಜರಿಗೆ||\n\n",english:"Vādirājarige olidu bandu\nsōdepuradalli ninta kudure\nkudure bandidē…. ||\n\nVādirājarige olidu bandu ||2||\nsōdepuradalli ninta kudure\nkudure bandidē…. ||Vādirājarige||\nCheluva kudure bandide\nmuṅgālinali naliyuva kudure\nhiṅgālilasurara odeyuva kudure ||muṅgālinali||\nraṅganendare salahuva kudure||2||\ntuṅga hayavadana ||2||\ntuṅga hayavadanemba kudure\nkudure bandidē…||Vādirājarige||\n\nHallaṇadoḷage āḍuva kudure\nbella kaḍalegaḷa meyyuva kudure ||hallaṇa||\nphullabhavanige olida kudure||2||\nChelva hayavadana ||2||\nchelva hayavadanemba kudure\nkudure bandidē…||Vādirājarige||\n\nsuttamuttalu āḍuva kudure\nmattevādiya gelva kudure||2||\nśhatrugaḷellara baḍiyuva kudure||2||\ntatva hayavadana ||2||\ntatva\nhayavadanemba\nkudure\nkudure bandidē… ||Vādirājarige||\n\n",meta:"",tags:["narayana","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=Fb6tWfy9VwM"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ವಾದಿರಾಜರಿಗೆ-ಒಲಿದು-ಬಂದು-ಸೋದೆಪುರದಲ್ಲಿ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಕಲಿಯುಗದ-ಮಹಿಮೆಯನು";
+const collection = "bhajan";
+const data = {kannada_title:"ಕಲಿಯುಗದ ಮಹಿಮೆಯನು",english_title:"Kaliyugada mahimeyanu",kannada:"ಕಲಿಯುಗದ ಮಹಿಮೆಯನು ಕಾಣಬೇಕಿಂತು ||\n\nಹರಿಸ್ಮರಣೆಯನು ಬಿಟ್ಟು ಹೀನರನೆ ಸ್ತುತಿಸುವರು |ಗುರುಹಿರಿಯರೊಳು ದೋಷವೆಣಿಸುತಿಹರು |\nಪೊರೆದ ತಾಯ್ತಂದೆಗಳ ಮಾತ ಕೇಳದೆ ತಮ್ಮ |ತರುಣಿಯರ ನುಡಿಗಳನು ಲಾಲಿಸುತ್ತಿಹರು ||\n\nಕಂಡುದನೆ ಹೇಳರು ಕಾಣದನೆ ಹೇಳುವರು |ಉಂಡ ಮನೆಗೆರಡನ್ನೆ ಎಣಿಸುತಿಹರು ||\nಕೊಂಡಾಡಿ ಬೇಡಿದರೆ ಕೊಡರೊಂದು ರುವಿಯನ್ನು |ದಂಡಿಸುವರಿಂಗೆ ಧನಗಳನು ಕೊಡುತಿಹರು ||\n\nಕಳ್ಳರೊಳು ಕಡುಸ್ನೇಹ ಸುಳ್ಳರೊಳು ಸೋಲುವರು |ಒಳ್ಳೆಯವರೊಡನೆ ವಂಚನೆ ಮಾಳ್ಪರು ||\nಇಲ್ಲದ ಅನಾಥರಿಗೆ ಇದ್ದಷ್ಟು ತಾವ್ ಕೊಡರು |ಬಲ್ಲಿದವರಿಗೆ ಬಾಯ ಸವಿಯನುಣಿಸುವರು ||\n\nಪಟ್ಟದರಸಿಯನಗಲಿ ಮೋಸದಲಿ ತಪ್ಪುವರು |ಕೊಟ್ಟ ಸಾಲವ ನುಂಗಿ ಕೊಡದಿಪ್ಪರು ||\nಮುಟ್ಟಿ ಪರಹೆಣ್ಣಿಂಗೆ ಮೋಸದಲಿ ಕೂಡುವರು |ಬಿಟ್ಟು ಕುಲಸ್ವಾಮಿಯನು ಬಡದೈವಕೆರಗುವರು ||\n\nಮಾಡಿದುಪಕಾರವನು ಮರೆತುಕಳೆವರು ಮತ್ತೆ |ಕೂಡಾಡಿ ಬೇಡುವರು ಕುಟಿಲತ್ವದಿಂದ ||\nರೂಢಿಗೊಡೆಯನು ನಮ್ಮ ಪುರಂದರವಿಠಲನ |ಪಾಡಿ ಪೊಗಳುವರಿಂಗೆ ಭವಭಯಗಳಿಲ್ಲ ||\n\n",english:"Kaliyugada mahimeyu kanabantigajalajaksha melgiriya srivenkatesha ||pa||\n\nHarikatheyane bittu hinanudi nudiyuvaru\nGuruhiriyara dushisalu enisuvaru\nPoreda taytandegala matugala mannisade\nTaruniyara nudigelaliccisuttiharu ||1||\n\nPattadarasiya bittu parasatiya bayasuvaru\nKotta salava nungikolaleniparu\nMutti basheya kottu mosavane maduvaru\nBittu paradaivavanu marigeraguvaru ||2||\n\nKandudanu helaru kanadane peluvaru\nUnda manegeradannu bageyuttaliharu\nKondadi bedidaru kodarondu ruvviyanu\nDandisi keluvarige dhanava kodutiharu ||3||\n\nKallarolu atisneha sullarolu soluvaru\nOlleyavarodane vanchaneya maduvaru\nIllada anatharige ishtondanikkaru\nBallidage bayasaviyanunisuvaru ||4||\n\nMadidupakaravanu maretukombaru matte\nKudale kaduvaru kapatatvadinda\nRudhiyolage namma puranmdaravithalanna\nPadipogaluvariginnara Bayavilla ||5||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=mEcOODQsHx0"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಕಲಿಯುಗದ-ಮಹಿಮೆಯನು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

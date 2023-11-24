@@ -1,0 +1,10 @@
+const id = "ಏತರ-ಚೆಲುವ-ರಂಗಯ್ಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ಏತರ ಚೆಲುವ ರಂಗಯ್ಯ",english_title:" Ethara cheluva rangayya",kannada:"ಏತರ ಚೆಲುವ ರಂಗಯ್ಯ ।।ಪ||\n\nಹರಿಯೆನೆಂಬ ಮಾತಿಗೆ ಮರುಳಾದೆನಲ್ಲದೆ ।।ಅ .ಪ||\n\nದೇಶಕೋಶಗಳುಳ್ಳೊಡೆ ತಾ ಕ್ಸೀರವಾ ।\nರಾಶಿಯೊಳಗೆ ಮನೆ ಕಟ್ಟುವನೇ ।।\nಹಾಸುವುದಕೆ ಹಾಸಿಗೆಯುಳ್ಳೊಡೆ ತಾ ।\nಶೇಷನ ಬೆನ್ನಲಿ ಮಲಗುವನೇ ರಂಗ ।।೧।।\n\nಬುದ್ದಿಯ ಪೇಳುವ ಪಿತನುಳ್ಳೊಡೆ ಬೆಣ್ಣೆ ।\nಕದ್ದು ಚೋರನೆಂದೆನಿಸುವನೇ ।।\nಬದ್ಧವಾಹನ ತಾನಾಗಿದ್ದರೆ ಹಾರುವ ।\nಹದ್ದಿನ ಮೇಲೇರಿ ತಿರುಗುವನೇ ರಂಗ ।।೨।।\n\nಹಡೆದ ತಾಯಿ ತನಗುಳ್ಳೊಡೆ ಗೋಪರ ।\nಒಡಗೂಡಿ ತರು ಹಿಂಡು  ಕಾಯುವನೇ ।।\nಮಡದಿಯು ಉಳ್ಳೊಡೆ ಅಡವಿಯೊಳಾಡುವ ।\nಹುಡುಗಿಯರ ಸಂಗ ಮಾಡುವನೇ ರಂಗ ।।೩।।\n\nಸಂಗಡ ಉದಿಸಿದ ಅಣ್ಣನಿದ್ದರೆ ನರ ।\nಸಿಂಗನ ರೂಪವಧರಿಸುವನೇ ।।\nಅಂಗದ ಮೇಲಿನ ಆಸೆಯಿದ್ದೊಡೆ ಕಾ |\nಳಿಂಗನ ಮಡುವಿಲಿ ಧುಮುಕುವನೇ ರಂಗ ।।೪।।\n\nಸಿರಿಯುಳ್ಳೊಡೆ ಪೋಗಿ ಬಳಿಯ ಬಾಗಿಲ ಕಾಯ್ದು ।\nಧರೆಯ ದಾನಕೆ ಕೈ ಒಡ್ಡುವನೇ ।।\nದೊರೆಯು ತಾನಾದರೆ ಪಾಂಡುಕುಮಾರನ ।\nತುರಂಗ ಬಂಡಿಯ ಬಾವನಾಗುವನೇ ರಂಗ ।।೫।।\n\n",english:"Ethara cheluva rangayya ||pa||\n\nHariyanemba maatige marulaadenallade ||a.pa||\n\nDeshakoshagalullode taa ksheerava |\nrashiyolage mane kattuvane ||\nhaasuvudake hasigeyullode taa |\nsheshana bennali malaguvane ranga ||1||\n\nBuddiya peluva pitanullode benne |\nkaddu choranendenisuvane ||\nbaddhavaahana tanaagiddare haaruva |\nhaddina meleri tiruguvane ranga ||2||\n\nHadeda taayi tanagullode gopara |\nodagoodi taru hindu kayuvane ||\nmadadiyu ullode adaviyoladuva |\nhudugiyara sanga maduvane ranga ||3||\n\nSangada udisida annaniddare nara |\n-singana roopava dharisuvane ||\nangada melina aseyiddode kaa|\nlingana maduvili dhumukuvane ranga ||4||\n\nSiriyullode pogi baliya baagila kaaydu |\ndhareya daanake kai odduvane ||\ndoreyu taanaadare pandukumarana |\nturanga bandiya baavanaguvane ranga ||5||\n\n",meta:"",tags:["narayana","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=9uKQ8-RLclQ"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಏತರ-ಚೆಲುವ-ರಂಗಯ್ಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

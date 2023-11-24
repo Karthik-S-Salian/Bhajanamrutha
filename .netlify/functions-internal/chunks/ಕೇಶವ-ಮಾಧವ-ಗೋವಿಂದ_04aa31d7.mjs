@@ -1,0 +1,10 @@
+const id = "ಕೇಶವ-ಮಾಧವ-ಗೋವಿಂದ";
+const collection = "bhajan";
+const data = {kannada_title:"ಕೇಶವ ಮಾಧವ ಗೋವಿಂದ",english_title:" Keshava madhava govinda",kannada:"ಕೇಶವ ಮಾಧವ ಗೋವಿಂದ ವಿಠಲೆಂಬ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ ||ಪ||\nದೋಷರಹಿತ ನರವೇಷವ ಧರಿಸಿದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ ||ಅ||\n\nಖಳನು ವೇದವನೊಯ್ಯೆ ಪೊಳೆವ ಕಾಯನಾದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nಘಳಿಲನೆ ಕೂರ್ಮ ತಾನಾಗಿ ಗಿರಿಯ ಪೊತ್ತ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nಇಳೆಯ ಕದ್ದಸುರನ ಕೋರೆದಾಡಿಲಿ ಕೊಂದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ ||\n\nಛಲದಿ ಕಂಭದಿ ಬಂದು ಅಸುರನ ಸೀಳಿದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nಬಲಿಯ ದಾನವ ಬೇಡಿ ನೆಲನ ಅಳೆದು ನಿಂದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nಲಲನೆಯನೊಯ್ಯೆ ತಾ ತಲೆಹತ್ತನ ಕೊಂದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nನೆಲಕೊತ್ತಿ ಕಂಸನ ಬಲವ ಸಂಹರಿಸಿದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ ||\n\nಪುಂಡತನದಿ ಪೋಗಿ ಪುರವನುರುಪಿ ಬಂದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nಲಂಡರ ಸದೆಯಲು ತುರಗವನೇರಿದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nಹಿಂಡುವೇದಗಳೆಲ್ಲ ಅರಸಿ ನೋಡಲು ಸಿಗದ ದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ\nಪಾಂಡುರಂಗ ನಮ್ಮ\nಪುರಂದರವಿಠಲ\nದಾಸಯ್ಯ ಬಂದ ಕಾಣೆ ||\n\n",english:"Keshava madhava govinda vittalemba dasayya banda kane||\n\nDosha rahita nara veshava dharisida dasayya banda kane||a.pa||\n\nKhalanu vedavanoyye poleva kayanada dasayya banda kane\nghalilane kurma tanagi giriya potta dasayya banda kane\nileya kaddasurana koredadali konda dasayya banda kane\nchaladi kambhadi bandu asurana silida dasayya banda kane||1||\nBaliya danava bedi nelana aledu ninda dasayya banda kane\nchaladi kshatriyara kula samharisida dasayya banda kane\nlalaneyanoyye ta tale hattarana konda dasayya banda kane\nnela kotti kamsana bala samharisida dasayya banda kane||2||\nPunda tanadi pogi puravanu rupi banda dasayya banda kane\nlandara sadeyalu turagavanerida dasayya banda kane\nhindu vedagalella arasi nodalu sigada dasayya banda kane\npanduranga namma\npurandara vittala\ndasayya banda kane||3||\n\nYoutube link\n:\nhttps://youtu.be/dtcGkvd_yf4\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional lyrics","kannada devotional song","krishna song","purandara dasarau"],media:"https://www.youtube.com/watch?v=dtcGkvd_yf4"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಕೇಶವ-ಮಾಧವ-ಗೋವಿಂದ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

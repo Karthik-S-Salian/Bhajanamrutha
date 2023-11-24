@@ -1,0 +1,10 @@
+const id = "ಒಲ್ಲೆನೋ-ಶ್ರೀಹರಿ-ಕೊಳ್ಳನೋ";
+const collection = "bhajan";
+const data = {kannada_title:"ಒಲ್ಲೆನೋ ಶ್ರೀಹರಿ ಕೊಳ್ಳನೋ",english_title:" Ollano shri hari kollano",kannada:"ಒಲ್ಲನೋ ಹರಿ ಕೊಳ್ಳನೋ\nಎಲ್ಲ ಸಾಧನವಿದ್ದು ತುಳಸಿ ಇಲ್ಲದ ಪೂಜೆ ||\nಸಿಂಧು ಶತಕೋಟಿ ಗಂಗೋದಕವಿದ್ದು\nಗಂಧ ಸುಪರಿಮಳ ವಸ್ತ್ರವಿದ್ದು\nಚಂದುಳ್ಳ ಆಭರಣ ಧೂಪದೀಪಗಳಿದ್ದು\nಬೃಂದಾವನ ಶ್ರೀ ತುಳಸಿ ಇಲ್ಲದ ಪೂಜೆ ||\nದಧಿಕ್ಷೀರ ಮೊದಲಾದ ಅಭಿಷೇಕಗಳಿದ್ದು\nಮಧುಪರ್ಕ ಪಂಚೋಪಚಾರವಿದ್ದು\nಮುದದಿಂದ ಮುದ್ದು ಶ್ರೀ ಕೃಷ್ಣನ ಪೂಜೆಗೆ\nಸದಮಲಳಾದ ಶ್ರೀ ತುಳಸಿ ಇಲ್ಲದ ಪೂಜೆ ||\nಮಂತ್ರ ಮಹಾಮಂತ್ರ ಪುರುಷಸೂಕ್ತಗಳಿದ್ದು\nತಂತು ತಪ್ಪದೆ ತಂತ್ರಸಾರವಿದ್ದು\nಸಂತತ ಸುಖಸಂಪೂರ್ಣನ ಪೂಜೆಗ-\nತ್ಯಂತ ಪ್ರಿಯಳಾದ ತುಳಸಿ ಇಲ್ಲದ ಪೂಜೆ ||\nಕಮಲ ಮಲ್ಲಿಗೆ ಜಾಜಿ ಸಂಪಿಗೆ ಕೇದಿಗೆ\nವಿಮಲ ಘಂಟೆ ಪಂಚವಾದ್ಯಗಳಿದ್ದು\nಅಮಲ ಪಂಚಪಕ್ಷ್ಯ ಪರಮಾನ್ನಗಳಿದ್ದು\nಕಮಲನಾಭನು ಶ್ರೀ ತುಳಸಿ ಇಲ್ಲದ ಪೂಜೆ ||\nಪೂಜೆಯ ಮಾಡದೆ ತುಳಸಿ ಮಂಜರಿಯಿಂದ\nಮೂಜಗದೊಡೆಯ ಮುರಾರಿಯನು\nರಾಜಾಧಿರಾಜನೆಂಬ ಮಂತ್ರ ಪುಷ್ಪಗಳಿಂದ\nಪೂಜಿಸಿದರು ಒಲ್ಲ ಪುರಂದರವಿಠಲನು ||\n\n",english:"Lyrics un English\n\nOllano shri hari kollano ||pa||\n\nElla sadhanaviddu tulasi illada puje ||a.pa||\n\nSindhu shata koti gangodakaviddu gandha su-parimala vastraviddu\nchandulla abharana dhupa dipagaliddu brndavana shri tulasi illada puje ||\n\nDadhi kshira modalada abhisekagaliddu madhuparka panchopacharaviddu mudadinda muddu shri krishna pujage sadamalalada shri tulasi illada puje||\n\nMantra hara mantra pushpa suktagaliddu tant tappade tantra saraviddu\nsantata sukha sampurna pujege atyanta priyalada tulasi illada puje||\n\nKamala mallige jaji sampige kedige vimala khande pancha vadyagaliddu\namala panchapakshya paramannagaliddu kamala nabhanu shri tulasi illada puje ||\n\nPujeya madade tulasi manjariyinda mu-jagadodeya murariyanu\nrajadi rajanenmba mantra pushpagalinda pujisidaru olla purandara vittalanu ||\n\nYoutube link\n:\nhttps://youtu.be/zIM47vlRIt4\nby Smt.Ranjani Hebbar\n\n",meta:"",tags:["kannada devotional song","kannada lyrics"],media:""};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಒಲ್ಲೆನೋ-ಶ್ರೀಹರಿ-ಕೊಳ್ಳನೋ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

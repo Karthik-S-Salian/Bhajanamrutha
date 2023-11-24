@@ -1,0 +1,10 @@
+const id = "ರತುನ-ದೊರಕಿತಲ್ಲ-ಎನಗೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ರತುನ ದೊರಕಿತಲ್ಲ ಎನಗೆ",english_title:" Ratuna dorakitalla enage",kannada:"ರತುನ ದೊರಕಿತಲ್ಲ ಎನಗೆ ದಿವ್ಯ-\nರತುನ ದೊರಕಿತಲ್ಲ ||ಪ||\n\nರತುನ ದೊರಕಿತು ಎನ್ನ ಜನ್ಮ ಪ-\nವಿತ್ರವಾಯಿತು ಈ ದಿನವು ನಾ\nಯತುನಗೈವುತ ಬರುತಿರಲು ಪ್ರ-\nಯತನವಿಲ್ಲದೆ ವಿಜಯರಾಯರೆಂಬ ||ಅ. ಪ||\n\nಪಥದಿ ನಾ ಬರುತಿರಲು ಥಳಥಳವೆಂದು\nಅತಿಕಾಂತಿ ಝಳಪಿಸಲು ಬೆರಗಾಗುತ್ತ\nಅತಿಚೋದ್ಯವ ಕಾಣಲು ಸೇವಿಸುತಿರೆ\nಸತತ ಕರಪಿಡಿದಾದರಿಸಿ ಮನೋ\nರಥವ ಪೂರೈಸುತಲಿ ದಿವ್ಯ ಸ-\nನ್ಮತಿಯ ಪಾಲಿಸಿ ಮೋಕ್ಷ ಸುಪಥವ\nಅತಿಶಯದಿ ತೋರುತಲಿ ಪೊರೆಯುವ ||೧||\n\nಜ್ಞಾನವೆಂಬೋ ಪುತ್ಥಳಿ ಕಂಬಿಯಲಿ\nಅಣಿಮುತ್ತಿನ ಭಕ್ತಿಲಿ ಸುಕೃತಮಾತಾ\nನಾನಾ ವಿಧ್ಹ್ ವಳದಲಿ ಸೇರಿಸುತಿರೆ\nಪ್ರಾಣಪದಕವೆಂಬ ಮಾಲಾನು-\nಮಾನವಿಲ್ಲದೆ ಕೊರಳಿಗ್ಹಾಕುತ\nಗಾನದಿಂ ಕುಣಿಯುತಲಿ ಪಾಡುತ\nದೀನ ಜನರುದ್ಧಾರ ಗಯ್ಯುವ ||೨||\n\nಶೋಧಿಸಿ ಗ್ರಂಥಗಳ ಸುಳಾದಿಯ\nಮೋದದಿಂದಲಿ ಬಹಳ ಕವಿತೇ ಮಾಡಿ\nಸಾಧುಜನಕೆ ಸುಕಾಲ ಆನಂದವಿತ್ತು\nವಾದಿ ಜನರನು ಗೆದ್ದು ವಾದಿಸಿ\nಮಾಧವ\nಜಗನ್ನಾಥವಿಠಲ\nನ\nಪಾದಕಮಲಕೆ ಮಧುಪನಂದದಿ\nಸಾದರದಿ ತೋರಿಸುತ ಮೆರೆಯುವ ||೩|\n\n",english:"Composer : Sri Jagannatha dasaru\n\nRatuna dorakitalla enage divya\nratuna dorakitalla ||pa||\n\nRatuna dorakitu enna janma\npavitravayitu ee dinavu naa\nyatunagaivuta barutiralu\nprayatanavillade vijayarayaremba ||a.pa||\n\nPathadi naa barutiralu thalathalavendu\narikanti jhalapisalu beragagutta\natichodyava kanalu sevisutire\nsatata karapididadarisi\nmanorathava pooraisutali divya\nsanmatiya palisi moksha supathava\natishayadi torutali poreyuva ||1||\n\nJnanavembo puthali kambiyali\nanimuttina bhaktili sukrutamata\nnana vidha valadali serisutire\npranapadakavemba malanu\nmanavillade koraligahkuta\nganadim kuniyurali paduta\ndeena janaruddhara gayyuva ||2||\n\nShodhisi granthagala suladiya\nmodadindali bahala kavite madi\nsadhujanake sukala anandavittu\nvadi janaranu geddu vadisi\nmadhava\njagannatha vittala\nna\npadakamalake madhupanandadi\nsadaradi torisuta mereyuva ||3||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=zJbAHZLgwV4"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ರತುನ-ದೊರಕಿತಲ್ಲ-ಎನಗೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

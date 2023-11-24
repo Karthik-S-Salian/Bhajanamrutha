@@ -1,0 +1,10 @@
+const id = "ನಮೋ-ನಮೋ-ಮಹೇಶ್ವರಿ";
+const collection = "bhajan";
+const data = {kannada_title:"ನಮೋ ನಮೋ ಮಹೇಶ್ವರಿ",english_title:" Namo namo maheshwari",kannada:"ಓ..ಓ..ಓ…ಜನನಿ, ಪಾಶಕೋದಂಡಧಾರಿಣಿ\nಸ್ರಿಷ್ಠಿ ಸಂಹಾರಕಾರಿಣಿ ಚಿತ್ತಕ್ಷೋಭವಿಮೋಚಣಿ\nಕೈಲಾಸವಾಸಿನಿ  ಮಹಾಲಕ್ಷ್ಮಿ, ಮಹಾದೇವಿ,\nಮಹಾಸರಸ್ವತಿ ರೂಪಿಣಿ\nಶರಣು ಶರಣು ಹೋ ಅಂಬಿಕಾ\nಭ್ರಮರಾಂಬಿಕ.., ಮೂಕಾಂಬಿಕಾ….ಆ..ಆ…\nಮೂಕಾಂಬಿಕಾ. …ಆ…\n\nನಮೋ ನಮೋ ಮಹೇಶ್ವರಿ ನಮೋ ಭವಾನಿ ಶಂಕರಿ |\nನಮೋ ಮ್ರಢಾನಿ ಈಶ್ವರಿ ನಮೋ ತ್ರಿಲೋಕ ಸುಂದರಿ |\nನಮೋ ನಮೋ ಮಹೇಶ್ವರಿ….||\n\nಅನಂತ ಭಾಗ್ಯದಾಯಿನಿ ಅನಂತ ಶೋಕಹಾರಿಣಿ\nಅನೇಕ ರೂಪಧಾರಿಣಿ ಅನಂತ ಜ್ಞಾನವಾಹಿಣಿ |\nತ್ರಿಲೋಕವೆಲ್ಲ ಬೆದರಿದೆ ತ್ರಿಲೋಕವಿಂದು ನಡುಗಿದೆ |\nತ್ರಿಲೋಚನಪ್ರಿಯೆ ಕ್ರಪಾಕಟಾಕ್ಷರಿ ನಿ ಕರುಣಿಸು\nಕ್ರಪಾಕಟಾಕ್ಷರಿ ನಿ ಕರುಣಿಸು….ಕರುಣಿಸು… ||\n||ನಮೋ ನಮೋ||\n\nನಿನ್ನಿಂದ ತಾನೆ ಲೋಕವು, ನಿನ್ನಿಂದ ತಾನೆ ನಾಕವು\nನಿನ್ನಿಂದ ದೇವಿ ಎಲ್ಲವು, ಶರ್ವಾಣಿ ನೀನೆ ಪ್ರಾಣವು |\nಅದೇನು ಪಾಪ ನಮ್ಮದು, ಅದೇನು ಕೋಪ ನಿನ್ನದು |\nನಮ್ಮನ್ನು ತಾಯೆ ಮನ್ನಿಸು ನಮ್ಮೆಲ್ಲರನ್ನು ರಕ್ಷಿಸು\n||ನಮೋ ನಮೋ||\nನಮ್ಮೆಲ್ಲರನ್ನು ರಕ್ಷಿಸು ಮಾತೆ ಮೂಕಾಂಬಿಕೆ, ತಾಯೇ…..ಭ್ರಮರಾಂಬಿಕೆ\n\n",english:"O …. O…… janani, paashakodandadharini, srushti samharakarini chittakshobhavimochani | kailasavasini mahalakshmi mahadevi maha saraswatiroopini |sharanu sharanu ho ambikaa, bhramarambika ….. mookambikaa …. aaa .. aa… mookambikaa … aa …\n\nNamo namo maheshwari namo bhavani shankari | namo mrudaani eshwari namo triloka sundari | namo namo maheshwari ….. ||\n\nAnanta bhagyadayini ananta shokaharini | aneka roopadharini anata jnaanavahni | trilokavella bedaride trilokavindu nadugide |trilochanapriye krupakataaksha nee karunisu, krupakataksha nee karunisu ….. karunisu …. || namo namo ||\n\nNinninda taane lokavu, ninninda taane nakavu | ninninda devi ellavu, sharvani neene pranavu | adenu paapa nammadu, adenu kopa ninnadu | nammannu taaye mannisu nammellarannu rakshisu || namo namo || nammellarannu rakshisu maate mookambike, taaye ….. bhramraambike\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=gconWRCu7wY"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ನಮೋ-ನಮೋ-ಮಹೇಶ್ವರಿ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

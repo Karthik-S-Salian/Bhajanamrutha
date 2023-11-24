@@ -1,0 +1,10 @@
+const id = "ಕಂಡೇನಾ-ಕನಸಿನಲೀ-ಗೋವಿಂದನಾ";
+const collection = "bhajan";
+const data = {kannada_title:"ಕಂಡೇನಾ ಕನಸಿನಲೀ ಗೋವಿಂದನಾ",english_title:"Kande na kanasinali govindana",kannada:"ಕಂಡೆ ನಾ ಕನಸಿನಲಿ ಗೋವಿಂದನ||pa||\n\nಕಂಡೆ ನಾ ಕನಸಿನಲಿ ಕನಕ ರತ್ನದ ಮಣಿಯ\nನಂದನ ಕಂದ ಮುಕುಂದನ ಚರಣವ||apa||\n\nಅಂದುಗೆ ಕಿರುಗೆಜ್ಜೆ ಘಲಿರೆಂಬ ವಾದ್ಯದಿ\nಬಂದು ಕಾಳಿಂಗನ ಹೆಡೆಯನೇರಿ\nಧಿಂ ಧಿಮಿ ಧಿಮಿಕೆಂಧು ತಾಳಗತಿಗಳಿಂದಾ –\n-ನಂದದಿ ಕುಣಿವ ಮುಕುಂದನ ಚರಣವ\n\nಉಟ್ಟ ಪೀತಾಂಬರ ಉಡಿಯ ಕಾಂಚಿಯ ಡಾಮ\nತೊಟ್ಟ ಮುತ್ತಿನ ಹಾರ ಕೌಸ್ತುಭವು\nಕಟ್ಟಿದ ವೈಜಯಂತಿ ತುಳಸಿ ವನಮಾಲೆ\nಇಟ್ಟ ದ್ವಾದಶನಾಮ ನಿಗಮ ಗೋಚರನ\n\nಕಿರು ಬೆರಳಿನ ಮುದ್ರೆ ಉಂಗುರ ಮುಂಗೈಯ\nಕರದಲಿ ಕಂಕಣ ನಲಿದೋಳುಗಳ\nವರ ಚತುರ್ಭುಜ ಶಂಖ ಚಕ್ರದಿ ಮೆರೆವನ\nನಿರತದಿ ಒಪ್ಪುವ ಕರುಣಾಮೂರುತಿಯ\n\nಬಣ್ಣದ ತುಟಿ ಭಾವ ರಚನೆಯ ಸುಳಿಪಲ್ಲು\nಸಣ್ಣ ನಗೆಯ ನುಡಿ ಸವಿಮಾತಿನ\nಪುಣ್ಯ ಚರಿತ್ರನ ಪೊಳೆವ ಕಿರೀಟವ\nಕಣ್ಣು ಮನ ತಣಿಯದು ಕಂಸಾರಿ ಕೃಷ್ಣನ\n\nಮಂಗಳ ವರ ತುಂಗಭದ್ರದಿ ಮೆರೆವನ\nಅಂಗಜಪಿತ ಶ್ರೀ ಲಕ್ಷ್ಮೀಪತಿಯ\nಶೃಂಗಾರಮೂರುತಿ ಪುರಂದರವಿಠಲನ\nಕಂಗಳಿಂದಲಿ ಕಂಡೆ ಹಿಂಗಿತು ಭವಭಯ\n\n",english:"Kande na kanasinali govindana||pa||\n\nKande na kanasinali kanaka ratnada maniya\nNandana kanda mukundana charanava||apa||\n\nAnduge kirugejje galiremba vadyadi\nBandu kalingana hedeyaneri\nDhim dhimi dhimikendhu talagatigalimda –\n-nandadi kuniva mukundana charanava ||\n\nUtta pitambara udiya kanchiya dama\nTotta muttina hara kaustubavu\nKattida vaijayanti tulasi vanamale\nItta dvadashanama nigama gocharana||\n\nKiru beralina mudre ungura mungaiya\nKaradali kankana nalidolugala\nVara chaturbuja shankha chakradi merevana\nNiratadi oppuva karunamurutiya||\n\nBannada tuti bhava rachaneya sulipallu\nSanna nageya nudi savimatina\nPunya charitrana poleva kiritava\nKannu mana taniyadu kamsari krushnana\n\nMangala vara tungabadradi merevana\nAngajapita sri lakshmipatiya\nSrungaramuruti purandaravithalana\nKangalindali kande hingitu bhavabhaya ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=nlyWiRpvmk0"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಕಂಡೇನಾ-ಕನಸಿನಲೀ-ಗೋವಿಂದನಾ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಬಾರಯ್ಯ-ಗೋವಿಂದ-ಬಂಧಕವ-ಬಿಡಿಸೋ";
+const collection = "bhajan";
+const data = {kannada_title:"ಬಾರಯ್ಯ ಗೋವಿಂದ ಬಂಧಕವ ಬಿಡಿಸೋ",english_title:" Baarayya govinda bandhakava bidiso",kannada:"ಬಾರಯ್ಯ ಗೋವಿಂದ ಬಂಧಕವ ಬಿಡಿಸೋ ||2||\nದೇಹವೆಂಬುವ ಬಂಡಿ ಎಳೆದು ಬಳಲಿದೆನೋ…\n||ಬಾರಯ್ಯ||\n\nಮಲಮೂತ್ರ  ದುರ್ಮಾಂಸ  ಕರುಳ ಒಳ ದುರ್ಗಂಧ\nಎಲುಬು ಗುಂಡಿಗೆ ಧ್ರತವು ಹೊದಿಕೆ ಚರ್ಮ |\nಇದರೊಳಗೆ ಸಿಕ್ಕಿದೆನು ಇನ್ನಾರು ಗತಿ ಎನಗೆ  |\nಬಿಡಿಸಯ್ಯಾ ಭವಬಂಧ  ಎನ್ನೊಡೆಯ ಗೋವಿಂದ\n||ಬಾರಯ್ಯ||\n\nಇನ್ನು ಜನ್ಮವು ಸಾಕು ಇದನ್ನು ವರ್ಜಿಸಬೇಕು\nಮನ್ಮಥನ ಠಾಣ್ಯವಿದು  ಮರುಳು ಮಾಡಿ |\nಅಂತಕನ ಪಟ್ಟನಕ್ಕೆ ಹಾದಿ ನೋಡುತ್ತಲಿದೆ ||2||\nದಯವಿಟ್ಟು ಸಲಹೋ ವೈಕುಂಠ ವಿಠ್ಠಲನೆ ||2||\n||ಬಾರಯ್ಯ||\n\nಅತಿಮೂರ್ಖ ನಾನಯ್ಯ ಅಜ್ಞಾನ ಬಿಡಿಸಯ್ಯಾ\nನಿಜವಲ್ಲ ಇ ಕಾಯ  ನಂಬಲಾರೆನಯ್ಯ |\nಭಯಪಟ್ಟು ನಿಮ್ಮ ಪಾದ  ಭಜಿಸಿದೆನು ನಾನಯ್ಯ |\nಶ್ರೀ ಚೆಲುವ ರಂಗಯ್ಯ ಸಲಹಬೇಕಯ್ಯ ||2||\n||ಬಾರಯ್ಯ||\n\nಕನಕದಾಸರ ಮನೆಯ ಕಸ ಗುಡಿಸೋ ಬಡ ದಾಸ\nಪುರಂದರದಾಸರಿಗೆ ಮಣಿ ಮಾಡೋ ದಾಸ  |\nನಿನ್ನ ನಂಬಿದ ದಾಸ ಎನ್ನ ಬಿಡುವುದು ಮೋಸ| |\nಕೈವಾರದ ಪುರವಾಸ, ಅಮರ ನಾರಯಣೇಶ ||2||\n||ಬಾರಯ್ಯ||\n\n",english:"Baarayya govinda bandhakava bidiso |\ndehavembuva bandi eledu balalideno || baarayya ||\n\nMalamootra durmamsa karula ola durgandha\nelubu gundige dhratavu, hodike charma |\nedarolage sikkedenu ennaaru gati enage |\nbidisayya bhavabandha ennodeya govinda ||baarayya ||\n\nInnu janmavu saaku, edannu vargisabeku\nmanmathana taanyavidu, marulu maadi |\nantakana pattanakke haadi noduttalide |\ndayavittu salaho vaikunta vittalane || baarayya ||\n\nAtimurkha naanayya, ajnaana bidisayya\nnijavalla ee kaaya, nambalaarenayya |\nbhayapattu nimma paada bhajisidenu naanayya |\nsri cheluva rangayya salahabekayya || baarayya ||\n\nKanakadasara maneya kasa gudiso bada daasa\npurandaradasarige mani maado dasa |\nninna nambida dasa enna biduvudu mosa |\nkaivarada puravasa, amara narayanesha || baarayya ||\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional song","krishna song"],media:"https://www.youtube.com/watch?v=p7ENIaitErs"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಬಾರಯ್ಯ-ಗೋವಿಂದ-ಬಂಧಕವ-ಬಿಡಿಸೋ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

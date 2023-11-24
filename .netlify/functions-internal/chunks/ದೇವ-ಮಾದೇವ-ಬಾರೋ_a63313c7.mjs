@@ -1,0 +1,10 @@
+const id = "ದೇವ-ಮಾದೇವ-ಬಾರೋ";
+const collection = "bhajan";
+const data = {kannada_title:"ದೇವ ಮಾದೇವ ಬಾರೋ",english_title:" Deva maadeva baaro",kannada:"ದೇವ ಮಾದೇವ ಬಾರೋ\nಸ್ವಾಮಿ ಮಲಯ ಮಾದೇವ ಬಾರೋ ||ದೇವ||\n\nಏಳೇಳು ಮಲೆಯ ಮೆರೆದೂ\nನಡುಮಲೆಯಲ್ಲಿ ನೆಲೆಗೊಂಡು||ಏಳೇಳು||\nನಗುನಗುತ ಕುಳಿತಿರುವ\n||ದೇವ||\n\nಚೆಲುವಾದ ಗಿರಿಯವನೇ ಸ್ವಾಮಿ ಚಿನ್ನಾದತೇರಿನವನೇ\nಎಪ್ಪತ್ತೇಳು ಮಲೆಯ ಒಡೆಯ ಎಣ್ಣೆಮಜ್ಜನಪ್ರಿಯ\nಹಾಲಡವಿಯಾ ಮೇಲೆ ವಾಲಾಡುವಾ ಸ್ವಾಮಿ\nಗಂಡುಲಿಯಾ ಬೆನ್ನೇರಿ ಮೆರೆದಾಡುವಾ ಸ್ವಾಮಿ\nದೇವಾಧಿದೇವರನೇ\nಕಾಪಾಡಿದ ಸ್ವಾಮಿ||ದೇವ||\n\nಅನವರತ ನಿನ್ನ ಲೀಲೆ ಹಾಡುವೆ ದಯೆಯಿರಲಿ\nನನ್ನ ಮೇಲೆ\nಈ ಬಡವನಾ ಮೊರೆಗೇ ಒಲಿದೂ ಬಾರಯ್ಯ\nನನ್ನ ಮನೆಗೆ\nಬಾಳಲ್ಲಿ‌ ಬಲು‌ನೊಂದು ಬಳಲಿರುವೇನೂ ತಂದೆ\nಧೀನದಯಾಸಿಂಧು\nನೀನೇ ಗತಿಯು ಮುಂದೆ ನೀ‌ ಬಂದು ನನ್ನೊಮ್ಮೆ\nಹರಸೆಂದು ಬೇಡುವೆ\n||ದೇವ||\n\nಏಳೇಳು‌ ಮಲೆಯ ಮೆರೆದು ನಡುಮಲೆಯಲಿ\nನೆಲೆಗೊಂಡು ||ಏಳೇಳು||\nನಗುನಗುತ ಕುಳಿತಿರುವ\n||ದೇವ|\n\n",english:"Check out the lyrics here\n..\n\nDeva Madeva Baaro Swami\nMaleya Madeva Baaro\nDeva Madeva Baaro Swami\nMaleya Madeva Baaro\nYelelu Maleya Meredu\nNadu Maleyalli Nelegondu\nYelelu Maleya Meredu\nNadu Maleyalli Nelegondu\nNagu Naguta Kulitiruva\nDeva Madeva Baaro Swami\nMaleya Madeva Baaro\n\nCheluvaada Giriyavane\nSwamy Chinnada Therinavane..\n\nYappatthelu Maleya Odeya\nYenne Majjanada Priya..\nAlaraviya Mele Valaduva Swami\nAa.. Ganduliya Benneri Meredaaduva Swami\nAlaraviya Mele Valaaduva Swami..\nGanduliya Benneri Meredaaduva Swami\nDevadhi Devarane Kaapadida Swami\n\nDeva Maadeva Baaro Swamy\nMaleya Maadeva Baaro\n\nAnavaratha Ninna Leele Haaduve\nDaye Irali Nanna Mele\n\nEe Badavana Morege Olidu\nBaarayya Nanna Manege..\nBaalalli Balu Nondu Balaliruvenu Thande\nDeena Dhaya Sindu Neene Gathiyu Munde\nBaalalli Balu Nondu Balaliruvenu Thande\nDeena Dhaya Sindu Neene Gathiyu Munde\nNee Bandu Nannomme Arasendu Beduve\n\n",meta:"",tags:["mahadeshwara","kannada devotional song"],media:"https://www.youtube.com/watch?v=vHxDUOpMXGs"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ದೇವ-ಮಾದೇವ-ಬಾರೋ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

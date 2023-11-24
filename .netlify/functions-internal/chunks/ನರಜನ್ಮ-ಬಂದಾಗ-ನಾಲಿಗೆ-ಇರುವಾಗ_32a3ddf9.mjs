@@ -1,0 +1,10 @@
+const id = "ನರಜನ್ಮ-ಬಂದಾಗ-ನಾಲಿಗೆ-ಇರುವಾಗ";
+const collection = "bhajan";
+const data = {kannada_title:"ನರಜನ್ಮ ಬಂದಾಗ ನಾಲಿಗೆ ಇರುವಾಗ",english_title:"Nara janma bandaga nalige iruvaga",kannada:"ನರಜನ್ಮ ಬಂದಾಗ ನಾಲಿಗೆ ಇರುವಾಗ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\nಕೃಷ್ಣನ ನೆನೆದರೆ ಕಷ್ಟವೊಂದಿಷ್ಟಿಲ್ಲ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\n\nಮಲಗಿದ್ದು ಮೈಮುರಿದೇಳುತ್ತಲೊಮ್ಮೆ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\nಸುಳಿದಾಡುತ್ತಾ ಮನೆಯೊಳಗಾದರೂ ಒಮ್ಮೆ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\n\nಸ್ನಾನಪಾನ ಜಪತಪಗಳ ಮಾಡುತ್ತ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\nಶಾಲ್ಯಾನ್ನ ಶಡುರಾನ್ನ ತಿಂದು ತೃಪ್ತರಾಗಿ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\n\nಮೇರೆ ತಪ್ಪಿ ಮಾತನಾಡುವಾಗಲೊಮ್ಮೆ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\nದಾರಿಯ ನಡೆವಾಗ ಭಾರವ ಹೊರುವಾಗ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\n\nದುರಿತ ರಾಶಿಗಳ ತರಿದು ಬಿಸಾಡುವ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\nಗರುಡಗಮನ ನಮ್ಮ\nಪುರಂದರ ವಿಠಲ\nನ್ನ ಕೃಷ್ಣಾ ಎನಬಾರದೆ\n\n",english:"Nara janma bandaga nalige iruvaga krishna enabarade |\nkrishna endare kashtavu parihara krishna enabarade ||\n\nMalagiddu maimurideluttalomme krishna enabarade|\nsulidaduta maneyolagadaromme krishna enabarade ||\n\nSnana pana japa tapagala maduta krishna enabarade|\nshalyanna shadurasa tindu truptanagi krishna enabarade||\n\nGandhava pusi tanbulava meluvaga krishna enabarade|\nchendulla hasigeyolu kulitomme krishna enabarade||\n\nKandanna bigibigidappi muddaduta krishna enabarade|\nmandagaminiyolu sarasavadutalomme krishna enabarade||\n\nMere tappi matanaduvagalomme krishna enabarade|\ndariya nadevaga bharava horuvaga krishna enabarade||\n\nParihasyada mata adutalomme krishna enabarade |\npari pari kelasadolu ondu kelasavendu krishna enabarade||\n\nDurita rashigalannu taridu bisaduva krishna enabarade|\ngarudagamana namma\npurandara vittala\nnna krishna enabarade||\n\n###################################################\n\nYoutube link\n:\nhttps://youtu.be/tDUgyk3PUrQ\nby Bellur sisters\n\n",meta:"",tags:["krishna","dasara padagalu","kannada devotional song","krishna"],media:"https://www.youtube.com/watch?v=tDUgyk3PUrQ"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ನರಜನ್ಮ-ಬಂದಾಗ-ನಾಲಿಗೆ-ಇರುವಾಗ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಶಿವ-ಶಿವ-ಶಿವ-ಎನ್ನಿರೊ";
+const collection = "bhajan";
+const data = {kannada_title:"ಶಿವ ಶಿವ ಶಿವ ಎನ್ನಿರೊ",english_title:"Shiva shiva shiva enniro",kannada:"ಶಿವ ಶಿವ ಶಿವ ಎನ್ನಿರೊ – ಮೂಜಗದವರೆಲ್ಲ ಶಿವ ಶಿವ ಶಿವ ಎನ್ನಿರೊ ||ಪ||\n\nಆಗಮ ಸಿದ್ಧಾಂತ ಮೂಲದ ಜಪವಿದು ಶಿವ ಶಿವ ಶಿವ  – ನಿಮ್ಮರೋಗದ ಮೂಲವ ಕೆಡಿಪ ಔಷಧವಿದು ಶಿವ ಶಿವ ಶಿವ  ||1||\n\nಮನುಜ ಜನ್ಮದಿ ಹುಟ್ಟಿ ಮೈಮರೆದಿರಬೇಡಿ ಶಿವ ಶಿವ ಶಿವ – ನಿಮ್ಮತನುಮನ ಪ್ರಾಣವ ವ್ಯರ್ಥವ ಮಾಡದೆ ಶಿವಶಿವಶಿವ ||2\n\nಅಪರಾಧ ಕೋಟಿ ತ್ಯಜಿಸಬೇಕಾದರೆ ಶಿವ ಶಿವ ಶಿವ  – ಮುಂದೆ ಉಪಮಿತರೋರ್ಮಿತರರಿಯದ ಜಪವಿದು ಶಿವ ಶಿವ ಶಿವ  ||3||\n\nಜವನ ಬಾಧೆಯ ನೀವು ಜಯಿಸಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  – ನಿಜಸವಿಮಲ ಮುಕ್ತಿಯ ಪಡೆಯಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  ||4||\n\nಭುವನಕೆ ಬಲ್ಲಿದರಾಗಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  – ನೀವು ಭವನ ಪದವಿಯನು ಪಡೆಯಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  ||5||\n\nಗುರುಲಿಂಗ ಜಂಗಮವ ಅರಿಯಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  – ಮುಂದೆ ಪರಮಾತ್ಮನ ನೀವು ತಿಳಿಯಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  ||6||\n\nಪೃಥ್ವಿಗೆ ಸದ್ಗುರು ಆಗಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  – ನೀವು ತತ್ತ್ವಪತಿ ಆದಿಕೇಶವನ ಕೂಡಬೇಕಾದರೆ ಶಿವಶಿವಶಿವ  ||7||\n\n",english:"Shiva shiva shiva enniro – moojagadavarella shiva shiva shiva enniro ||\n\nAgama siddhanta moolada japavidu    shiva shiva shiva  – nimma rogada moolava kedipa oushadhavidu shiva shiva shiva  ||1||\n\nManuja janmadi hutti mai mareyabedi shiva shiva shiva  – nimma tanumana pranava vyartava maadade shiva shiva shiva  ||\n\nAparadha koti tyajisabekadare shiva shiva shiva  –  munde upamitarormitarariyada japavidushiva  shiva shiva  ||\n\nJavana badheya neevu jayisabekaadare  shiva shiva shiva  – nijasavimala muktiya padeyabekaadare shiva shiva shiva ||\n\nBhuvanake ballidaragabekadare shiva shiva shiva  –  neevu bhavana padaviyanu padeyabekadare  shiva shiva shiva  ||\n\nGurulinga jangamava ariyabekadare shiva shiva shiva –  munde paramatmana neevu tiliyabekadare shiva shiva shiva ||\n\nPrutvige sadguru agabekadare  shiva shiva shiva – neevu tatvapati adikeshavana koodabekadare  shiva shiva shiva ||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=_pZxbyC8lYI"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಶಿವ-ಶಿವ-ಶಿವ-ಎನ್ನಿರೊ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಇರಬೇಕು-ಹರಿದಾಸರ-ಸಂಗ";
+const collection = "bhajan";
+const data = {kannada_title:"ಇರಬೇಕು ಹರಿದಾಸರ ಸಂಗ",english_title:" Irabeku haridasara sanga",kannada:"ಇರಬೇಕು ಹರಿದಾಸರ ಸಂಗ\nವರಜ್ಞಾನಿಗಳ ದಯ ಸಂಪಾದಿಸಬೇಕು |ಪ|\n\nಅತಿಜ್ಞಾನಿಯಾಗಿ ಹರಿಕಥೆಯ ಕೇಳಬೇಕು\nಯತಿಗಳ ಪಾದಕ್ಕೆ ಎರಗಬೇಕು\nಸತಿ ಸುತರಿದ್ದು ಮಮತೆಯನು ಬಿಡಬೇಕು\nಗತಿಯೆಂದು ಬಿಡದೆ ಹರಿಯ ಪೋಪರಸಂಗ |1|\n\nನಡೆ ಯಾತ್ರಿಯನಬೇಕು ನುಡಿ ನೇಮವಿರಬೇಕು\nಬಿಡದೆ ಹರಿಯ ಪೂಜೆಯ ಮಾಡಬೇಕು\nಅಡಿಗಡಿಗೆ ಬಂದು ಹರಿಗಡ್ಡ ಬೀಳಬೇಕು\nಬಿಡದೆ ಹರಿ ಭಜನೆಯ ಮಾಡುವರ ಸಂಗ |2|\n\nಹರಿ ಹರ ವಿರಂಚಿಯರ ಪರಿಯ ತಿಳಿಯಬೇಕು\nತರತಮದಿ ರುದ್ರ ಇಂದ್ರಾದಿಗಳ\nಅರಿಯದಿದ್ದರೆ ಗುರುಹಿರಿಯರ ಕೇಳಬೇಕು\nಪರಮಾನಂದದಲಿ ಓಲಾಡುವರ ಸಂಗ |3|\n\nಷಟ್ಕರ್ಮ ಮಾಡಬೇಕು ವೈಷ್ಣವನೊಲಿಸಬೇಕು   ಉತ್ಕಷ್ಟ ವೈರಾಗ್ಯಬೇಕು ದುಷ್ಟಸಂಗ ಬಿಡಬೇಕು\nವಿಷ್ಣುವಿನ ದಾಸರ ದಾಸನಾಗಲುಬೇಕು\nಎಷ್ಟು ಕಷ್ಟಬಂದರೂ ಹರಿಯ ಭಜಿಪರ  ಸಂಗ |4|\n\nಏಕಾಂತ ಕುಳ್ಳಿರಬೇಕು ಲೋಕವಾರ್ತೆ ಬಿಡಬೇಕು\nಲೋಕೈಕನಾಥನ ಭಜಿಸಬೇಕು\nಸಾಕು ಸಂಸಾರವೆಂದು ಕಕ್ಕುಲತೆ ಬೀಡಬೇಕು\nಶ್ರೀಕಾಂತ ಪುರಂದರ ವಿಠಲರಾಯನ ಸಂಗ |5|\n\n",english:"Irabeku haridasara sanga vara jnanigala daya sampadisa beku ||\n\nAti jnaniyagi harikatheya kelabeku |yatigala padakke eragabeku|\nsati sutariddu mamateyanu bidabeku|  gatiyendu bidade hari poparara sanga ||1||\n\nNade yatreyenabeku nudi nemavira beku | bidade hari pujeya madabeku| adigadige bandu harigadda beelabeku |bidade hari bhajaneya maduvara sanga ||2||\n\nHari hara virinchigala pariya tiliyalu beku |taratamadi rudra indraadigala\nariyadiddare guru hariyara kelabeku paramanandadi oladuvara sanga ||3||\n\nSadkarma madabeku vaishnavanolisa beku |utkrishta vairagya beku dushta sanga bida beku | vishnuvina  dasara dasanaga beku | eshtu kashta bandaru vishnu bhajipara sanga ||4||\n\nEkanta kullirabeku lokavarte bidabeku | lokaikanathana bhajisa beku\nsaaku samsaravendu kakulati bidabeku shrikanta purandara vittala dasara sanga ||5||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=pnlIiGSpqHc"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಇರಬೇಕು-ಹರಿದಾಸರ-ಸಂಗ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

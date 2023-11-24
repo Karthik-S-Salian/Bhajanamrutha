@@ -1,0 +1,10 @@
+const id = "ಸಂದಿತಯ್ಯಾ-ಪ್ರಾಯವು-ಸಂದಿತಯ್ಯಾ";
+const collection = "bhajan";
+const data = {kannada_title:"ಸಂದಿತಯ್ಯಾ ಪ್ರಾಯವು ಸಂದಿತಯ್ಯಾ",english_title:" Sanditayya prayavu sanditayya",kannada:"ಸಂದಿತಯ್ಯಾ ಪ್ರಾಯವು ಸಂದಿತಯ್ಯಾ ಕೃಷ್ಣಾ….|\nಒಂದು ದಿನವು ಸುಖವು ಇಲ್ಲ ಕುಂದಿ ಹೋದೆ ಕಷ್ಟದಿಂದ |\nಬಂಧನವನು ಬಿಡಿಸುದೆನ್ನ ತಂದೆ ನೀನೆ ರಕ್ಷಿಸಯ್ಯ ||\n||ಸಂದಿತಯ್ಯಾ||\n\nತಂದೆ ಉದರದಿ ಮೂರು ತಿಂಗಳು ಸಂದು ಹೋಯಿತು ತಿಳಿಯದೆ |\nಬೆಂದೆ ನವಮಾಸದೊಳು ಗರ್ಭದಿ ನಿಂದು ತಾಯಿಯ ಗರ್ಭದಿ |\nಕುಂದಿತಾಯುವು ಒಂದು ವರ್ಷ ಇಂದಿರೇಶನೆ ಕೇಳು ದುಃಖವ |\nಬಂಧನದೊಳಗೆ ನಿಂದೆನನುದಿನ ಮುಂದೆ ಮೋಕ್ಷದ ಮಾರ್ಗ ಕಾಣದೆ ||\n||ಸಂದಿತಯ್ಯಾ||\n\nಕತ್ತಲೆಯೊಳಿರಲಾರೆ ಎನುತಲಿ ಹೊತ್ತೆ ಹರಕೆಯ ನಿನ್ನೊಳು|\nನಿತ್ಯದಲಿ ಮಲಮೂತ್ರ ಬಾಲ್ಯದಿ ಹೊತ್ತು ಕಳೆದೆನು ಎನ್ನೊಳು |\nಮತ್ತೆ ಹದಿನಾರರ ಪ್ರಾಯದಿ ಉಕ್ಕಿ ನಡೆದೆನು ಧರೆಯೊಲು |\nಹತ್ತಿ ಸಂಸಾರದ ಮಾಯೆಯು ಸಿಕ್ಕಿದೆನು ಭವ ಬಲೆಯೊಳು ||\n||ಸಂದಿತಯ್ಯಾ||\n\nಎಡೆಬಿಡದೆ ಅನುದಿನವು ಪಾಪದ ಕಡಲೊಳಗೆ ನಾ ಬಿದ್ದೆನೊ |\nದಡವ ಕಾಣದೆ ದುಃಖದೊಳು ಬೆಂದೊಡಲೊಳಗೆ ನಾನೊಂದೆನೊ |\nಬಿಡದೆ ನಿನ್ನಯ ಧ್ಯಾನವೆಂದೆಂಬ ಹಡಗ ಏರಿಸು ಎಂದೆನೊ |\nದೃಡದಿ ನಿನ್ನಯ ಪಾದ ಸೇರಿಸೊ ಒಡೆಯ ಪುರಂದರ ವಿಠ್ಠಲ ||\n||ಸಂದಿತಯ್ಯಾ||\n\n",english:"Sanditayya prayavu sanditayya krishna …. | ondu dinavu sukhavu kundi hode kashtadinda | bandhanavanu bidisudenna tande neene rakshiseyya || sanditayya ||\n\nTande udaradi mooru tingalu sandu hoyitu tiliyade | bende navamaasadolu garbhadi nindu taayiya garbhadi | kunditaayuvu ondu varsha indireshane kelu dukhava | bandanadolage nindenanudina munde mokshada maarga kanade || sanditayya ||\n\nKattaleyoliralaare enutali hotte harakeya ninnolu | nityadali malamutra balyadi hottu kaledenu ennolu | matte hadinaarara prayadi ukki nadedenu dhareyolu | hatti samsarada mayeyu sikkidenu bhava baleyolu || sanditayya ||\n\nEdebidade anudinavu papada kadalolage naa biddeno | dadava kaanade dukhdolu bendodalolage naanondeno | bidade ninnaya dhyanavendemba hadaga arisu endeno | drudadi ninnaya paada seriso odeya purandara vittalaa …. || sanditayya ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=t7w1fDZHAnQ"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಸಂದಿತಯ್ಯಾ-ಪ್ರಾಯವು-ಸಂದಿತಯ್ಯಾ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

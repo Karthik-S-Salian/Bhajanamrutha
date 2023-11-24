@@ -1,0 +1,10 @@
+const id = "ಸತ್ಯವಂತರ-ಸಂಗವಿರಲು";
+const collection = "bhajan";
+const data = {kannada_title:"ಸತ್ಯವಂತರ ಸಂಗವಿರಲು",english_title:"Satyavantara sangaviralu",kannada:"ಸತ್ಯವಂತರ ಸಂಗವಿರಲು ತೀರ್ಥವೇತಕೆ\nನಿತ್ಯ ಅನ್ನದಾನವಿರಲು ಭಯವು ಏತಕೆ                ।।ಪ॥\n\nಗುರುಹಿರಿಯರ ಅರಿಯದವನ ಅರಿವದೇತಕೆ\nಪರಹಿತಾರ್ಥಕಿಲ್ಲದವನ ಶರೀರವೇತಕೆ\nಹರಿಯ ಪೂಜೆ ಮಾಡದವನ ಜನುಮವೇತಕೆ\nಸೇರಿದವರ ಹೊರೆಯದಂಥ ದೊರೆಯು ಏತಕೆ       ।।೧।।\n\nಮಾತು ಕೇಳದೆ ಮಲೆತು ನಡೆವ ಮಕ್ಕಳೇತಕೆ\nಭೀತನಾಗಿ ಓಡಿಬರುವ ಬಂಟಾನೇತಕೆ\nಪ್ರೀತಿ ಇಲ್ಲದೆ ಎಡೆಯನಲಿಕ್ಕಿದ ಊಟವೇತಕೆ\nಸೋತು ಹೆಣ್ಣಿಗೆ ಹೆದರಿ ನಡೆಯದ ಸುಗುಣನೇತಕೆ  ।।೨।।\n\nತಾನು ಉಣ್ಣದ ಪರರಿಗಿಕ್ಕದ ಧನವಿದ್ದೇತಕೆ\nಮಾನ ಹೀನನಾಗಿ ಬಾಳ್ವ ಮನುಜನೇತಕೆ\nನುಣ ಹೆಚ್ಚು ನೋಡುವಲ್ಲಿ ಇರುವುದೇತಕೆ\nತನ್ನ ಬಳಗವೆರಸಿ ಉಣ್ಣದ ಭಾಗ್ಯವೇತಕೆ              ।।೩।।\n\nತಾನು ತನ್ನನರಿಯದಂಥ ಪ್ರೌಢನೇತಕೆ\nಸ್ನಾನ ಸಂಧ್ಯಾನವಿಲ್ಲದ ಶೀಲವೇತಕೆ\nಜ್ಞಾನವಿಲ್ಲದೆ ನೂರುಕಾಲ ಬದುಕಲೇತಕೆ\nಧ್ಯಾನದೊಳಗೆ ಕೃಷ್ಣನಿಲ್ಲದ ತನುವಿದ್ದೇತಕೆ            ।।೪।।\n\nಸಂಜ್ಞೆಯರಿತು ನಡೆಯದಿರುವ ಸತಿ ಇದ್ದೇತಕೆ\nಭಿನ್ನವರಿತು ನಡೆಯದಂಥ ಸ್ನೇಹವೇತಕೆ\nಮುನ್ನ ಕೊಟ್ಟು ಪಡೆಯಲಿಲ್ಲ ಬಯಸಲೇತಕೆ\nಚೆನ್ನ ಆದಿಕೇಶವನಿರಲು ಬೇರೆ ದೈವವೇತಕೆ          ।।೫।।\n\n",english:"Satyavantara sangaviralu tirthavetake\nNitya annadanaviralu bayavu etake ||pa||\n\nGuruhiriyara ariyadavana arivadetake\nparahitarthakilladavana sariravetake\nhariya puje madadavana janumavetake\nseridavara horeyadantha doreyu etake ||1||\n\nMatu kelade maletu nadeva makkaletake\nbitanagi odibaruva bantanetake\npriti illade edeyanalikkida utavetake\nsotu hennige hedari nadeyada sugunanetake ||2||\n\nTanu unnada pararigikkada dhanaviddetake\nmaana hinanagi balva manujanetake\nnuna hecchu noduvalli iruvudetake\ntanna balagaverasi unnada bagyavetake ||3||\n\nTanu tannanariyadantha praudhanetake\nsnana samdhyanavillada silavetake\nJnanavillade nurukala badukaletake\ndhyanadolage krishnanillada tanuviddetake ||4||\n\nSanjeyaritu nadeyadiruva sati iddetake\nbinnavaritu nadeyadantha snehavetake\nmunna kottu padeyalilla bayasaletake\nchenna adikesavaniralu bere daivavetake ||5||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=6YGpPDKPzN4"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಸತ್ಯವಂತರ-ಸಂಗವಿರಲು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

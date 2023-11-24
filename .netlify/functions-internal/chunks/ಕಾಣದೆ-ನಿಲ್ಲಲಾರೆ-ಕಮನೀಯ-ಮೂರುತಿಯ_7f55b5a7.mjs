@@ -1,0 +1,10 @@
+const id = "ಕಾಣದೆ-ನಿಲ್ಲಲಾರೆ-ಕಮನೀಯ-ಮೂರುತಿಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ಕಾಣದೆ ನಿಲ್ಲಲಾರೆ ಕಮನೀಯ ಮೂರುತಿಯ",english_title:" Kaanade nillalaare kamaneeya murutiya",kannada:"ಕಾಣದೆ ನಿಲ್ಲಲಾರೆ, ಕಮನೀಯ ಮೂರುತಿಯ\nಪ್ರಾಣೇಶನ ತೋರೆ ಗಿಣಿಯೆ || ಪ ||\n\nಮಾಣಿಕ್ಯ ಪದಕವ ಮನ್ನಿಸಿ ನಿನಗೀವೆ\nಜಾಣೆ ಕೃಷ್ಣನ ತೋರೆ ಗಿಣಿಯೆ || ಅ.ಪ. ||\n\nಮಕರ ಕುಂಡಲಧರನ ಮಕರಧ್ವಜನ ಪಿತನ\nಮಕುಟ ಭೂಷಣನ ತೋರೆ ಗಿಣಿಯೆ\nಮಕರಾಕ್ಷ ಸಂಹರನ ಮಕರಾರಿ ರಕ್ಷಕನ\nಮಕರ ಶಿಕ್ಷಕನ ತೋರೆ ಗಿಣಿಯೆ || 1 ||\n\nಇಂದುಕುಲ ಪಾವನನ ಇಂದು ರವಿಲೋಚನನ\nಇಂದು ನೀ ಕರೆತಾರೆ ಗಿಣಿಯೆ\nಇಂದುಶೇಖರನು ತನ ಇಂದಿರೆಯರಸನ\nತಂದು ತೋರೆ ಮುದ್ದುಗಿಣಿಯೆ || 2 ||\n\nಒಂದು ನಿಮಿಷವೊಂದು ಯುಗವಾಗಿ ತೋರಿತೆ\nಸೌಂದರ್ಯನ ತೋರೆ ಗಿಣಿಯೆ\nಮಂದಮಾರುತ ಸೋಕೆ ಮರುಳುಗೊಂಡೆನೆ\nಎನ್ನಮಂದಿರಕೆ ಕರೆತಾರೆ ಗಿಣಿಯೆ  || 3 ||\n\nಕಾಯಜನ ಬಾಣದಲಿ ಕಾಯವೆಲ್ಲವು ಬಹಳ\nಘಾಯವಾಯಿತು ನೋಡೆ ಗಿಣಿಯೆ\nಮಾಯೆಗಳ ಮಾಡದೆ ಮಮತೆಯಿಂದಲಿ\nಎನ್ನನಾಯಕನ ಕರೆತಾರೆ ಗಿಣಿಯೆ || 4 ||\n\nಪಂಕಜೋದ್ಭವ ಪಿತನ ಪಂಕಜನಯನನ\nಪಂಕಜನಾಭನ ತೋರೆ ಗಿಣಿಯೆ\nಪಂಕಜಾಕ್ಷ ಸಿರಿಕೃಷ್ಣನ ಪದಪದ್ಮ\nಶಂಕೆಯಿಲ್ಲದೆ ತೋರೆ ಗಿಣಿಯೆ || 5 ||\n\n",english:"Kaanade nillalaare kamaneeya murutiya\npraneshana tore giniye ||pa||\n\nMaanikya padakava mannisi ninageeve\njaane krishnana tore giniye || a.pa. ||\n\nMakara kundaladharana makara dhwajana pitana\nmakuta bhushanana tore giniye\nmakaraksha samharana makaraari rakshakana\nmakara shikshakana tore giniye || 1 ||\n\nIndukula pavanana indu ravilochanana\nindu nee karetaare giniye\nindudushekharanu tanna Indireyarasana\ntandu tore muddu giniye ||2||\n\nOndu nimishavondu yugavagi torite\nsoundaryana tore giniye\nmandamaruta soke marulugondene\nenna mandirake karetaare giniye || 3 ||\n\nKaayajana baanadali kaayavellavu bahala\nghayavaayitu node giniye\nmayegala maadade mamateyindali\nenna nayakana karetaare giniye || 4||\n\nPankajodhbhava pitana pankajanayanana\npankajanabhana tore giniye\npankajaaksha sirikrishnana padapadma\nshankeyillade tore giniye || 5| ||\n\n",meta:"",tags:["narayana","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=SllMTGRsg9E"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಕಾಣದೆ-ನಿಲ್ಲಲಾರೆ-ಕಮನೀಯ-ಮೂರುತಿಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

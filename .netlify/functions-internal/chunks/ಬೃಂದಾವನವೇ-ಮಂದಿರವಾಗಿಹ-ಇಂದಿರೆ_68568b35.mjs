@@ -1,0 +1,10 @@
+const id = "ಬೃಂದಾವನವೇ-ಮಂದಿರವಾಗಿಹ-ಇಂದಿರೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ಬೃಂದಾವನವೇ ಮಂದಿರವಾಗಿಹ ಇಂದಿರೆ",english_title:" Brundavanave mandiravagiha indire",kannada:"ರಚನೆ: ಶ್ರೀ ಪುರಂದರದಾಸರು\n\nಬೃಂದಾವನವೇ ಮಂದಿರವಾಗಿಹ ಇಂದಿರೆ ಶ್ರೀ ತುಳಸಿ|ಪ|\nನಂದ ನಂದನ ಮುಕುಂದಗೆ ಪ್ರಿಯಳಾದ ಚಂದದ ಶ್ರೀ ತುಳಸಿ |ಅ.ಪ|\n\nತುಳಸಿಯ ವನದಲಿ ಹರಿ ಇಹನೆಂಬುದ ಶೃತಿ ಸಾರುತಿದೆ ಕೇಳಿ\nತುಳಸಿ ದರ್ಶನದಿಂದ ದುರಿತಗಳೆಲ್ಲವು ದೂರವಾಗುವುದು ಕೇಳಿ\nತುಳಸಿ ಸ್ಪರ್ಶವ ಮಾಡೇ, ದೇಹಪಾವನವೆಂದು ತಿಳಿದುದಿಲ್ಲವೇ ಕೇಳಿ\nತುಳಸಿ ಸ್ಮರಣೆ ಮಾಡಿ ಸಕಲ ಇಷ್ಟವ ಪಡೆದು ಸುಖದಲಿ ನೀವು ಬಾಳಿ ||೧||\n\nಮೂಲ ಮೃತ್ತಿಕೆಯನು ಮುಖದಲಿ ಧರಿಸಲು ಮೂರ್ಲೋಕ ವಶವಹುದು\nಮಾಲೆ ಕೊರಳಲಿಟ್ಟ ಮನುಜಗೆ ಮುಕುತಿಯ ಮಾರ್ಗವು ತೋರುವುದು\nಕಾಲ ಕಾಲಗಳಲಿ ಮಾಡಿದ ದುಷ್ಕರ್ಮ ಕಳೆದು ಬಿಸುಟು ಪೋಗುವುದು\nಕಾಲನ ದೂತರ ಕಳಚಿ ಕೈವಲ್ಯದ ಲೀಲೆಯ ತೋರುವುದು ||೨\n\nಧರೆಯೊಳು ಸುಜನರ ಮರೆಯದೆ ಸಲಹುವ ವರಲಕ್ಷ್ಮೀ ಶ್ರೀ ತುಳಸಿ\nಪರಮಭಕ್ತರ ಘೋರ ಪಾಪಗಳ ತರಿದು ಪಾವನ ಮಾಡುವ ತುಳಸಿ\nಸಿರೀಯಾಯುಪುತ್ರಾದಿ ಸಂಫದಗಳನಿತ್ತು ಹರುಷ ನೀಡುವಳು ತುಳಸಿ\nಪುರಂದರ ವಿಠಲನ\nಚರಣ ಕಮಲಗಳ ಸ್ಮರಣೆ ಕೊಡುವಳು ತುಳಸಿ||೩||\n\n",english:"Composer : Sri purandara dasaru\n\nBrundavanave mandiravagiha indire sri tulasi|pa|\nnanda nandana mukundage priyalada chandada sri tulasi |a.pa|\n\nTulasiya vanadali hari ihanembuda shruti sarutide keli |\ntulasi darshanadinda duritagalellavu duravaguvudu keli |\ntulasi sparshava made, dehapavanavendu tilidudillave keli |\ntulasi smarane madi sakala ishtava padedu sukadali nivu bali ||1||\n\nmula mruttikeyanu mukadali dharisalu murloka vashavahudu |\nmale koralalitta manujage mukutiya margavu toruvudu |\nkala kalagalali madida dushkarma kaledu bisutu poguvudu |\nkalana dutara kalachi kaivalyada leeleya toruvudu ||2 ||\n\nDhareyolu sujanara mareyade salahuva varalakshmI sri tulasi |\nparamabaktara gora papagala taridu pavana maduva tulasi|\nsiriyayuputradi sampadagalanittu harusha niduvalu tulasi |\npurandara vithalana\ncharana kamalagala smarane koduvalu tulasi||3||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=CPt2bpKOnmw"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಬೃಂದಾವನವೇ-ಮಂದಿರವಾಗಿಹ-ಇಂದಿರೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

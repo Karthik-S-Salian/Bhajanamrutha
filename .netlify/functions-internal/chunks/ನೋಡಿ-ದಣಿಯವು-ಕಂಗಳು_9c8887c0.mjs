@@ -1,0 +1,10 @@
+const id = "ನೋಡಿ-ದಣಿಯವು-ಕಂಗಳು";
+const collection = "bhajan";
+const data = {kannada_title:"ನೋಡಿ ದಣಿಯವು ಕಂಗಳು",english_title:" nodi daniyavu kangalu",kannada:"ನೋಡಿ ದಣಿಯವು ಕಂಗಳು\nರೂಢಿಯೊಳಗತ್ಯಧಿಕ ರಂಗೇಶನತಿ ಚೆಲುವ || ಪ||\n\nಕೆಂದಾವರೆಯ ಪೋಲ್ವ ಪದಗಳಿಗೆ\nನವರತ್ನ ಅಂದುಗೆಯ ಮೇಲೆ ಹೊಂಗೆಜ್ಜೆ\nಪೊಳೆಯೆ ಅಂದದಿಂ ಸಕಲ ದೇವೋತ್ತಮರ\nಮುಕುಟದೊಲವಿಂದ ಬೆಳಗುತಿಹ ಕೋಮಲ ಪದಾಬ್ಜಗಳ ||\n\nಥಳಥಳಿಪ ಶಶಿಯ ಕಾಂತಿಯ ಜರೆವ ಮುಖಕಾಂತಿ\nಪೊಳೆವ ಜಾನುವಿನ ಜಂಘೆಯ ಸೊಂಪಿನ\nಪೊಳೆವ ಊರುಗಳ ಪೀತಾಂಬರಾಹಿತ ಮಧ್ಯ\nಸುಳಿನಾಭಿ ತ್ರಿವಳಿ ಮಣಿಖಚಿತ ವೃಂದಗಳ ಮಿಗೆ ||\n\nಶ್ರೀ ವತ್ಸಲಾಂಛನ ಕುಂಡಲ ಪ್ರಭೆಯು\nಶ್ರೀ ವಾಸುದೇವನ ಸ್ಮಿತ ವದನದ\nಪಾವನಾತ್ಮಕನ ಚಂಪಕ ನಾಸಿಕದ ಬೆಡಗು\nದೇವದೇವನ ನಯನಗಳ ಕಡು ಚೆಲುವ ||\n\nಮದನಕಾರ್ಮುಕಕೆ ಮಾರ್ಮಲೆವ  ಪುರ್ಬಿನ ಗಾಡಿ\nಮುದವೀವ ಕರ್ಣಕುಂಡಲವು ಪೊಳೆಯೆ\nಪದುಮನಾಭನ ಪಣೆಯ ಕಸ್ತೂರಿತಿಲಕವನು\nಯದುಕುಲೋತ್ತಮನ ಮಣಿ ಖಚಿತ ವೃಂದಗಳ ಮಿಗೆ ||\n\nಉಭಯ ಕಾವೇರಿ ಮಧ್ಯದಿ ಶೇಷ ತಲ್ಪದೊಳು\nಶುಭ ಕ್ರಿಯಾಮೃತ ಶ್ರೀ ಲತಾಂಗಿ ಸಹಿತ\nಅಭಯವನು ಭಕುತರಿಗೆ ಅನವರತ  ಕರೆದೀವ\nಪುರಂದರವಿಠಲ\nನ ಪದಯುಗಳ ಕಡು ಚೆಲುವ ||\n\n",english:"Composer : Purandara dasaru\n\nNodi daniyavu kangalu\nroodhiyolagatyadika rangeshanati cheluva ||pa||\n\nKendavareya polva padagalige\nnavaratna andugeya mele hoogejje\npoleye andadim sakala devottamara\nmukutadolavinda belagutiha komala padabjagala ||\n\nThalathalipa shashiya kantiya jareva\nmukhakanti poleva januvina jangheya\nsompina poleva oorugala peetambarahita madhya\nsulinabhi trivali manikhachita vrundagala mige||\n\nSri vatsalanchana kundala prabheyu\nsri vasudevana smitavadanada pavanatmaka\nchampakanasikada bedagu\ndevadevana nayanagala kadu cheluva ||\n\nMadanakarmukake marmaleva\npurbina gadi mudaveeva karnakundalavu\npoleye padumanabhana paneya kasturi tilakavanu\nyadukulottamana manikhachita vrundagala mige||\n\nUbhaya kaverimadhyadi sheshatalpadolu\nshubha kriyamruta sri latangi sahita\nabhyavanu bhakutarige anavarata\nkaredeeva\npurandaravittalana\npadayugala kadu cheluva ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=PjxvMVmejEc"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ನೋಡಿ-ದಣಿಯವು-ಕಂಗಳು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

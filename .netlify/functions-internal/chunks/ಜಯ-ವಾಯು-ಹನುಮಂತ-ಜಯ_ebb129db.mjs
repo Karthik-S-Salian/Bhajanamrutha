@@ -1,0 +1,10 @@
+const id = "ಜಯ-ವಾಯು-ಹನುಮಂತ-ಜಯ";
+const collection = "bhajan";
+const data = {kannada_title:"ಜಯ ವಾಯು ಹನುಮಂತ ಜಯ",english_title:" Jaya vayu hanumantha jaya",kannada:"ಜಯ ವಾಯು ಹನುಮಂತ ಜಯ ಭೀಮ ಬಲವಂತ\nಜಯ ಪೂರ್ಣ ಮತಿವಂತ ಜಯ ಸಲಹೋ ಸಂತ\n\nಅಂಜನೆಯಲಿ ಹುಟ್ಟಿ ಅಂದು ರಾಮನ ಸೇವೆ\nನಂದದಲಿ ಮಾಡಿ ಕಪಿ ಬಲವ ಕೂಡಿ\nಸಿಂಧು ಲಂಘಿಸಿ ಕಳರ ವನವ ಭಂಗಿಸಿ ಸೀತೆ\nಗುಂಗುರವ ಕೊಟ್ಟೆ ಲಂಕಾಪುರವ ಸುಟ್ಟೆ\n\nದ್ವಾಪರಾಂತ್ಯದಿ ಪಾಂಡು ಭೂಪನಾತ್ಮಜನೆನಿಸಿ\nಶ್ರೀ ಪಾರ್ಥಸಾರಥಿಯ ಭಜಕ ನೀನಾದೆ\nಪಾಪಿ ಮಾಗಧ ಬಕರ ಕೀಚಕ ಹಿಡಿಂಬಕರ\nಕೋಪದಿಂದಲಿ ತರಿದೆ ಮೂರ್ಜಗದಿ ಮೆರೆದೆ\n\nಹರಿಗೆ ಚೂಡಾಮಣಿಯನಿತ್ತು ಹರಿಗಳ ಕೂಡಿ\nಶರಧಿಯನು ಕಟ್ಟಿ ಅರಿಬಲವನು ಕುಟ್ಟಿ\nಉರಗ ಬಂಧದಿಂದ ಕಪಿವರ್ಯಾರು ಮೈ ಮರಿಯೆ\nಗಿರಿಯ ಸಂಜೀವನವ ತಂದು ಬದುಕಿಸಿದ\n\nಧುರದಲಿ ದುರ್ಯೋಧನನ ಬಲವನು ತಿಳಿದೆ\nಅರಿತು ದುಷ್ಯಾಸನನ ಒಡಲನು ಬಗಿದೆ\nಉರವ ತಪ್ಪಿಸಿ ಕೌರವನ ತೊಡೆಗಳ ಮುರಿದೆ\nಹರಿಯ ಕಿಂಕರ ದುರಂಧರಗಾರು ಸರಿಯೆ\n\nಕಲಿಯುಗದ ಬಲು ಕಳ್ಳರುದಿಸಿ ದುರ್ಮತಗಳನು\nಬಲಿಸಿ ಶ್ರೀ ಹರಿಯ ಗುಣಗಳನು ಮರೆಸಿ\nಕಲಿಯನುಸರಿಸಲು ಗುರುವಾಗಿ ಅವತರಿಸಿ\nಖಳರ ದುರ್ಮತ ಮುರಿದೆ ಶ್ರೀ ಕೃಷ್ಣ ಪರನೆಂದೆ\n\n",english:"Jaya vayu hanumantha jaya bheema balavantha\njaya purna mativantha jaya salaho santha  ||pa||\n\nAnjaneyali hutti andu ramana seve\nnandadindali maadi kapi balava kudi\nsindhu langisi kalara vana bhangisi seete-\ndungurava kotti lankapurava sutti  || 1||\n\nHarige chudamani yanitthu harigala kudi\nsharadiyanu katti aribalavanu kutti\nuraga bandandinda kapivararu maimareye\ngiriya sanjivanava thandhu badukisida || 2||\n\nDwaparanthyadalli paandu bhupanatmanendenisi\nsripartha sarathiya bajaka neenade\npaapi baka keechaka hidimbakara\nkopadindali taride murjjagadi merede  || 3||\n\nDhuradali duryodhanana bhalavanu thilide\naritu dushaasanana odalanu bagede\nurava tappisi kauravanna thodegala muride\nhariya kinkara durandharagaaru sariye  || 4||\n\nKali yugadali kallarudisi durmatigalanu balisi\nsri hariya gunagala maresi\nkaliyabbu sarisalu guruvaagi avatarisi\nkalara durmata muride srikrishna paranende || 5||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=_tZiMvnokjA"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಜಯ-ವಾಯು-ಹನುಮಂತ-ಜಯ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

@@ -1,0 +1,10 @@
+const id = "ಹಣ್ಣು-ತಾ-ಬೆಣ್ಣೆ-ತಾ-ಗೋಪೆಮ್ಮಾ";
+const collection = "bhajan";
+const data = {kannada_title:"ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ಗೋಪೆಮ್ಮಾ",english_title:"Hannu ta benne ta",kannada:"ಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ, ಗೋಪಮ್ಮ\nಹಣ್ಣು ತಾ ಬೆಣ್ಣೆ ತಾ ||ಪ||\nಅಡವಿಯೊಳಗೆ ಅಸುರನ ಕೊಂದ ಕೈಗೆ\nಮಡುವಿನೊಳಗೆ ಮಕರನ ಸೀಳ್ದ ಕೈಗೆ\nಪೊಡವಿಯೊಳಗೆ ಚೆಂಡನಾಡಿದ ಕೈಗೆ\nಕಡುಬೇಗದಿಂದಲಿ ಬೇಡಿದ ಕೈಗೆ ||\nಶಂಖಚಕ್ರಗಳನು ಪಿಡಿದಂಥ ಕೈಗೆ\nಶಂಕೆಯಿಲ್ಲದೆ ಮಾವನ ಕೊಂದ ಕೈಗೆ\nಬಿಂಕದಿಂದಲಿ ಕೊಳಲೂದುವ ಕೈಗೆ\nಪಂಕಜ ಮುಖಿಯರ ಕುಣಿಸುವ ಕೈಗೆ ||\nದಿಟ್ಟತನದಿ ಬೆಟ್ಟವೆತ್ತಿದ ಕೈಗೆ\nಸೃಷ್ಟಿಯ ದಾನವ ಬೇಡಿದ ಕೈಗೆ\nದುಷ್ಟ ಭೂಪರನೆಲ್ಲ ಮಡುಹಿದ ಕೈಗೆ\nಕೆಟ್ಟ ದಾನವರನ್ನು ಬಡಿದಂಥ ಕೈಗೆ ||\nಕಾಳಿಯ ಮಡುವನು ಕಲಕಿದ ಕೈಗೆ\nಸೋಳ ಸಾಸಿರ ಗೋಪಿಯರಾಳಿದ ಕೈಗೆ\nಮೇಳದ ಭಕ್ತರುದ್ಧರಿಸುವ ಕೈಗೆ\nಏಳು ಗೂಳಿಯ ಗೆದ್ದ ಯದುಪತಿ ಕೈಗೆ ||\nಬಿಲ್ಲು ಬಾಣಗಳನ್ನು ಪಿಡಿದಂಥ ಕೈಗೆ\nಮಲ್ಲರ ಸಾಧನ ಮಾಡಿದ ಕೈಗೆ\nಎಲ್ಲ ದೇವರ ದೇವ ರಂಗನ ಕೈಗೆ\nಬಲ್ಲಿದ\nಪುರಂದರವಿಠಲ\nನ ಕೈಗೆ ||\n\n",english:"Hannu ta benne ta gopamma hannu ta benne ta||pa||\n\nAdaviyolage asurana konda kaige maduvinolage makarana silda kaige\npodaviyolage chendanadida kaige kadu bhekadindali bedida kaige||\nShankha chakragalanu pididanta kaige shankeyillade mavana konda kaige\nbinkadindali kolaluduva kaige pankaja mukhiyara kunisuva kaige||\nDittatanadi bettavettida kaige shrushtiya danava bedida kaige\ndushta bhuparanella maduhida kaige ketta danavarannu badidanda kaige||\nKaliya maduvanu kalakida kaige sola sasira gopiyaralida kaige\nmelada bhaktaruddharisuva kaige Elu guliya gedda yadupati kaige||\nBillu banagalannu pididanta kaige mallara sadhana madida kaige\nella devara deva rangana kaige ballida\npurandara vittala\nna kaige||\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nYoutube link :\nhttps://youtu.be/XGhhmbKDFnk\nby S.Janaki\n\n",meta:"",tags:["krishna","dasara padagalu","devotional songs","kannada devotional lyrics","kannada devotional song","krishna song","purandara dasarau","purandara dasaru"],media:"https://www.youtube.com/watch?v=XGhhmbKDFnk"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಹಣ್ಣು-ತಾ-ಬೆಣ್ಣೆ-ತಾ-ಗೋಪೆಮ್ಮಾ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

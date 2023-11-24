@@ -1,0 +1,10 @@
+const id = "ಶಂಭೋ-ಸ್ವಯಂಭುಸಂಭವ";
+const collection = "bhajan";
+const data = {kannada_title:"ಶಂಭೋ ಸ್ವಯಂಭುಸಂಭವ",english_title:" Shambo svayambhu",kannada:"ಶಂಭೋ ಸ್ವಯಂಭುಸಂಭವ ನಂಬಿದೆ ಕಾಯೋ\nಜಂಭಾರಿನುತ ಅಭ ||ಪ||\n\nಅಂಬರಪುರಹರ ಸಾಂಬ ತ್ರಿಯಂಬಕ\nಶಂಬರಾರಿರಿಪು ಗಂಭೀರ ಕರುಣೇ ||ಅಪ||\n\nಭಸಿತಭೂಷಿತ ಶರೀರ ಭಕ್ತರಾಧಾರ\nವಿಷಕಂಠ ದುರಿತಹರ |ಪಶುಪತಿ ಫಣಿಪಹಾರ ಪಾವನಕರ |ತ್ರಿಶೂಲ ಡಮರುಗಧರ\nನೋಸಲನಯನ ವಿಕಸಿತ ಅಂಬುಜ ಮುಖ\nಶಶಿಧರ ಮೂಕ ರಕ್ಕಸ ಮದಮದ೯ನ\nಘಸಣೆಗೊಳಿಸುವ ತಾಮಸವ ಕಳೆದು ಮಾನಸದಲಿ ರಂಗನ ಬಿಸಜಪಾದವ ತೋರೋ|| ೧||\n\nರಜತ ಪರ್ವತನಿವಾಸ ನಿರ್ಮಲ ಭಾಸ\nಗಜದೈತ್ಯ ನಾಶ ಗಿರೀಶ |ಸುಜನರ ಮನೂವಿಲಾಸ ವ್ಯೋಮಕೇಶ |ತ್ರಿಜಗದಲ್ಲಣ ಗೌರೀಶ\nಅಜಸುತನಧ್ವರ ಭಜನೆಯ ಗೈಸಿದ\nಅಜಗರ ಮಂದಿರ ಗಜಮುಖ ಜನಕನೆ\nಗಜಗಮನನ ತನುಜನನ್ನು ಕಾಯ್ದವನೆ\nವಜ್ರಮುನಿ ವಂದಿತ ಭಾಜಿಸುವೆ ನಿನ್ನ ||೨||\n\nಮಧುರಾಪುರಿ ನಿಲಯ ಮೃತ್ಯು೦ಜಯ\nಸದಮಲ ಸುಮನಸಗೆಯ |ಸದಾ ನಮಿಪರ ಹೃದಯಸ್ತ ಚಕ್ಕನಾಥ |ಸದೆ ಪಾಪ ಕೊಡು ಅಭಯ\nಸದಾಶಿವ ಜಾನ್ಹವಿಧರ ಕೃತಮಾಲಾ |ನದಿತೀರದಿ ವಾಸವಾಗಿಪ ಸೌಂದರ್ಯ |ಮಧುರಿಪು ವಿಜಯವಿಠಲ ಪದಾಬ್ಜಕೆ |\nಮಧುಪನೆನಿಪ ಪಂಚವದನ ಕೈಲಾಸ ||೩||\n\n",english:"Shambo svayambhu sambhava | nanbide kayo jambari nuta bava |pa|\n\nAambarapura hara samba trayanbaka |sambararipu ganbira karuni | a.pa. |\n\nBasita bushita sharira baktaroddhara vishakantha duritahara |\npasupati panipa hara pavana kari trishula damaruga dhara |\nnosalanayana vikasitanbuja mooka shasidhara mata rakkasa mada mardana |\nphasanigolipa tamasava kaledu manasadali rangana bisaja padava toro | 1 |\n\nRajata parvata nivasa nirmala basha gajadaitya nasha girisha |\nsujanara mano vilasa vyomakesha trijagadallana gaurisha |\najasuta nadhvara bajaneya kediside | ajagara mandira gajamuka janakane |\ngajagamana | muni tanujara kaydane vrujamuni vandita bajisuve ninnanu | 2 |\n\nMadhurapura nilaya mrutyunjaya sadamala sumanageya |\nsada namipara hrudayadolagulla baya sadeyutta kodu abhaya\n| sadashiva janhavi dhara krutamala nadi teeradi vaasavagippa |\nsaundarya madhiripu vijaya vithalana padake madhupanenipa panchavadana kailasada | 3 |\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=5rg-98RFZWc"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಶಂಭೋ-ಸ್ವಯಂಭುಸಂಭವ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

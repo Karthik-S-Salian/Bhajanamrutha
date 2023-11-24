@@ -1,0 +1,10 @@
+const id = "ಇಷ್ಟು-ಪಾಪಗಳ-ಮಾಡಿದ್ದೆ-ಸಾಕು";
+const collection = "bhajan";
+const data = {kannada_title:"ಇಷ್ಟು ಪಾಪಗಳ ಮಾಡಿದ್ದೆ ಸಾಕು",english_title:"Eshtu paapagala maadidde",kannada:"ಇಷ್ಟು ಪಾಪಗಳ ಮಾಡಿದ್ದೆ ಸಾಕು\nಸೃಷ್ಟೀಶನೆ ಎನ್ನನುದ್ಧರಿಸಬೇಕು\n\nಒಡಲ ಕಿಚ್ಚಿಗೆ ಪರರ ಕಡು ನೋಯಿಸಿದೆ\nಕೊಡದೆ ಅನ್ಯರ ಋಣವನಪಹರಿಸಿದೆ\nಮಡದಿಯ ನುಡಿ ಕೇಳಿ ಒಡಹುಟ್ಟಿದವರೊಡನೆ\nಹಡೆದ ತಾಯಿಯ ಕೂಡೆ ಹಗೆ ಮಾಡಿದೆ\n\nಸ್ನಾನ ಸಂಧ್ಯಾದಿಗಳ ಮಾಡದಲೆ ಮೈಗೆಟ್ಟೆ\nಜ್ಞಾನ ಮಾರ್ಗವನಂತು ಮೊದಲೆ ಬಿಟ್ಟೆ\nಏನು ಪೇಳಲಿ ಪರರ ಮಾನಿನಿಗೆ ಮನಸಿಟ್ಟೆ\nಶ್ವಾನ ಸೂಕರರಂತೆ ಹೊರೆದೆ ಹೊಟ್ಟೆ\n\nವ್ರತ ನೇಮ ಉಪವಾಸ ಮಾಡಲಿಲ್ಲ\nಅತಿಥಿಗಳಿಗನ್ನವನು ನೀಡಲಿಲ್ಲ\nಶ್ರುತಿ ಶಾಸ್ತ್ರ ಪೌರಾಣ ಕಥೆಗಳನು ಕೇಳಲಿಲ್ಲ\nವೃಥವಾಗಿ ಬಹುಕಾಲ ಗತವಾಯಿತಲ್ಲ\n\nಶುದ್ಧ ವೈಷ್ಣವ ಕುಲದಲುದ್ಭವಿಸಿದೆ ನಾನು\nಮಧ್ವಮತ ಸಿದ್ದಾಂತ ಪದ್ದತಿಗಳ\nಬುದ್ಧಿಪೂರ್ವಕ ತಿಳಿಯದುದ್ದಂಡ ಕಾಯವನು\nವೃದ್ಧಿ ಮಾಡಿದೆನಯ್ಯ ಉದ್ಧರಿಸು ಹರಿಯೆ\n\nತಂದೆ ತಾಯ್ಗಳ ಸೇವೆಯೊಂದುದಿನ ಮಾಡಲಿಲ್ಲ\nಮಂದಭಾಗ್ಯಗೆ ಭವಣೆ ತಪ್ಪಲಿಲ್ಲ\nಹಿಂದೆ ಮಾಡಿದ ದೋಷ ಒಂದುಳಿಯದರುಹಿದೆನೊ\nತಂದೆ ಪುರಂದರವಿಠಲ ಬಂದೆನ್ನ ಸಲಹೊ\n\n",english:"Eshtu paapagala maadidde saaku srashteeshane enna uddarisabeku ||\n\nOdala kicchige parara kadu noyiside kodade anyara runavanapahariside madadiya nudi keli oda huttidavarodane | hadeda tayiya koode hage maadide ||\n\nSnana sandhyadigala madadale maigette |jnana margavanantu modale bitte | enu pelali parara maaninige manasitte | shwaana sookararante horede hotte ||\n\nVrata nema upavasa maadalilla | atithigaligannavanu needalilla | shruti shastra puraana kathegalanu kelalilla | vruthavagi bahukala gatavaayitalla ||\n\nShudda vaishnava kuladaludbhaviside  naanu | madhvamata sidhaanta paddatigala budhipoorvaka tiliyaduddanda kayavanu | vruddi maadidenayya uddarisu hariye ||\n\nTande taygala seveyondu dina madalilla | mandabhagyage bhavane tappalilla | hinde madida dosha onduliyadaruhideno tande purandara vittala bandenna dalaho ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=Si4A815Fpos"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಇಷ್ಟು-ಪಾಪಗಳ-ಮಾಡಿದ್ದೆ-ಸಾಕು.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

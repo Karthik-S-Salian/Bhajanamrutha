@@ -1,0 +1,10 @@
+const id = "ಋಣವೆಂಬ-ಸೂತಕವು-ಬಹು-ಬಾಧೆ-ಪಡಿಸುತಿದೆ";
+const collection = "bhajan";
+const data = {kannada_title:"ಋಣವೆಂಬ ಸೂತಕವು ಬಹು ಬಾಧೆ ಪಡಿಸುತಿದೆ",english_title:" Runavemba sutakavu bahu badhe padisutide",kannada:"ಋಣವೆಂಬ ಸೂತಕವು ಬಹು ಬಾಧೆ ಪಡಿಸುತಿದೆ ॥ಪ॥\nಗುಣನಿಧಿಯೆ ನೀನೆನ್ನ ಋಣವ ಪರಿಹರಿಸೋ  ॥ಅ.ಪ॥\n\nಕೊಟ್ಟವರು ಬಂದೆನ್ನ ನಿಷ್ಠುರಂಗಳನಾಡಿ\nಕೆಟ್ಟ ಬೈಗಳ ಬೈದು ಮನದಣಿಯಲು\nದಿಟ್ಟತನವನು ಬಿಟ್ಟು ಕಳೆಗುಂದಿದೆನಯ್ಯ\nಸೃಷ್ಟಿಗೊಡೆಯನೆ ಎನ್ನ ಋಣವ ಪರಿಹರಿಸೋ ॥೧॥\n\nಅವನ ಒಡವೆಯ ತಂದು ದಾನ ಧರ್ಮವ ಮಾಡೆ\nಅವಗಲ್ಲದೆ ಪುಣ್ಯ ಇವಗ್ಯಾವುದು\nಅವನ ಒಡವೆಗಳಿಂದ ತೀರ್ಥ ಯಾತ್ರೆಯ ಮಾಳ್ಪ\nಇವನ ಜೀವನ ಬಾಡಿಗೆತ್ತಿನಂದದಲಿ ॥೨॥\n\nಆಳಿದೊಡೆಯನ ಮಾತು ಕೇಳಿ ನಡೆಯಲು ಬಹುದು\nಊಳಿಗವ ಮಾಡಿ ಮನದಣಿಯಬಹುದು\nಕಾಳಗದಿ ಪೊಕ್ಕು ಕಡಿದಾಡಿ ಜಯಿಸಲುಬಹುದು\nಪೇಳಲಳವಲ್ಲ ಋಣದವಗೊಂದು ಸೊಲ್ಲ ॥೩॥\n\nಹೆತ್ತ ಸೂತಕ ಹತ್ತು ದಿನಗಳಿಗೆ ಪರಿಹಾರ\nಮೃತ್ಯು ಸೂತಕವು ಹನ್ನೊಂದು ದಿನಕೆ\nಮತ್ತೆ ಋಣ ಸೂತಕವು ಜನ್ಮಜನ್ಮಾಂತರಕೆ\nಎತ್ತ ಹೋದರು ಬಿಡದೆ ಬೆನ್ಹತ್ತಿ ಬಹುದು ॥೪॥\n\nಬಂಧುಬಳಗದ ಮುಂದೆ ಬಹುಮಾನವು ಹೋಗಿ\nಅಂದವಳಿದೆನೊ ಈ ವಿಧ ಋಣದೊಳು\nಇಂದಿರಾರಮಣ ಶ್ರೀ\nಪುರಂದರವಿಠಲ\nನೆ\nಇಂದೆನ್ನ ಋಣವ ಪರಿಹರಿಸಯ್ಯ ದೊರೆಯೆ  ॥೫॥\n\n",english:"R̥uṇavemba sūtakavu bahu bādhe paḍisutide ||pa||\n\nGuṇanidhiye nīnenna r̥uṇava pariharisō ||a.pa||\n\nKoṭṭavaru bandenna niṣhṭhuraṅgaḷanāḍi\nkeṭṭa baigaḷa baidu manadaṇiyalu\ndiṭṭatanavanu biṭṭu kaḷegundidenayya\nshr̥iṣṭigoḍeyane enna r̥uṇava pariharisō ||\n\nAvana oḍaveya tandu dāna dharmava māḍe\navagallade puṇya ivagyāvudu\navana oḍavegaḷinda tīrtha yātreya māḷpa\nivana jīvana bāḍigettinandadali ||\n\nĀḷidoḍeyana māatu kēḷi naḍeyalu bahudu\nūḷigava māḍi manadaṇiyabahudu\nkāḷagadi pokku kaḍidāḍi jayisalubahudu\npēḷalaḷavalla r̥ṇadavagondu solla ||\n\nHetta sūtaka hattu dinagaḷige parihāra\nmr̥tyu sūtakavu hannondu dinake\nmatte r̥uṇa sūtakavu janmajanmāntarake\netta hōdaru biḍade benhatti bahudu ||\n\nBandhubaḷagada munde bahumānavu hōgi\nandavaḷideno ī vidha r̥uṇadoḷu\nindirāramaṇa śrī\npurandaraviṭhala\nne\nindenna r̥uṇava pariharisayya doreye ||\n\n",meta:"",tags:["dasara padagalu","dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=chMv5IDxMzg"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಋಣವೆಂಬ-ಸೂತಕವು-ಬಹು-ಬಾಧೆ-ಪಡಿಸುತಿದೆ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

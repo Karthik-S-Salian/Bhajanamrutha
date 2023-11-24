@@ -1,0 +1,10 @@
+const id = "ಬಾರೆ-ವೆಂಕಟರಮಣಿ-ಶ್ರೀದೇವಿ";
+const collection = "bhajan";
+const data = {kannada_title:"ಬಾರೆ ವೆಂಕಟರಮಣಿ ಶ್ರೀದೇವಿ",english_title:" Baare venkataramani",kannada:"ಬಾರೆ ವೆಂಕಟರಮಣಿ ಶ್ರೀ ಶ್ರೀದೇವಿ ನೀ ಬಾರೆ ವೆಂಕಟರಮಣಿ ||ಪ||\n\nಬಾರೆ ವೆಂಕಟರಮಣಿ ಪಾರಾಯಣ ಕೇಳು ಚಾರು ವದನೆ ಉಪಹಾರ ಕಾಲಕ್ಕೆ ನಿತ್ಯ ||ಅ.ಪ||\n\nಏನು ಪುಣ್ಯವೆ ನಂದು ಪಾರಾಯಣ ನೀನು ಕೇಳುವಿ ಬಂದು\nಹೀನ ಮಾನವನಿಗೆ ನೀನು ಬರುವಿ ಎಂಬೊe ಜ್ಞಾನವಿಲ್ಲದೆ ಉಚ್ಚ ಸ್ಥಾನದೊಳಗೆ ಬಾರೆ ||\n\nಸ್ವಪ್ನದೊಳಗೆ ಬರುವಿ ಶ್ರೀದೇವಿ ನೀ ಕ್ಷಿಪ್ರದಿಂದಲಿ ಪೋಗುವಿ\nಸರ್ಪಶಯನ ನಮ್ಮಪ್ಪ ಗೋಕುಲ ಬಾಲ ಅಪ್ಪಿಕೊಳ್ಳುವ ಸುಖ ಒಪ್ಪಿಸಬೇಕಮ್ಮ ||\n\nಮಂಗಳಾಂಗಿಯೇ ನಿನ್ನ ನೋಡದೆ ಬಲು ಭಂಗಪಡುವೆನಮ್ಮ\nಗಂಗಜನಕ ಸಿರಿ ರಂಗನಂಕದಿ ಕೂತು ಭೃಂಗಕುಂತಳೆ ಹೃದಯಂಗಳದೊಳಗಾಡೆ ||\n\nಎಲ್ಲ ದೇವತೆಗಳನೆ ತಪಾದಿಯೆಪುಲ್ಲ ವಾರಿಜನಯನೆ\nಗೊಲ್ಲ ಬಾಲನ ಪಾದ ಪಲ್ಲವ ನೋಡದೆ ನಿಲ್ಲಲೊಲ್ಲದು ಮನಸೊಲ್ಲು ಲಾಲಿಸೆ ತಾಯೆ||\n\nಇಂದಿರೇಶನ ರಾಣಿ ಎನ್ನಯ ಮನೋ-ಮಂದಿರದೊಳು ಬಾ ನೀ\nನಂದಗೋಕುಲ ಬಾಲಾನಿಂದು ಕರದೊಳೆತ್ತಿತಂದು ತೋರಿಸೆ ಅರವಿಂದ ನಿಲಯೆ ಲಕ್ಷ್ಮಿ||\n\n",english:"Baare venkataramani |Sri  shreedevi nee | baare venkataramani || pa ||\n\nBaare venkataramani paaraayana kele | charu vadane upahaara kaalake nitya || a. Pa.||\n\nEnu punyave nandu paaraayana | neene keluvi bandu |\nHeena maanavanige neene baruvi embo | jnaanavillavo uccha sthaanadolu koode || 1 ||\n\nSwapnadolage baruvi | shreedevi nee kshipradinadali poguvi |\nSarpashayana nammappa gokulabaalan- | appi kolluva sukha oppisu begane || 2 ||\n\nElla devategalanu tadediye | phulla vaarija nayane |\nGolla baalana paada | pallava kaanade nillalollado mana | solla solla laalise taayi || 3 ||\n\nMangalaangiye ninna | nodade | bhanga paduvenamma |\nGanga janaka siri ranganankadi kulitu | bhrunga kuntale hrudayadangaladolu aade || 4 ||\n\nIndireshana raani | nee enna  mana mandiradolu baa nee |\nNanda gokula baala nindu karadoletti | tandu torise aravinda nilaye lakshmi || 5 ||\n\n",meta:"",tags:["dasara padagalu","kannada devotional song"],media:"https://www.youtube.com/watch?v=pLrUOIR7tvk"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಬಾರೆ-ವೆಂಕಟರಮಣಿ-ಶ್ರೀದೇವಿ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };

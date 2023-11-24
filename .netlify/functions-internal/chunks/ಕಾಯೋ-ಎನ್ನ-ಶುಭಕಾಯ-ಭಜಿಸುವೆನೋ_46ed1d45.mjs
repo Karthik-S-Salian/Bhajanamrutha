@@ -1,0 +1,10 @@
+const id = "ಕಾಯೋ-ಎನ್ನ-ಶುಭಕಾಯ-ಭಜಿಸುವೆನೋ";
+const collection = "bhajan";
+const data = {kannada_title:"ಕಾಯೋ ಎನ್ನ ಶುಭಕಾಯ ಭಜಿಸುವೆನೋ",english_title:" Kaayo enna shubhakaya bhajisuveno",kannada:"ಕಾಯೋ ಎನ್ನ ಶುಭಕಾಯ ಭಜಿಸುವೆನೋ..\nರಾಘವೇಂದ್ರಾ…ಯತಿರಾಜಾ…\nಗುರುಾಜಾ…ಯತಿರಾಜಾ…\n\nಕಾಯೋ ಎನ್ನ ಶುಭಕಾಯ ಭಜಿಸುವೆನು ||2||\nಮಾಯ ತನಕೆ ಚಂದ್ರಾ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ\nಭೋ ಯತಿ ವರದೇಂದ್ರ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ ||ಭೋ||\n\nಕಂಡ ಕಂಡ ಕಡೆಗೇ ,ತಿರುಗಿ ಬೆಂಡಾದೆನು ಕೊನೆಗೇ… ||\nಕಂಡ ಕಂಡವರನು ಕೊಂಡಾಡುತ ನಿಮ್ಮ || 2 ||\nಕಂಡೆ ಕಟ್ಟ ಕಡೆಗೇ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ ||\nಭೋ ಯತಿ ವರದೇಂದ್ರ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ ||\n\nನಿಯಮವು ಎನಗೆಲ್ಲೀ ಇರುವುದು ಆ ಕಾಮಾಧಮನಲ್ಲಿ |\nಭೋ ಮಹಾಮಹಿಮನೆ ಪಾಮರ ನಾ ನಿಮ್ಮ |\nನಾಮ ಒಂದೇ ಬಲ್ಲೆ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ |\nಭೋ ಮಹಾ ಮಹಿಮನೆ ಪಾಮರ ನಾ ನಿಮ್ಮ |\nನಾಮ ಒಂದೇ ಬಲ್ಲೇ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ ||\n\nಭೋ ಯತಿ ವರದೇಂದ್ರ\nಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ ||ಭೋ||\n\nಮಂತ್ರವ ನಾನರಿಯೇ ಶ್ರೀ ಮನ್ ಮಂತ್ರಾಲಯ ದೊರೆಯೇ |\nಅಂತರಂಗದೊಳು ನಿಂತು ಪ್ರೇರಿಸುವ |\nಅನಂತ್ರಾಧೀಶನರಿಯೆ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ\nಭೋ ಯತಿ ವರದೇಂದ್ರ ಶ್ರೀ ಗುರು ರಾಯ ರಾಘವೇಂದ್ರ ||\n||ಕಾಯೋ||\n\n",english:"Kaayo enna shubhakaya bhajisuveno …. raghavendra …. yatiraja …. gururaja …. yatiraja ……\n\nKaayo enna shubhakaya bhajisuvenu | maya tanake chandra sri guru raghavendra | bho yati varadendra sri guru raaya raghavendra || bho ||\n\nKanda kanda kadege tirugi bendadenu konege … | kanda kandavaranu kondaduta nimma | kande katta kadege sri guru raya raghavendra | bho yati varadendra sri guru raaya raghavendra || bho ||\n\nNiyamavu enagelli a kamadhamanalli | bho mahamahimane pamara naa nimma | naama onde balle sri gururaya raghavendra | bho maha mahimane pamara naa nimma | naama onde balle sri gururaya raghavendra || bho yati varadendra sri guru raaya raghavendra || bho ||\n\nMantrava nanariye sri man mantralaya doreye | antarangadolu nintu prerisuva | anantraadheeshanariye sri gururaya raghavendra | bho yati varadendra sri guru raaya raghavendra || bho || kaayo ||\n\n",meta:"",tags:["kannada devotional song"],media:"https://www.youtube.com/watch?v=arux0JbxqN4"};
+const _internal = {
+	type: 'data',
+	filePath: "C:/Users/karth/Documents/Web Projects/Bhajanamrutha/src/content/bhajan/ಕಾಯೋ-ಎನ್ನ-ಶುಭಕಾಯ-ಭಜಿಸುವೆನೋ.json",
+	rawData: "",
+};
+
+export { _internal, collection, data, id };
