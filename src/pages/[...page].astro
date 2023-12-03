@@ -3,7 +3,6 @@ import Layout from "@layouts/Layout.astro";
 import BhajanList from "@components/BhajanList.astro";
 import Hero from "@components/Hero.astro";
 import { getCollection } from 'astro:content';
-import jsonLDGenerator from "@lib/jsonLD";
 
 // temperory solution to shut unkown type error for paginate😶‍🌫️
 type PaginateFunction<T> = (data: T[], options: { pageSize: number }) => T[];
@@ -17,7 +16,7 @@ const { page } = Astro.props;
 ---
 
 <Layout title="Bhajanamrutha">
-    <main class="flex gap-8 flex-col mx-6">
+    <main class="flex gap-8 flex-col">
         <Hero />
         <BhajanList
             songList={page.data}
